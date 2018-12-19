@@ -9,14 +9,14 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.07058823529,
-            "green": 0.03921568627,
+            "blue": 0.07058823528999997,
+            "green": 0.03921568626999999,
             "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Montserrat-Regular",
+              "name": "Roboto-Regular",
               "size": 28
             }
           },
@@ -58,7 +58,7 @@
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{3, 9}, {71, 21}}",
+  "glyphBounds": "{{2, 8}, {62, 21}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -72,7 +72,6 @@
   "resizingConstraint": 43,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "E72F895C-9B83-4264-A37B-DCA581B5A704",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -85,14 +84,14 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.07058823529,
-          "green": 0.03921568627,
+          "blue": 0.07058823528999997,
+          "green": 0.03921568626999999,
           "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Montserrat-Regular",
+            "name": "Roboto-Regular",
             "size": 28
           }
         },

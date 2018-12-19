@@ -17,10 +17,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "A2426619-9F0B-4FFC-B1E3-4486422D10B6",
-    "height": 32,
-    "width": 92.00000000000003,
-    "x": 0,
-    "y": 0
+    "height": 28,
+    "width": 70,
+    "x": 4,
+    "y": 2
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -34,15 +34,11 @@
     {
       "class": "shapeGroup",
       "id": "E68D60B6-1023-4508-91A3-F16C2217E932"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "C52572A2-ACBF-4753-90CC-1A6BA2482A28"
     }
   ],
   "name": "Border",
   "nameIsFixed": true,
-  "resizingConstraint": 63,
+  "resizingConstraint": 18,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

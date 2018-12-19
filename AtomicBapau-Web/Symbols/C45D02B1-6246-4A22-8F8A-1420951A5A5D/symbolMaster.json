@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 3211,
+  "changeIdentifier": 3412,
   "clippingMaskMode": 0,
   "do_objectID": "C45D02B1-6246-4A22-8F8A-1420951A5A5D",
   "exportOptions": {
@@ -24,9 +24,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 36,
-    "width": 108,
-    "x": 1852,
-    "y": 3220
+    "width": 80,
+    "x": 1839,
+    "y": 1640
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -46,22 +46,18 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
-      "id": "6C1822F4-029D-4461-A122-959623D6174E"
+      "id": "5065C18D-9E9A-4354-9AB5-301808E1DFA2"
     },
     {
-      "class": "group",
-      "id": "DA7AFD5A-61D6-48E9-AFD0-A22E041D5C50"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "9D0638BC-ABEE-4F96-A592-3D9B5B754755"
+      "class": "shapeGroup",
+      "id": "6D136550-AD93-49C3-9DCD-5CC01FC80483"
     }
   ],
-  "name": "Shape / Button / Border / Basic - Radius: 4",
+  "name": "Shape / Button / Border / Basic - Radius: 6",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

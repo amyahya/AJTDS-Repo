@@ -9,14 +9,14 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.07058823529,
-            "green": 0.03921568627,
+            "blue": 0.07058823528999997,
+            "green": 0.03921568626999999,
             "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Montserrat-Regular",
+              "name": "Roboto-Regular",
               "size": 28
             }
           },
@@ -30,11 +30,11 @@
             "minimumLineHeight": 37
           }
         },
-        "length": 5,
+        "length": 4,
         "location": 0
       }
     ],
-    "string": "Cards"
+    "string": "Card"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -60,7 +60,7 @@
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{1, 8}, {79, 22}}",
+  "glyphBounds": "{{1, 7}, {56, 22}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -69,12 +69,11 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Cards",
+  "name": "Card",
   "nameIsFixed": false,
   "resizingConstraint": 43,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "E72F895C-9B83-4264-A37B-DCA581B5A704",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -89,14 +88,14 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.07058823529,
-          "green": 0.03921568627,
+          "blue": 0.07058823528999997,
+          "green": 0.03921568626999999,
           "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Montserrat-Regular",
+            "name": "Roboto-Regular",
             "size": 28
           }
         },

@@ -14,9 +14,9 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 235,
-    "width": 235,
+    "constrainProportions": true,
+    "height": 220,
+    "width": 220,
     "x": 0,
     "y": 165
   },
@@ -27,23 +27,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
       "id": "683E7CF6-B391-45C8-A44E-D18024DB53F4"
     },
     {
-      "class": "rectangle",
-      "id": "C023E6B1-BFA4-4D92-926C-338125639DA7"
-    },
-    {
       "class": "text",
       "id": "950A8F42-CDAB-415C-B052-C6E16E4A6138"
-    },
-    {
-      "class": "text",
-      "id": "74771B48-5068-42A7-8A59-01ADC7AA3F02"
     }
   ],
   "name": "Primary",
@@ -58,11 +50,5 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-      }
-    }
   }
 }

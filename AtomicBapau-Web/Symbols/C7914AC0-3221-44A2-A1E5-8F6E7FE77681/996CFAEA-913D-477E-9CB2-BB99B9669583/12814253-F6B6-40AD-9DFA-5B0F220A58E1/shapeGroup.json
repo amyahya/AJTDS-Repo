@@ -15,19 +15,19 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 120,
-    "width": 120,
+    "height": 60,
+    "width": 60,
     "x": 0,
     "y": 0
   },
   "hasClickThrough": false,
-  "hasClippingMask": true,
+  "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
@@ -38,14 +38,16 @@
       "id": "7C279D3E-03CD-48B2-AC25-E78606BCEB85"
     }
   ],
-  "name": "Combined Shape",
+  "name": "Border",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "DC1FC3D0-9541-41BF-A515-C6D58B3B497B",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "373E8183-E2F0-4060-BDC5-835CD6913288",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

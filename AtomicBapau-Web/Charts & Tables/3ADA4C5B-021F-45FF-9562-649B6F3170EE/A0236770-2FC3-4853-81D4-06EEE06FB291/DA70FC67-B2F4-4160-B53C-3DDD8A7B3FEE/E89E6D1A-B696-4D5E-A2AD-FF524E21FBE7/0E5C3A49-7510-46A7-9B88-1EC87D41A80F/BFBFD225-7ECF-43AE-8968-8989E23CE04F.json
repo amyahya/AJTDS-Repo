@@ -17,7 +17,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 356.9999999999999,
+    "height": 236.9999999999999,
     "width": 30,
     "x": 0,
     "y": 0
@@ -79,10 +79,11 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "29C97583-6C66-427A-A5DA-16D305B09330",
+  "sharedStyleID": "1D62FF72-118A-4280-8CC0-AA518B9366A4",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "DC020BD7-F0C7-44F1-AFAD-0D7154D59B82",
     "endMarkerType": 0,
     "fills": [
       {
@@ -90,8 +91,8 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2862745098039216,
-          "green": 0.2862745098039216,
+          "blue": 1,
+          "green": 1,
           "red": 1
         },
         "fillType": 0,

@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 8053,
+  "changeIdentifier": 8370,
   "clippingMaskMode": 0,
   "do_objectID": "3CB9D462-7090-44D0-B9A0-FCDF013865CE",
   "exportOptions": {
@@ -23,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 91,
+    "height": 86,
     "width": 152,
     "x": 0,
-    "y": 2837
+    "y": 990
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -49,19 +49,19 @@
   "layerListExpandedType": 0,
   "layers": [
     {
+      "class": "text",
+      "id": "33C30AD1-4B57-482F-BAFB-561CDFB5D07E"
+    },
+    {
       "class": "symbolInstance",
       "id": "808B6849-3803-4D24-A27A-EA6942657FDE"
     },
     {
-      "class": "symbolInstance",
-      "id": "D9B4732A-7FE9-4B7D-9DB0-F6B1C5D57B7C"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "88B05703-7EFE-4286-8441-B0381A8F3CD3"
+      "class": "text",
+      "id": "59473EA5-CFB9-4BF3-B981-85B5B4A72AC7"
     }
   ],
-  "name": "Form / Input / Basic + Label + Caption",
+  "name": "Form / Input / Text field + Label + Caption",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

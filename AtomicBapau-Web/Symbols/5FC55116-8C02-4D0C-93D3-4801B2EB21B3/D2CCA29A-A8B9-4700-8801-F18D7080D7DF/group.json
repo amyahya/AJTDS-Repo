@@ -15,8 +15,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 120,
-    "width": 120,
+    "height": 60,
+    "width": 60,
     "x": 0,
     "y": 0
   },
@@ -27,11 +27,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "A730C3A1-9592-445D-A7CC-297EAFD7DEE7"
+      "class": "rectangle",
+      "id": "49851C31-206C-451F-8890-9896086059D1"
     }
   ],
   "name": "Elevation",

@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 6689,
+  "changeIdentifier": 7406,
   "clippingMaskMode": 0,
   "do_objectID": "4A2C90D9-5AD3-4C03-A448-4D48E8231ADC",
   "exportOptions": {
@@ -23,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
+    "height": 40,
     "width": 118,
-    "x": 2088,
-    "y": 1307
+    "x": 134,
+    "y": 1924
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -46,22 +46,22 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "ACDE0FBE-3D09-41AE-9C17-A83032C7CEB2"
+      "id": "C643FA64-80B6-4E37-BC52-B3032992C8EB"
     },
     {
       "class": "symbolInstance",
       "id": "88CDF83A-58C6-4789-8B31-1ED837F998FD"
     },
     {
-      "class": "symbolInstance",
-      "id": "B448F69C-048E-481A-A106-50561EAAA199"
+      "class": "text",
+      "id": "B6BFFA25-7D22-4D66-9558-46673468EB45"
     }
   ],
-  "name": "Data / Tag / Large + Icon",
+  "name": "Chip / Large / Text + R Icon",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

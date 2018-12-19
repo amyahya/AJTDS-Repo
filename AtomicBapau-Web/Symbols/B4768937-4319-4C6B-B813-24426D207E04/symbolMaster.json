@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 3189,
+  "changeIdentifier": 3339,
   "clippingMaskMode": 0,
   "do_objectID": "B4768937-4319-4C6B-B813-24426D207E04",
   "exportOptions": {
@@ -24,9 +24,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 36,
-    "width": 108,
-    "x": 1694,
-    "y": 3220
+    "width": 80,
+    "x": 1709,
+    "y": 1640
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -46,19 +46,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
-      "id": "C66A5100-C335-490F-8583-B23CDEAD22F2"
+      "id": "F7C8F796-BFFB-4CFC-A13D-C49BAF383153"
     },
     {
-      "class": "group",
-      "id": "C18349F9-7C0E-405D-AB61-7BE967465D8A"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "A1A7CF13-6146-4AA3-B18C-CCB4E1B63758"
+      "class": "shapeGroup",
+      "id": "6FB64A58-516F-438C-AE52-3417D8A9EEC5"
     }
   ],
   "name": "Shape / Button / Border / Basic - Radius: 100",

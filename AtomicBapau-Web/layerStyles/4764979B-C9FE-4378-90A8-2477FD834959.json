@@ -1,7 +1,7 @@
 {
   "_class": "sharedStyle",
   "do_objectID": "4764979B-C9FE-4378-90A8-2477FD834959",
-  "name": "State / Button / Focus",
+  "name": "State / Focus",
   "value": {
     "_class": "style",
     "borders": [
@@ -10,9 +10,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.03137254901960784,
-          "green": 0.4549019607843138,
-          "red": 0.9490196078431372
+          "blue": 1,
+          "green": 0.4627450980392158,
+          "red": 0
         },
         "fillType": 0,
         "isEnabled": true,

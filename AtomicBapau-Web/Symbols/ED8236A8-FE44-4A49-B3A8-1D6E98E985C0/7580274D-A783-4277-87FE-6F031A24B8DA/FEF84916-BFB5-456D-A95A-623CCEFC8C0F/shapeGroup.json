@@ -21,13 +21,13 @@
     "y": 0
   },
   "hasClickThrough": false,
-  "hasClippingMask": true,
+  "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -36,22 +36,37 @@
     {
       "class": "rectangle",
       "id": "92EFEBF4-91DC-4C24-B305-DB5276FA9919"
-    },
-    {
-      "class": "rectangle",
-      "id": "5E0E3959-8EF6-4A03-BB04-7F384570E75C"
     }
   ],
-  "name": "Radio",
+  "name": "Border",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "DC1FC3D0-9541-41BF-A515-C6D58B3B497B",
+  "sharedStyleID": "972F72A5-A485-4798-8E0E-A984F397E525",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "3154F3A7-B33A-4647-A528-D7D00E4551C8",
     "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.796078431372549,
+          "green": 0.7568627450980392,
+          "red": 0.7215686274509804
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1

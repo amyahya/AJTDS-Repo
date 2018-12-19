@@ -18,8 +18,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 2,
-    "width": 102,
+    "height": 3,
+    "width": 92,
     "x": 0,
     "y": 0
   },
@@ -32,7 +32,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
-  "name": "Container",
+  "name": "Line",
   "nameIsFixed": true,
   "pointRadiusBehaviour": 1,
   "points": [
@@ -80,12 +80,30 @@
   "resizingConstraint": 34,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "DC1FC3D0-9541-41BF-A515-C6D58B3B497B",
+  "sharedStyleID": "29C97583-6C66-427A-A5DA-16D305B09330",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "67E7D337-C2EB-439A-8787-31400B82B941",
     "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2862745098039216,
+          "green": 0.2862745098039216,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1

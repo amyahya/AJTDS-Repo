@@ -28,7 +28,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Form / Input / Basic",
+  "name": "Form / Input / Text field",
   "nameIsFixed": true,
   "overrideValues": [
     {
@@ -49,7 +49,7 @@
     {
       "_class": "overrideValue",
       "overrideName": "A56DD516-45AB-44C8-906F-BEBD30593985_symbolID",
-      "value": "60E1A2E9-D59B-4A63-A393-D5B496DE179D"
+      "value": "0303C883-8122-4D6F-82FA-70B1A0769AED"
     },
     {
       "_class": "overrideValue",
@@ -63,8 +63,25 @@
     },
     {
       "_class": "overrideValue",
+      "overrideName": "A56DD516-45AB-44C8-906F-BEBD30593985/350CF45F-E571-4017-8973-2178C0C45F0C_symbolID",
+      "value": "B0C77062-B2A7-49FE-BBF3-80B775914D34"
+    },
+    {
+      "_class": "overrideValue",
       "overrideName": "CFF5A1B7-4A48-41A7-8DA5-167BF9A3C10A_symbolID",
       "value": "E7D2718F-9C70-49EA-A8B3-D35590A93BE0"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B38FD602-977B-44A1-8F81-1B33896C331A",
+      "overrideName": "5BDF94E8-CAB4-4B02-AE58-0CA0D3EC8597_stringValue",
+      "value": "Text field"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3EAEAB19-611A-4B2D-B46A-BF495EDF0ABC",
+      "overrideName": "A56DD516-45AB-44C8-906F-BEBD30593985/448D23B3-BBF5-4DC3-A38F-456B57A44521_layerStyle",
+      "value": "972F72A5-A485-4798-8E0E-A984F397E525"
     }
   ],
   "resizingConstraint": 63,

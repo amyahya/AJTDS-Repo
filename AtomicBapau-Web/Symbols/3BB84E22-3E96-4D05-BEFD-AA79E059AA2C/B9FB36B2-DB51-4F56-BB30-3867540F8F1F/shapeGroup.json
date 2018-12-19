@@ -27,7 +27,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapePath",
@@ -38,37 +38,37 @@
       "id": "7C747606-275E-49FA-AED8-57A858DD3601"
     }
   ],
-  "name": "Mic",
+  "name": "↳Color",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "7506F2DB-3127-45F1-BD79-82516071B13C",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "4A18DEDA-2F06-4B03-8CB9-B25C017FF4F3",
     "endMarkerType": 0,
-    "miterLimit": 10,
-    "startMarkerType": 0,
-    "textStyle": {
-      "_class": "textStyle",
-      "encodedAttributes": {
-        "MSAttributedStringColorAttribute": {
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.03137254901960784,
+          "green": 0.4549019607843138,
+          "red": 0.9490196078431372
         },
-        "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "material",
-            "size": 24
-          }
-        }
-      },
-      "verticalAlignment": 0
-    },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
     "windingRule": 1
   },
   "windingRule": 1

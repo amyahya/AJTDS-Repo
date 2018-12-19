@@ -20,7 +20,7 @@
     "do_objectID": "84D294E1-0E2B-4FE5-B9B3-4C3112AAD71C",
     "height": 400,
     "width": 1166,
-    "x": 0,
+    "x": 27,
     "y": 0
   },
   "hasClippingMask": false,
@@ -419,6 +419,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "2A4E2E32-3390-4F69-A887-F7F2E9EA845E",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -426,9 +427,8 @@
       "_class": "borderOptions",
       "dashPattern": [
         1,
-        110
+        100
       ],
-      "do_objectID": "93FA9CCC-8143-46B7-B253-007226667868",
       "isEnabled": false,
       "lineCapStyle": 1,
       "lineJoinStyle": 1
@@ -439,14 +439,14 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 0.9332374254049446,
-          "red": 0.8627450980392157
+          "blue": 0.9082429846938775,
+          "green": 0.88543015470843,
+          "red": 0.8648986077215273
         },
         "fillType": 0,
         "isEnabled": true,
         "position": 0,
-        "thickness": 12
+        "thickness": 16
       }
     ],
     "do_objectID": "60129644-39DE-4BB5-9C89-143E1F5DBC83",

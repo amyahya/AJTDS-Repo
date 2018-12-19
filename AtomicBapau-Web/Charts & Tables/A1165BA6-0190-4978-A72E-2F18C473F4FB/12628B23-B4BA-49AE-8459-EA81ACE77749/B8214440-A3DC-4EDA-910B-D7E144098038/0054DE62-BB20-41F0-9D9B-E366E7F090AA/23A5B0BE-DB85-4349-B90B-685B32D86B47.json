@@ -16,12 +16,12 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Montserrat-Regular",
+              "name": "Roboto-Regular",
               "size": 16
             }
           },
           "MSAttributedStringTextTransformAttribute": 0,
-          "kerning": 0.07999999,
+          "kerning": 0.07999998999999999,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
@@ -54,12 +54,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "BD865487-3CE9-4913-9B5E-CB7474D1F97C",
-    "height": 44,
+    "height": 22,
     "width": 30,
     "x": 106.0943386528923,
     "y": 0.02204408817635795
   },
-  "glyphBounds": "{{6, 5}, {19, 35}}",
+  "glyphBounds": "{{3, 4}, {25, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -73,7 +73,6 @@
   "resizingConstraint": 45,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "5AA514E7-015C-4CD7-BCAC-DAB0E1B1FF49",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -95,12 +94,12 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Montserrat-Regular",
+            "name": "Roboto-Regular",
             "size": 16
           }
         },
         "MSAttributedStringTextTransformAttribute": 0,
-        "kerning": 0.07999999,
+        "kerning": 0.07999998999999999,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,

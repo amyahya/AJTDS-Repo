@@ -28,7 +28,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Form / Input / Basic + L, R.Icon",
+  "name": "Form / Input / Basic + L, R Icon",
   "nameIsFixed": true,
   "overrideValues": [
     {
@@ -77,6 +77,30 @@
       "do_objectID": "6B866843-59E7-4E42-8DA9-6C4D328F1613",
       "overrideName": "0D82DDC8-C7C2-4D43-A89E-8459371B5491/6907AEB2-A2B1-499E-B23E-C8A1B09527A3_stringValue",
       "value": "Default"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2206246A-FBDC-48D0-BC12-2EB3915BCB4F",
+      "overrideName": "B06AC267-24AF-4CF4-A0C3-DA915EEF9157_stringValue",
+      "value": "Text field"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "237B879C-9383-4D60-AC3B-4081841CB029",
+      "overrideName": "82B9655A-7911-41AE-B471-F03FFCA8EF52/31B0E9D2-EA81-4EE2-AD6F-4BB6ED2070B5_layerStyle",
+      "value": "972F72A5-A485-4798-8E0E-A984F397E525"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F383F948-ECBB-4DB7-80D2-7A57C3779A5B",
+      "overrideName": "0AE8CFDF-7952-4AEB-91E9-1EDED6B360BE/C769AEE7-E76B-4309-8815-A5BE50D7F7A8_layerStyle",
+      "value": "972F72A5-A485-4798-8E0E-A984F397E525"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1FB23C77-4ADE-463F-97D1-D2DF7279DA1A",
+      "overrideName": "0AE8CFDF-7952-4AEB-91E9-1EDED6B360BE/B35FBB8A-C618-49FC-8AA5-C56ECE576924_layerStyle",
+      "value": "972F72A5-A485-4798-8E0E-A984F397E525"
     }
   ],
   "resizingConstraint": 63,

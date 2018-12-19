@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 4470,
+  "changeIdentifier": 4770,
   "clippingMaskMode": 0,
   "do_objectID": "BAF14908-E391-45AF-BDC4-1421357125CF",
   "exportOptions": {
@@ -25,8 +25,8 @@
     "constrainProportions": false,
     "height": 48,
     "width": 120,
-    "x": 2254,
-    "y": 2621
+    "x": 2046,
+    "y": 1161
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -46,18 +46,18 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "161EEB33-CE3E-4F6D-82FC-AB147181C5C4"
+      "class": "group",
+      "id": "E589B4E9-224D-4F83-95E2-2CC2F448978E"
     },
     {
-      "class": "symbolInstance",
-      "id": "BBB42A87-27AB-4F2C-885F-509C3A6694BA"
+      "class": "text",
+      "id": "82B68E7C-F5E8-4551-857B-6FFC51769C92"
     }
   ],
-  "name": "State / Tab / Inactive",
+  "name": "State / Tab / Medium / Inactive",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

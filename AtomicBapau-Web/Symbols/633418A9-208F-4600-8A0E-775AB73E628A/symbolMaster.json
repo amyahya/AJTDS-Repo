@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 4810,
+  "changeIdentifier": 5145,
   "clippingMaskMode": 0,
   "do_objectID": "633418A9-208F-4600-8A0E-775AB73E628A",
   "exportOptions": {
@@ -24,9 +24,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 96,
-    "x": 495,
-    "y": 2583
+    "width": 100,
+    "x": 505,
+    "y": 1366
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -46,20 +46,20 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "3EF9FEFA-DC2D-4131-9A06-4E156B0BAACA"
     },
     {
-      "class": "symbolInstance",
-      "id": "69B81449-A956-48CF-906E-A748410C0F2A"
+      "class": "text",
+      "id": "3693C49B-1A26-4C7F-B255-8507B957F77A"
     }
   ],
-  "name": "Form / Switch / Basic + Description",
+  "name": "Toogle / Switch / Basic + Description",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

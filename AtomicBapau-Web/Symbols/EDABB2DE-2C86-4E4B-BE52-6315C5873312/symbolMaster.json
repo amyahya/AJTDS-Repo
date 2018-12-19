@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 17596,
+  "changeIdentifier": 17771,
   "clippingMaskMode": 0,
   "do_objectID": "EDABB2DE-2C86-4E4B-BE52-6315C5873312",
   "exportOptions": {
@@ -24,9 +24,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 22,
-    "width": 200,
-    "x": 2444,
-    "y": 2205
+    "width": 160,
+    "x": 2349,
+    "y": 745
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -47,19 +47,19 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "395F54CA-B974-4724-A90F-AA1C4C72BEDA"
+      "class": "rectangle",
+      "id": "D3E0811D-4CEF-42A9-B24F-0F8EAABF7210"
     },
     {
-      "class": "group",
-      "id": "F90A54CE-B1E1-426B-BE4A-1A32A9B7548C"
+      "class": "rectangle",
+      "id": "337D9972-F558-46C9-88A1-5D797833B3C6"
     },
     {
-      "class": "symbolInstance",
-      "id": "715A78E6-BDE0-4020-8C39-61222D7FF5F1"
+      "class": "text",
+      "id": "67F432BC-94AC-492E-9AF2-44E193B24340"
     }
   ],
   "name": "State / Progress / 75%",

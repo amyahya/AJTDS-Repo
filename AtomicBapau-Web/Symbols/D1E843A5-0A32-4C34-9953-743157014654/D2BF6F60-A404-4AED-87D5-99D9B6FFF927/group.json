@@ -17,10 +17,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "CFF71D72-1913-4816-9BD7-55F7EA0E184D",
-    "height": 32,
-    "width": 92.00000000000003,
-    "x": 0,
-    "y": 0
+    "height": 28,
+    "width": 70,
+    "x": 4,
+    "y": 2
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -29,20 +29,16 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
       "id": "A181260F-37C5-43FF-865C-CA3814623960"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "F37258D0-41A8-4660-AAD2-AE92A9180378"
     }
   ],
-  "name": "Fill Color",
+  "name": "Fill",
   "nameIsFixed": true,
-  "resizingConstraint": 63,
+  "resizingConstraint": 18,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

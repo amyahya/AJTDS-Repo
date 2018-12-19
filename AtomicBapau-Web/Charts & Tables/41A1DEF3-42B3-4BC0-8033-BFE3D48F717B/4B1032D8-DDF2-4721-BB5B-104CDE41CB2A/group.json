@@ -15,9 +15,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 524,
-    "width": 1232,
-    "x": 108,
+    "height": 502,
+    "width": 1230,
+    "x": 110,
     "y": 784
   },
   "hasClickThrough": false,
@@ -40,6 +40,10 @@
     {
       "class": "group",
       "id": "841359C6-B4E7-46C4-9960-BA10147FC52F"
+    },
+    {
+      "class": "shapePath",
+      "id": "6EA98F48-A84C-450B-8F53-2E4551164765"
     }
   ],
   "name": "Histogram Chart - On Dark",

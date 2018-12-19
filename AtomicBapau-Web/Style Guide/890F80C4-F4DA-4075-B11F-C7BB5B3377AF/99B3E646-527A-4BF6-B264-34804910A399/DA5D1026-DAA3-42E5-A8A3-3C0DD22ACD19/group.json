@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 268,
-    "width": 546,
+    "height": 342,
+    "width": 532,
     "x": 639,
-    "y": 131
+    "y": 241
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -76,9 +76,13 @@
     {
       "class": "symbolInstance",
       "id": "757EC421-74D6-43D9-80F9-05976EF10D29"
+    },
+    {
+      "class": "text",
+      "id": "6A349C63-12DD-4ED5-A435-C715964A3440"
     }
   ],
-  "name": "Shape - Border",
+  "name": "Border",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -1,7 +1,7 @@
 {
   "_class": "sharedStyle",
   "do_objectID": "E3BB7FD0-83E0-424D-B3EE-5F8BBFC4A6F5",
-  "name": "Chart / _Solid Line + Fill (60%) / Primary",
+  "name": "Chart / _Solid Line + Fill (60%) / Blue",
   "value": {
     "_class": "style",
     "borders": [
@@ -10,9 +10,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.03137254901960784,
-          "green": 0.4549019607843138,
-          "red": 0.9490196078431372
+          "blue": 1,
+          "green": 0.5568627450980393,
+          "red": 0.1764705882352942
         },
         "fillType": 0,
         "isEnabled": true,
@@ -27,9 +27,9 @@
         "color": {
           "_class": "color",
           "alpha": 0.5999999642372131,
-          "blue": 0.03137254901960784,
-          "green": 0.4549019607843138,
-          "red": 0.9490196078431372
+          "blue": 1,
+          "green": 0.5568627450980393,
+          "red": 0.1764705882352942
         },
         "fillType": 0,
         "isEnabled": true,

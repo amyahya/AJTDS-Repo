@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B126047C-029F-4E94-B661-12C0182F5B51",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D1B0E604-49E0-44C1-AAE8-BD3AB23CAE1F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E5F98784-CCB4-4C3D-9FB9-4EF62B0D0F11",
+    "height": 235,
+    "width": 235,
+    "x": 1065,
+    "y": 430
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "A4A237EA-6278-49C5-8729-F10769F89B7A"
+    },
+    {
+      "class": "rectangle",
+      "id": "EA6BA5E3-421B-449D-84F4-2C459C7DE733"
+    },
+    {
+      "class": "text",
+      "id": "E584D311-6E8D-45CB-9606-991710E41F96"
+    }
+  ],
+  "name": "Snow",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "99F58C22-8A9E-4BA8-BD24-3C019C8520C6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

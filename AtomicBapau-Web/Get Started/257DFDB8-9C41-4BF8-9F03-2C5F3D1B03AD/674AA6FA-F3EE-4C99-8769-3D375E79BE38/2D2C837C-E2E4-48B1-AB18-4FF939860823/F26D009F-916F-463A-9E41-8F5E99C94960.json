@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Montserrat-Regular",
+              "name": "Roboto-Regular",
               "size": 24
             }
           },
@@ -29,11 +29,11 @@
             "minimumLineHeight": 34
           }
         },
-        "length": 8,
+        "length": 5,
         "location": 0
       }
     ],
-    "string": "Tertiary"
+    "string": "Miami"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -53,11 +53,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 34,
-    "width": 92,
+    "width": 68,
     "x": 20,
-    "y": 183
+    "y": 168
   },
-  "glyphBounds": "{{0, 8}, {92, 23}}",
+  "glyphBounds": "{{1, 7}, {65, 19}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,12 +66,11 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Tertiary",
+  "name": "Miami",
   "nameIsFixed": false,
   "resizingConstraint": 33,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "6BCE5198-F052-4E6C-AF74-311F0D3CF020",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -91,7 +90,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Montserrat-Regular",
+            "name": "Roboto-Regular",
             "size": 24
           }
         },
@@ -108,12 +107,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0,
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-        "isAutoWidth": 1
-      }
-    }
-  }
+  "textBehaviour": 1
 }

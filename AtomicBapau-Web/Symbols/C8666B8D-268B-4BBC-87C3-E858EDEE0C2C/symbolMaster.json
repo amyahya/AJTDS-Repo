@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 7129,
+  "changeIdentifier": 9321,
   "clippingMaskMode": 0,
   "do_objectID": "C8666B8D-268B-4BBC-87C3-E858EDEE0C2C",
   "exportOptions": {
@@ -23,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 54,
-    "width": 205,
-    "x": 1698,
-    "y": 1381
+    "height": 130,
+    "width": 320,
+    "x": 0,
+    "y": 2164
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -46,7 +46,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -61,11 +61,15 @@
       "id": "76C6175C-25A6-4CD7-9993-7A86F7965A38"
     },
     {
-      "class": "symbolInstance",
-      "id": "CA6AA960-35A3-47F8-B2E9-5CB8C9D3560F"
+      "class": "text",
+      "id": "A4861F50-F61D-455F-991F-7B8570DDEC94"
+    },
+    {
+      "class": "text",
+      "id": "B6506C1B-CFD6-4AE9-B645-C94BAABF6851"
     }
   ],
-  "name": "Data / Notification / Multi-line",
+  "name": "Alert / Title +  Text + L, R Icons",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

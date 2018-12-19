@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 6987,
+  "changeIdentifier": 7177,
   "clippingMaskMode": 0,
   "do_objectID": "F7634C90-F6A6-49E0-8269-C7A6A7B2CEFD",
   "exportOptions": {
@@ -26,7 +26,7 @@
     "height": 64,
     "width": 152,
     "x": 196,
-    "y": 2837
+    "y": 990
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -46,18 +46,18 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "F5F3D84A-C1FF-47C3-8941-DB4807220E2C"
     },
     {
-      "class": "symbolInstance",
-      "id": "0AA9864C-54FA-45A8-9E42-5D298930B84B"
+      "class": "text",
+      "id": "C118AB12-84B5-4DEA-AFA3-9200B864D420"
     }
   ],
-  "name": "Form / Input / Basic + Label",
+  "name": "Form / Input / Text field + Label",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

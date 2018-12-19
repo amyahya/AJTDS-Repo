@@ -14,12 +14,12 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 0,
+  "fixedRadius": 6,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "07F3DBCC-3FD4-40DC-A25C-6CEF530A09DE",
-    "height": 60,
+    "height": 40,
     "width": 216,
     "x": 0,
     "y": 0
@@ -39,7 +39,7 @@
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 6,
       "curveFrom": "{0, 0}",
       "curveMode": 1,
       "curveTo": "{0, 0}",
@@ -49,7 +49,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 6,
       "curveFrom": "{0.99999999999999889, 0}",
       "curveMode": 1,
       "curveTo": "{0.99999999999999889, 0}",
@@ -59,7 +59,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 6,
       "curveFrom": "{0.99999999999999889, 0.99999999999999978}",
       "curveMode": 1,
       "curveTo": "{0.99999999999999889, 0.99999999999999978}",
@@ -69,7 +69,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 6,
       "curveFrom": "{0, 0.99999999999999978}",
       "curveMode": 1,
       "curveTo": "{0, 0.99999999999999978}",
@@ -85,7 +85,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "818EC449-23DE-4D9E-81EC-63FF4D8C169C",
+    "do_objectID": "269EFFE7-C843-4A4E-B503-4E031545F0A7",
     "endMarkerType": 0,
     "fills": [
       {

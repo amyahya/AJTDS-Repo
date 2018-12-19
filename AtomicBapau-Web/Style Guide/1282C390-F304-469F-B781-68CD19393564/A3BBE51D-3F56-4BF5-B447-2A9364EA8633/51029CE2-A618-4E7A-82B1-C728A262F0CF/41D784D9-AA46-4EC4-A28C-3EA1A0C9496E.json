@@ -9,14 +9,14 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.07058823529,
-            "green": 0.03921568627,
+            "blue": 0.07058823528999997,
+            "green": 0.03921568626999999,
             "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Montserrat-Regular",
+              "name": "Roboto-Regular",
               "size": 32
             }
           },
@@ -53,11 +53,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 42,
-    "width": 192,
+    "width": 169,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{3, 8}, {186, 31}}",
+  "glyphBounds": "{{2, 8}, {165, 31}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -71,7 +71,6 @@
   "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "B58EA10D-C1D3-488A-AEA7-D360126C5BDB",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -84,14 +83,14 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.07058823529,
-          "green": 0.03921568627,
+          "blue": 0.07058823528999997,
+          "green": 0.03921568626999999,
           "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Montserrat-Regular",
+            "name": "Roboto-Regular",
             "size": 32
           }
         },
@@ -112,7 +111,7 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "isAutoWidth": 1
+        "isAutoWidth": 0
       }
     }
   }

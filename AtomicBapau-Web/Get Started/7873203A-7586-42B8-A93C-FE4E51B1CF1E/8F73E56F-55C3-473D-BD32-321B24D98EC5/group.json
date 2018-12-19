@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8F73E56F-55C3-473D-BD32-321B24D98EC5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4C8DFBAF-2166-4CCD-A5A0-93FF9BCBA0D0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "309E7EF0-6DC5-4AF7-A349-1C069B0EA846",
+    "height": 235,
+    "width": 235,
+    "x": 266,
+    "y": 131
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "89EA7A65-08D8-4B03-861E-B4FCBF867664"
+    },
+    {
+      "class": "text",
+      "id": "FB96CEE6-779B-4A99-9988-9026AFEE88FE"
+    }
+  ],
+  "name": "Ghost",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2DF1EA1D-067A-4E5E-A5E9-BA05A6C7E916",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -17,7 +17,7 @@
     "constrainProportions": false,
     "height": 14,
     "width": 134,
-    "x": 17.05,
+    "x": 17.05000000000001,
     "y": 5
   },
   "hasClickThrough": false,
@@ -27,18 +27,30 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "4B52CA37-3D8E-4C41-BAB6-E2F00214E922"
+      "class": "oval",
+      "id": "005ACCE3-52FE-41F2-99FA-C98B07F11C58"
     },
     {
-      "class": "group",
-      "id": "BBA48797-7F44-42E3-A22C-A92E01B72E71"
+      "class": "oval",
+      "id": "6DEA7787-847B-4998-A126-28526CD70BF1"
+    },
+    {
+      "class": "oval",
+      "id": "99409080-FB25-4FEB-BE15-3975AC03A50D"
+    },
+    {
+      "class": "oval",
+      "id": "415F051E-8773-4B91-AC8C-F5C451B0A8D8"
+    },
+    {
+      "class": "oval",
+      "id": "3F0190B0-DFCD-4E32-A673-DEA4412B7467"
     }
   ],
-  "name": "Center",
+  "name": "Dots",
   "nameIsFixed": true,
   "resizingConstraint": 45,
   "resizingType": 0,

@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2433D16C-98B6-4C81-A684-EC37896D54FD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 35,
+    "width": 1140,
+    "x": 50,
+    "y": 1119
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "36C0DD73-40C2-436D-A49A-144583140A90"
+    },
+    {
+      "class": "text",
+      "id": "9232C826-C6B9-4B7B-BD6F-5256C07CDC8D"
+    },
+    {
+      "class": "text",
+      "id": "D3C3A729-1013-46D7-91D4-AED8812EA49F"
+    },
+    {
+      "class": "text",
+      "id": "04E3BE13-7AC1-41E4-ADA3-4F87992C5F6F"
+    }
+  ],
+  "name": "Input Large",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

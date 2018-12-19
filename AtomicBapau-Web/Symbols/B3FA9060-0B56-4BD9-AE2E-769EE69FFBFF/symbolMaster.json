@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1271,
+  "changeIdentifier": 1491,
   "clippingMaskMode": 0,
   "do_objectID": "B3FA9060-0B56-4BD9-AE2E-769EE69FFBFF",
   "exportOptions": {
@@ -24,9 +24,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 32,
-    "width": 80,
-    "x": 1954,
-    "y": 2719
+    "width": 60,
+    "x": 1926,
+    "y": 1259
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -46,14 +46,18 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "9051081F-0694-45E2-95D9-1DDA26AEE58A"
+      "class": "group",
+      "id": "90544001-0E25-4A95-ABA5-86393496A8D4"
+    },
+    {
+      "class": "group",
+      "id": "0B4EEFAB-5DEE-460A-869D-7EC61F245916"
     }
   ],
-  "name": "State / Cell / Bottom Border",
+  "name": "State / Cell / Normal (Bottom Border)",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

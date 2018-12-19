@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 4305,
+  "changeIdentifier": 4651,
   "clippingMaskMode": 0,
   "do_objectID": "432D16FF-FB20-4A68-B6AC-03E19EA63FBF",
   "exportOptions": {
@@ -24,9 +24,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 80,
+    "width": 84,
     "x": 74,
-    "y": 2583
+    "y": 1366
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -46,18 +46,18 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "C586087C-E1DB-4180-9A38-B62DB373D0AD"
     },
     {
-      "class": "symbolInstance",
-      "id": "36F186A5-F3A4-4EF5-8D97-926270E7E048"
+      "class": "text",
+      "id": "334DC487-B37F-429E-95DF-337B3F953A72"
     }
   ],
-  "name": "Form / Radio / Basic + Description",
+  "name": "Toogle / Radio / Basic + Description",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

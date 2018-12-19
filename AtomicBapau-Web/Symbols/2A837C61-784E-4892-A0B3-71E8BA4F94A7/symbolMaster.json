@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 7387,
+  "changeIdentifier": 8056,
   "clippingMaskMode": 0,
   "do_objectID": "2A837C61-784E-4892-A0B3-71E8BA4F94A7",
   "exportOptions": {
@@ -23,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 42,
-    "width": 205,
-    "x": 1953,
-    "y": 1381
+    "height": 50,
+    "width": 165,
+    "x": 370,
+    "y": 2164
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -61,13 +61,13 @@
       "id": "07C654CE-BA9E-4DFD-BA49-BD2B5B042F0A"
     },
     {
-      "class": "symbolInstance",
-      "id": "A4E944FD-0475-41D3-8458-F18DEF74E8B0"
+      "class": "text",
+      "id": "D75A7858-FE07-4CAA-B67F-3C5084F71056"
     }
   ],
-  "name": "Data / Notification / Basic",
+  "name": "Alert / Text + L, R Icons",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

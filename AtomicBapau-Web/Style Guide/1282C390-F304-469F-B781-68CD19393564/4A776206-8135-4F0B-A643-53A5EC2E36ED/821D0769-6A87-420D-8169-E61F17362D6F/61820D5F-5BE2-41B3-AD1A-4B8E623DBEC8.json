@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "FiraSans-Regular",
+              "name": "Muli-Regular",
               "size": 32
             }
           },
@@ -53,11 +53,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 43,
-    "width": 167,
+    "width": 179,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{3, 7}, {164, 32}}",
+  "glyphBounds": "{{2, 10}, {174, 32}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -71,7 +71,6 @@
   "resizingConstraint": 41,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "3CE1B2DE-B581-4860-B80C-6F880D23D988",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -91,7 +90,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "FiraSans-Regular",
+            "name": "Muli-Regular",
             "size": 32
           }
         },
@@ -112,7 +111,7 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "isAutoWidth": 1
+        "isAutoWidth": 0
       }
     }
   }

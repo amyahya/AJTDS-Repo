@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5141,
+  "changeIdentifier": 5434,
   "clippingMaskMode": 0,
   "do_objectID": "0DC11AF4-2134-44C6-90D0-42E899E874FB",
   "exportOptions": {
@@ -25,8 +25,8 @@
     "constrainProportions": false,
     "height": 40,
     "width": 152,
-    "x": 0,
-    "y": 2747
+    "x": 398,
+    "y": 990
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -57,13 +57,13 @@
       "id": "A56DD516-45AB-44C8-906F-BEBD30593985"
     },
     {
-      "class": "symbolInstance",
-      "id": "8BB46224-9D08-479E-92BD-59E30234C8C2"
+      "class": "text",
+      "id": "5BDF94E8-CAB4-4B02-AE58-0CA0D3EC8597"
     }
   ],
-  "name": "Form / Input / Basic",
+  "name": "Form / Input / Text field",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

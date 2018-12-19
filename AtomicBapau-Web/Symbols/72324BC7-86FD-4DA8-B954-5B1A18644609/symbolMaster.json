@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2632,
+  "changeIdentifier": 2983,
   "clippingMaskMode": 0,
   "do_objectID": "72324BC7-86FD-4DA8-B954-5B1A18644609",
   "exportOptions": {
@@ -24,9 +24,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 44,
-    "width": 98,
-    "x": 1994,
-    "y": 1567
+    "width": 108,
+    "x": 316,
+    "y": 2740
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -46,12 +46,8 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
-    {
-      "class": "symbolInstance",
-      "id": "5A752B18-B5CA-47BC-BF50-17FE9803478D"
-    },
     {
       "class": "symbolInstance",
       "id": "9ED8983B-92CA-4647-B391-7F36F6FAD802"
@@ -69,8 +65,8 @@
       "id": "3715A55F-06DD-475A-848C-13655BAF09AF"
     },
     {
-      "class": "symbolInstance",
-      "id": "E5F60AE2-3CE0-43E6-A0F2-E3644CC05676"
+      "class": "text",
+      "id": "61F499D6-61B4-4F55-A720-CB02FEC855ED"
     }
   ],
   "name": "Data / Cell / Medium / Text + L, C, R Icons",

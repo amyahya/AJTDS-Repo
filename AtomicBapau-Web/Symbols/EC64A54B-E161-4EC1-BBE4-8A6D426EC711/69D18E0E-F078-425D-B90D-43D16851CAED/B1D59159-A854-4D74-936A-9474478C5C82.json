@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Montserrat-Bold",
+              "name": "Roboto-Bold",
               "size": 17
             }
           },
@@ -54,11 +54,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 14,
-    "width": 77,
+    "width": 69,
     "x": 0,
-    "y": 4.999999999999999
+    "y": 5
   },
-  "glyphBounds": "{{1, 0}, {75, 14}}",
+  "glyphBounds": "{{1, 0}, {66, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "↳Text...",
+  "name": "Text...",
   "nameIsFixed": true,
   "resizingConstraint": 43,
   "resizingType": 0,
@@ -75,6 +75,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "069F9366-D068-4F2F-949C-06975ADE0273",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -91,7 +92,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Montserrat-Bold",
+            "name": "Roboto-Bold",
             "size": 17
           }
         },

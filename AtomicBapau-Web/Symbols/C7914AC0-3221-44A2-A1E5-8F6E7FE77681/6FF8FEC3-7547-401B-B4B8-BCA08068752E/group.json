@@ -15,8 +15,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 120,
-    "width": 120,
+    "height": 60,
+    "width": 60,
     "x": 0,
     "y": 0
   },
@@ -27,18 +27,14 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
       "id": "C2F7540C-4A54-436B-A4D2-9006A8B1D387"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "4996B486-7644-4E7F-86D0-0D4B7E55D8FB"
     }
   ],
-  "name": "Color",
+  "name": "Fill",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

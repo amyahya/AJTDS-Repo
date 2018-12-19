@@ -8,7 +8,7 @@
     "red": 0
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2641,
+  "changeIdentifier": 2701,
   "clippingMaskMode": 0,
   "do_objectID": "97825484-B3E5-4004-89E7-A7115BB0961E",
   "exportOptions": {
@@ -25,8 +25,8 @@
     "constrainProportions": false,
     "height": 24,
     "width": 24,
-    "x": 444,
-    "y": 5189
+    "x": 2152,
+    "y": 2700
   },
   "grid": {
     "_class": "simpleGrid",
@@ -57,13 +57,9 @@
     {
       "class": "shapeGroup",
       "id": "13ED03E7-838D-42EC-BE34-397E6BC48A1F"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "FB37986C-A0DB-4A57-A964-06CBF01C6DA0"
     }
   ],
-  "name": "Icon / Label / Stroke",
+  "name": "Icon / Label / Border",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

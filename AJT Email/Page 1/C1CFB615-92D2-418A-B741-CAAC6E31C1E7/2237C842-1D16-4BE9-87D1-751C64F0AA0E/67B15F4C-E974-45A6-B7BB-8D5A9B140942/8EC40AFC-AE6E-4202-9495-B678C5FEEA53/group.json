@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8EC40AFC-AE6E-4202-9495-B678C5FEEA53",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A576F6CD-4E30-4D0F-A671-7B1B2096C7A0",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7016FD1F-BD4B-45EA-83F3-6FA218E1B407",
+    "height": 44,
+    "width": 44,
+    "x": 234,
+    "y": 26
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "6DD73E7A-4327-4F16-B9D2-12D8396B111C"
+    },
+    {
+      "class": "oval",
+      "id": "9DCC6E4A-0DDF-4864-9371-0B68A0BA8953"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "ACA20897-9F4B-4841-8B41-EB421DBEED91"
+    }
+  ],
+  "name": "instagram",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1B0A8D84-FAD2-47B5-8E64-53FE0B8A7955",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

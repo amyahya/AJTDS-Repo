@@ -13,12 +13,12 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 4,
+  "fixedRadius": 6,
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 234.9999999999999,
-    "width": 235,
+    "height": 219.9999999999999,
+    "width": 220,
     "x": 0,
     "y": 0
   },
@@ -33,11 +33,11 @@
   "layerListExpandedType": 0,
   "name": "Gradient",
   "nameIsFixed": true,
-  "pointRadiusBehaviour": 1,
+  "pointRadiusBehaviour": 2,
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 4,
+      "cornerRadius": 6,
       "curveFrom": "{0, 0}",
       "curveMode": 1,
       "curveTo": "{0, 0}",
@@ -47,7 +47,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 4,
+      "cornerRadius": 6,
       "curveFrom": "{1.0000000000000004, 0}",
       "curveMode": 1,
       "curveTo": "{1.0000000000000004, 0}",
@@ -57,7 +57,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 4,
+      "cornerRadius": 6,
       "curveFrom": "{1.0000000000000004, 1.0000000000000002}",
       "curveMode": 1,
       "curveTo": "{1.0000000000000004, 1.0000000000000002}",
@@ -67,7 +67,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 4,
+      "cornerRadius": 6,
       "curveFrom": "{0, 1.0000000000000002}",
       "curveMode": 1,
       "curveTo": "{0, 1.0000000000000002}",
@@ -83,7 +83,6 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "D8F2902A-CAF4-43E0-8E80-23076E525D19",
     "endMarkerType": 0,
     "fills": [
       {
@@ -137,26 +136,5 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-        "constraints": {
-          "aspectRatio": {
-            "constant": 235,
-            "enabled": 1,
-            "modelID": "constraint_4cfefa50-b77b-47e6-9230-c4f5c610d441",
-            "model_class": "ADModelConstraint",
-            "model_version": 0.1,
-            "multiplier": 235
-          },
-          "automatic": 1,
-          "modelID": "viewConstraints_1c361ea4-8101-4d59-8979-7a5558674575",
-          "model_class": "ADModelViewConstraints",
-          "model_version": 0.1,
-          "scaleFactor": 1
-        }
-      }
-    }
   }
 }

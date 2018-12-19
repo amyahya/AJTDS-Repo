@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 7754,
+  "changeIdentifier": 8012,
   "clippingMaskMode": 0,
   "do_objectID": "3051A40B-AD0D-4C66-A0E9-6AAF7921B8DA",
   "exportOptions": {
@@ -23,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
+    "height": 34,
     "width": 144,
-    "x": 588,
-    "y": 2673
+    "x": 598,
+    "y": 1126
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -53,13 +53,13 @@
       "id": "8BBAE96C-31AD-44E2-8235-8BCEC22F722B"
     },
     {
-      "class": "symbolInstance",
-      "id": "784F52B7-F1FB-4B8C-94B8-0ECDD7A8F2CC"
+      "class": "text",
+      "id": "9BACE33A-7347-4C2A-B3CB-7ABB339A292B"
     }
   ],
   "name": "Form / Menu / Dropdown / Large",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

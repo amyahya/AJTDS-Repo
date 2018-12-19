@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2804,
+  "changeIdentifier": 3023,
   "clippingMaskMode": 0,
   "do_objectID": "FC607C86-C524-4ED3-8338-708F9F2918CB",
   "exportOptions": {
@@ -24,9 +24,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 36,
-    "width": 104,
-    "x": 2002,
-    "y": 2277
+    "width": 94,
+    "x": 2573,
+    "y": 817
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -49,12 +49,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "ED184FE8-87CF-4D0E-950E-2B40AEEADDF6"
+      "class": "rectangle",
+      "id": "CBE50008-18BD-480B-991A-B5F3CA2F4420"
     },
     {
-      "class": "group",
-      "id": "952F1DC7-C830-4486-A338-49987840A80B"
+      "class": "shapeGroup",
+      "id": "1826A12C-E1E7-4313-9217-140878ADDE39"
     }
   ],
   "name": "State / Input / Square / Disabled",

@@ -17,7 +17,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 6,
+    "height": 8,
     "width": 185,
     "x": 0,
     "y": 0
@@ -31,7 +31,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Bar",
+  "name": "Track",
   "nameIsFixed": true,
   "pointRadiusBehaviour": 0,
   "points": [
@@ -79,11 +79,11 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "972F72A5-A485-4798-8E0E-A984F397E525",
+  "sharedStyleID": "4A9FD2A2-E985-433C-B9CA-B0611497E078",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "89175B66-8BAE-4730-B086-F7ECB85931F6",
+    "do_objectID": "40E277F8-D321-499F-9AC7-167ED956EE62",
     "endMarkerType": 0,
     "fills": [
       {
@@ -91,9 +91,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.8196078431372549,
-          "green": 0.7803921568627451,
-          "red": 0.7490196078431373
+          "blue": 0.9082429846938775,
+          "green": 0.88543015470843,
+          "red": 0.8648986077215273
         },
         "fillType": 0,
         "isEnabled": true,

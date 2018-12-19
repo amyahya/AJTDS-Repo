@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2061,
+  "changeIdentifier": 2263,
   "clippingMaskMode": 0,
   "do_objectID": "349CDF3D-1BA5-4921-948A-9329D4E593FE",
   "exportOptions": {
@@ -25,8 +25,8 @@
     "constrainProportions": false,
     "height": 324,
     "width": 380,
-    "x": 1694,
-    "y": 3920
+    "x": 0,
+    "y": 3176
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -49,11 +49,27 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "AA302DE6-7E52-48D3-A858-64578B4F3BAD"
+      "class": "symbolInstance",
+      "id": "3EC171AC-1CF5-47E9-B233-0D740AC8E5BD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B737C33B-79F6-4CCE-A6A8-D7A727CCB1EA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AB66F3AA-0E67-4D03-B5F8-33DF029F1493"
+    },
+    {
+      "class": "text",
+      "id": "BA85B20B-502B-4DCE-9CB1-D1F9B2B4AF40"
+    },
+    {
+      "class": "text",
+      "id": "0E61D61F-EA99-48EB-B67E-D63D21160117"
     }
   ],
-  "name": "Cards / 1 Line Title + Secondary Text",
+  "name": "Card / 1 Line Title + Secondary Text",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

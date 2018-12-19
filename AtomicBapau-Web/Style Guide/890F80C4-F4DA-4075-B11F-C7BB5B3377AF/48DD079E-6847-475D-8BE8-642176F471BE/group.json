@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 337,
+    "height": 697,
     "width": 1240,
     "x": 100,
-    "y": 2222
+    "y": 3092
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -34,16 +34,28 @@
       "id": "9716C0C3-8843-4C53-A315-F6C12647FF3E"
     },
     {
-      "class": "text",
-      "id": "EE1D6598-DEF1-45B0-BBD9-7EC164EA62B4"
-    },
-    {
       "class": "symbolInstance",
       "id": "4CD5065A-2B76-467C-A9D7-AD70E6A75E2A"
     },
     {
       "class": "symbolInstance",
       "id": "EC0FA6F1-AA0B-45E6-9880-6D0EA4F5F92F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6A0FEF64-9D8C-4CD8-B24A-73B2675433B8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D5FB8BAE-D845-47CA-BBDA-CC9B1C932B38"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9B480A48-9814-4D63-B455-01F8B8FF032C"
+    },
+    {
+      "class": "text",
+      "id": "EE1D6598-DEF1-45B0-BBD9-7EC164EA62B4"
     }
   ],
   "name": "Cards",

@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 6,
+    "height": 8,
     "width": 185,
     "x": 0,
-    "y": 9
+    "y": 8
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -27,18 +27,14 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
       "id": "035AA095-9120-41CA-A2CE-37FB8286DC1C"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "C067C267-EA1A-4E2C-AD2B-FB6F2694B6FB"
     }
   ],
-  "name": "Mask",
+  "name": "Track",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

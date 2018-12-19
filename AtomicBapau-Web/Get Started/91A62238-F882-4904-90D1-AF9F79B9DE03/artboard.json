@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 2710,
+    "height": 2900,
     "width": 2640,
     "x": 1170,
     "y": -1235
@@ -68,15 +68,7 @@
   "layers": [
     {
       "class": "group",
-      "id": "C95E23D9-8FA1-4DAC-B572-C7CEBD5C75FC"
-    },
-    {
-      "class": "group",
-      "id": "2BDFBE82-9295-4CFC-AEBC-AFD8BE0E86F5"
-    },
-    {
-      "class": "group",
-      "id": "B3A191F2-BC41-4431-BF64-AE617D8B2986"
+      "id": "4ECB95D0-0980-44BC-98F0-2945ABB6A185"
     }
   ],
   "layout": {
@@ -94,7 +86,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1170
   },
-  "name": "Typography",
+  "name": "Typography - UI Kit",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

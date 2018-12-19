@@ -27,15 +27,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "rectangle",
+      "id": "6836668B-909F-4EA8-A365-DD029532CE35"
+    },
     {
       "class": "shapeGroup",
       "id": "4277E75C-3491-4735-BC01-2A7AAD5BFA84"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "FC9967DD-992B-41B2-90C2-C2C9F0DAF636"
     }
   ],
   "name": "Checkbox",

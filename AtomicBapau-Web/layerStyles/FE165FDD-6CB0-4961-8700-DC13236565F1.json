@@ -1,7 +1,7 @@
 {
   "_class": "sharedStyle",
   "do_objectID": "FE165FDD-6CB0-4961-8700-DC13236565F1",
-  "name": "Chart / _Solid Line / Primary",
+  "name": "Chart / _Solid Line / Blue",
   "value": {
     "_class": "style",
     "borderOptions": {
@@ -18,9 +18,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.03137254901960784,
-          "green": 0.4549019607843138,
-          "red": 0.9490196078431372
+          "blue": 1,
+          "green": 0.5573423343282008,
+          "red": 0.1776949179292929
         },
         "fillType": 0,
         "isEnabled": true,

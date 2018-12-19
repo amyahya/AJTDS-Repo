@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Montserrat-Regular",
+              "name": "Roboto-Regular",
               "size": 16
             }
           },
@@ -54,10 +54,10 @@
     "constrainProportions": false,
     "height": 22,
     "width": 23,
-    "x": 5,
+    "x": 0,
     "y": 313.0000000000002
   },
-  "glyphBounds": "{{0, 5}, {22, 13}}",
+  "glyphBounds": "{{0, 4}, {22, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -71,7 +71,6 @@
   "resizingConstraint": 45,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "1C959995-B9CA-49B8-977C-058AC840B1F5",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -91,7 +90,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Montserrat-Regular",
+            "name": "Roboto-Regular",
             "size": 16
           }
         },

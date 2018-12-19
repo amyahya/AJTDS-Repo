@@ -13,12 +13,12 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 4,
+  "fixedRadius": 6,
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 234.9999999999998,
-    "width": 235,
+    "height": 219.9999999999998,
+    "width": 220,
     "x": 0,
     "y": 0
   },
@@ -33,11 +33,11 @@
   "layerListExpandedType": 0,
   "name": "Gradient",
   "nameIsFixed": true,
-  "pointRadiusBehaviour": 1,
+  "pointRadiusBehaviour": 2,
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 4,
+      "cornerRadius": 6,
       "curveFrom": "{0, 0}",
       "curveMode": 1,
       "curveTo": "{0, 0}",
@@ -47,7 +47,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 4,
+      "cornerRadius": 6,
       "curveFrom": "{1, 0}",
       "curveMode": 1,
       "curveTo": "{1, 0}",
@@ -57,7 +57,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 4,
+      "cornerRadius": 6,
       "curveFrom": "{1, 1}",
       "curveMode": 1,
       "curveTo": "{1, 1}",
@@ -67,7 +67,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 4,
+      "cornerRadius": 6,
       "curveFrom": "{0, 1}",
       "curveMode": 1,
       "curveTo": "{0, 1}",
@@ -119,7 +119,7 @@
                 "alpha": 1,
                 "blue": 0.5215686274509804,
                 "green": 0.6274509803921569,
-                "red": 0.08627450980392161
+                "red": 0.08627450980392162
               },
               "position": 1
             }

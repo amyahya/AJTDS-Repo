@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5887,
+  "changeIdentifier": 6595,
   "clippingMaskMode": 0,
   "do_objectID": "37DC70FA-7F12-4E25-939A-E959D325D645",
   "exportOptions": {
@@ -23,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 96,
-    "x": 1817,
-    "y": 1307
+    "height": 30,
+    "width": 88,
+    "x": 589,
+    "y": 1924
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -46,22 +46,22 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "D2DB7B63-FF49-4C72-90A3-0DC33876A17E"
+      "id": "6CD6A031-BE04-4761-AD71-988B611CE5E6"
     },
     {
       "class": "symbolInstance",
       "id": "900F4815-61AF-4488-9088-25AB3A62727B"
     },
     {
-      "class": "symbolInstance",
-      "id": "1813ADB1-B79A-48C7-8CB7-04E4640F9ACC"
+      "class": "text",
+      "id": "DE81972C-14FC-4DF3-A3E7-F33735D97DEA"
     }
   ],
-  "name": "Data / Tag / Basic + Icon",
+  "name": "Chip / Medium / Text + R Icon",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

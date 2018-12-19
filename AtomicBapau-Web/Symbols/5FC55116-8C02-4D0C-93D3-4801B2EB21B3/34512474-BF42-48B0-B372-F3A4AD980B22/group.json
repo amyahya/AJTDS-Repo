@@ -15,8 +15,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 120,
-    "width": 120,
+    "height": 60,
+    "width": 60,
     "x": 0,
     "y": 0
   },
@@ -32,13 +32,9 @@
     {
       "class": "rectangle",
       "id": "8E4004C1-F68B-4ECB-B7A8-38AF583B0D66"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "AAECBA80-1AF6-4DF3-81FE-C49EC3759E00"
     }
   ],
-  "name": "Color",
+  "name": "Fill",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

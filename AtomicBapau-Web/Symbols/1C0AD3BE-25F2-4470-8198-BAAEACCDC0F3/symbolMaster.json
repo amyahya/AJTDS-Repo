@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2204,
+  "changeIdentifier": 2337,
   "clippingMaskMode": 0,
   "do_objectID": "1C0AD3BE-25F2-4470-8198-BAAEACCDC0F3",
   "exportOptions": {
@@ -24,9 +24,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 36,
-    "width": 108,
-    "x": 2168,
-    "y": 3306
+    "width": 80,
+    "x": 2099,
+    "y": 1726
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -46,18 +46,18 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "group",
-      "id": "67E346A1-3DDA-427D-A915-0E3C7AF0A195"
+      "class": "rectangle",
+      "id": "8BC95CC1-8F5A-4D53-8A03-40FB8D5C9E93"
     },
     {
-      "class": "symbolInstance",
-      "id": "9F72FEF1-056A-496F-B30F-CC3576894AA6"
+      "class": "rectangle",
+      "id": "42DA15F9-9C45-4B1D-9864-D9A9B1D6789D"
     }
   ],
-  "name": "Shape / Button / Fill / Left Radius: 4",
+  "name": "Shape / Button / Fill / Left Radius: 6",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

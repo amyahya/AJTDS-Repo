@@ -17,9 +17,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "3B41F768-950B-4097-B9CC-2FDA949817F3",
-    "height": 524,
-    "width": 1232,
-    "x": 107,
+    "height": 502,
+    "width": 1230,
+    "x": 109,
     "y": 103
   },
   "hasClickThrough": false,
@@ -42,6 +42,10 @@
     {
       "class": "group",
       "id": "5D33C6C9-6578-4DB3-A257-85ECBE1FF8A5"
+    },
+    {
+      "class": "shapePath",
+      "id": "81A11EE2-1C1A-4AF8-8C99-385D75382239"
     }
   ],
   "name": "Histogram Chart - On White",

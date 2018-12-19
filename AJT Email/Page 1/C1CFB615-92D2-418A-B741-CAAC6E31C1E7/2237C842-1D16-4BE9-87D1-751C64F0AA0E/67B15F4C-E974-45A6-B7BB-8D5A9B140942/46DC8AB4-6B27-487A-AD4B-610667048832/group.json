@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "46DC8AB4-6B27-487A-AD4B-610667048832",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E300442E-E14A-4585-AB9A-63940850F25C",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3319077D-2CFB-40D6-8E1B-B8695730F710",
+    "height": 44,
+    "width": 44,
+    "x": 106,
+    "y": 26
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "21E53563-B33A-42BA-93F5-630F22E4D535"
+    },
+    {
+      "class": "oval",
+      "id": "E35EB79B-66AE-4B4C-ADFB-ECC1400EBD34"
+    },
+    {
+      "class": "shapePath",
+      "id": "25FF9A57-34D9-4B82-84E4-542B6B8669E2"
+    }
+  ],
+  "name": "twitter",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5A12F018-1FBD-4D9A-926B-FE3F8623ECC2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

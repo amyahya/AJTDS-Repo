@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 3282,
+  "changeIdentifier": 3394,
   "clippingMaskMode": 0,
   "do_objectID": "F01603CC-FD02-45E9-BF74-6612C21461BD",
   "exportOptions": {
@@ -24,9 +24,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 36,
-    "width": 104,
-    "x": 1848,
-    "y": 2277
+    "width": 94,
+    "x": 1853,
+    "y": 817
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -49,12 +49,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "5BE3B3E6-1434-4DE5-856E-273F1FE2F644"
+      "class": "rectangle",
+      "id": "179F2BDE-B500-435A-A18E-089DA493EAF1"
     },
     {
-      "class": "group",
-      "id": "AC0C6895-FD1E-487F-B57C-9CD9333146A4"
+      "class": "shapeGroup",
+      "id": "F0A8D642-024B-431E-B941-306A481506C3"
     }
   ],
   "name": "State / Input / Square / White",

@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2523,
+  "changeIdentifier": 2912,
   "clippingMaskMode": 0,
   "do_objectID": "A892C4EF-4453-4B8E-8A0F-A83B553EB211",
   "exportOptions": {
@@ -25,8 +25,8 @@
     "constrainProportions": false,
     "height": 32,
     "width": 98,
-    "x": 1994,
-    "y": 1485
+    "x": 296,
+    "y": 2834
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -46,12 +46,8 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
-    {
-      "class": "symbolInstance",
-      "id": "0F85A0B5-0A9D-43DB-8F15-1773D69D8969"
-    },
     {
       "class": "symbolInstance",
       "id": "A2769685-B6A8-416E-8CD8-7EF200900A55"
@@ -69,8 +65,8 @@
       "id": "B688A77B-A767-4869-97EC-86641DDC2E13"
     },
     {
-      "class": "symbolInstance",
-      "id": "2D0A2329-2FF9-4020-B076-9D22932C206D"
+      "class": "text",
+      "id": "827AB6B2-5202-4DE6-9E4C-4A6CE5B966E1"
     }
   ],
   "name": "Data / Cell / Small / Text + L, C, R Icons",

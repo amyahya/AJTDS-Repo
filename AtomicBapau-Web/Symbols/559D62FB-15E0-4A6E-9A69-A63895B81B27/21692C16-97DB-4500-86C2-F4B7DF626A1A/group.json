@@ -17,10 +17,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "5F8CAAA6-0C92-48A3-AC27-BF7334F1E808",
-    "height": 2,
-    "width": 102,
+    "height": 3,
+    "width": 92,
     "x": 0,
-    "y": 34
+    "y": 33
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -34,13 +34,9 @@
     {
       "class": "rectangle",
       "id": "78F5FDCC-CFE8-4D07-A3E7-9B15F3D45AF5"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "5C7F53A4-4D7F-4484-A4C1-072B7A76ED30"
     }
   ],
-  "name": "Line Color",
+  "name": "Line",
   "nameIsFixed": true,
   "resizingConstraint": 34,
   "resizingType": 0,

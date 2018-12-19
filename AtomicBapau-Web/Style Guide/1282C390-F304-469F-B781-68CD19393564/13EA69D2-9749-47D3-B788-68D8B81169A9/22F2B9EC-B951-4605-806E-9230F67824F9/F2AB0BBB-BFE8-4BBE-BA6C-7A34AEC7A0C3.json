@@ -9,14 +9,14 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.07058823529,
-            "green": 0.03921568627,
+            "blue": 0.07058823528999997,
+            "green": 0.03921568626999999,
             "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "FiraSans-Regular",
+              "name": "Muli-Regular",
               "size": 32
             }
           },
@@ -56,9 +56,9 @@
     "height": 86,
     "width": 605.0000000000009,
     "x": 0,
-    "y": 68
+    "y": 67
   },
-  "glyphBounds": "{{0, 7}, {516, 69}}",
+  "glyphBounds": "{{0, 10}, {526, 68}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -72,7 +72,6 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "A2DEDB86-FBE3-4CF3-8389-A175D0EDC381",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -85,14 +84,14 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.07058823529,
-          "green": 0.03921568627,
+          "blue": 0.07058823528999997,
+          "green": 0.03921568626999999,
           "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "FiraSans-Regular",
+            "name": "Muli-Regular",
             "size": 32
           }
         },

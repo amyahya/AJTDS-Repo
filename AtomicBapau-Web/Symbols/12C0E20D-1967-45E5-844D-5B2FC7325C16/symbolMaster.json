@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 3060,
+  "changeIdentifier": 3158,
   "clippingMaskMode": 0,
   "do_objectID": "12C0E20D-1967-45E5-844D-5B2FC7325C16",
   "exportOptions": {
@@ -24,9 +24,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 36,
-    "width": 104,
-    "x": 1694,
-    "y": 2363
+    "width": 94,
+    "x": 1709,
+    "y": 903
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -49,12 +49,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "55706986-4792-43D8-8A7E-878F3D9C2FBB"
+      "class": "rectangle",
+      "id": "10BB7AB9-DB00-47E2-A0DD-82CCBAC2F803"
     },
     {
-      "class": "group",
-      "id": "11632001-A960-4745-BDE4-08EF497C2093"
+      "class": "shapeGroup",
+      "id": "1CE9C1BC-6FA6-4176-A940-D2A5AAF285CF"
     }
   ],
   "name": "State / Input / Rounded / Active",

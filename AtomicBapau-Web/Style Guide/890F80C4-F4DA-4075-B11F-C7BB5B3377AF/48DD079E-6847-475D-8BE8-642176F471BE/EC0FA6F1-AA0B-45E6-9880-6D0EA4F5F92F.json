@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 280,
+    "height": 300,
     "width": 386,
     "x": 427,
     "y": 57
@@ -28,7 +28,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Cards / Image + 1 Line Title + Secondary Text",
+  "name": "Card / Image + 1 Line Title + Secondary Text",
   "nameIsFixed": true,
   "overrideValues": [
     {
@@ -55,7 +55,7 @@
       "overrideName": "4D73F6A7-C8F0-4877-85C2-4BD281578F41/65CD7D42-0541-429D-8FD1-3D15D51A1490_image",
       "value": {
         "_class": "MSJSONFileReference",
-        "_ref": "images/1ae4d6c7ff55ae93dea7c1652df85a6fc1a1049e.png",
+        "_ref": "images/bc85ed17fd1ccef6bfef04828d70e64da6110748.png",
         "_ref_class": "MSImageData"
       }
     },
@@ -82,6 +82,12 @@
       "do_objectID": "2AA164CC-C5ED-4775-95A3-2C9729B349CA",
       "overrideName": "3AF42185-6A16-4E08-A9D6-376E0B43A14B/4FA2D890-B710-4649-8898-F7FE0B1B555B_symbolID",
       "value": "5EB52576-ED7F-4238-BABC-0290E31D5CCA"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6390731B-9F81-4E53-B23C-881AA1D4644B",
+      "overrideName": "4D73F6A7-C8F0-4877-85C2-4BD281578F41/BCF4F267-3CDC-4103-90A1-549C8A55B580/F6B029B7-603D-436C-A3A1-FBCDA1923764_layerStyle",
+      "value": "6CB2C01C-5394-41B9-83E9-09F0C9E4DD32"
     }
   ],
   "resizingConstraint": 63,

@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 6319,
+  "changeIdentifier": 6565,
   "clippingMaskMode": 0,
   "do_objectID": "A1C4B204-3EA7-406E-9D3A-38DF102500AC",
   "exportOptions": {
@@ -25,8 +25,8 @@
     "constrainProportions": false,
     "height": 28,
     "width": 73,
-    "x": 2193,
-    "y": 747
+    "x": 684,
+    "y": 748
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -49,13 +49,13 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "16501468-75ED-4142-8290-7525F5A34D5D"
+      "class": "text",
+      "id": "223F7CF1-D7DD-4A3C-A848-530E74007FB7"
     }
   ],
   "name": "Button / Text Button / Label",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

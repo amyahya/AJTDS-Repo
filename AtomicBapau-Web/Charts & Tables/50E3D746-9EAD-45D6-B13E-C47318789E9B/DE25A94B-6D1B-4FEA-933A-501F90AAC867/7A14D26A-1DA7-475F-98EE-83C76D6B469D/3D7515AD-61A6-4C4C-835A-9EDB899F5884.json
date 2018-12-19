@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Montserrat-Light",
+              "name": "Roboto-Light",
               "size": 40
             }
           },
@@ -53,11 +53,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 53,
-    "width": 109,
-    "x": 39.5,
+    "width": 98,
+    "x": 34,
     "y": 0
   },
-  "glyphBounds": "{{0, 12}, {106, 35}}",
+  "glyphBounds": "{{2, 11}, {93, 35}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -71,7 +71,6 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "1912FD0B-D8EA-427B-91F9-F8FAFDB66D67",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -91,7 +90,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Montserrat-Light",
+            "name": "Roboto-Light",
             "size": 40
           }
         },

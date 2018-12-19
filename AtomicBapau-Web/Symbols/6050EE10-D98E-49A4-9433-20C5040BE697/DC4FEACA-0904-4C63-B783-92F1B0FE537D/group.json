@@ -27,18 +27,26 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "A43CD655-3DCE-456B-A095-A40C41B361B3"
+      "class": "oval",
+      "id": "54B45D03-E8D9-4602-9EC8-0862B97B709B"
     },
     {
-      "class": "group",
-      "id": "73C5EB3E-5194-4F8C-B0C9-1C711C9376EF"
+      "class": "oval",
+      "id": "1A908E4C-8F49-44E6-A03F-A2A6F287A855"
+    },
+    {
+      "class": "oval",
+      "id": "FFB668DE-6E00-4D5E-BC8E-B82DA3F29BBB"
+    },
+    {
+      "class": "oval",
+      "id": "F9C0F1C1-AF64-4D83-B140-4E9F76E1CF5A"
     }
   ],
-  "name": "Center",
+  "name": "Dots",
   "nameIsFixed": true,
   "resizingConstraint": 45,
   "resizingType": 0,

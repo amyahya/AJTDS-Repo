@@ -15,8 +15,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 120,
-    "width": 120,
+    "height": 60,
+    "width": 60,
     "x": 0,
     "y": 0
   },
@@ -27,15 +27,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "12814253-F6B6-40AD-9DFA-5B0F220A58E1"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "DA0BC7BA-FBAD-4317-89AE-C9BFDB671C01"
     }
   ],
   "name": "Border",

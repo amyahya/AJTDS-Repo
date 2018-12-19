@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2847,
+  "changeIdentifier": 2991,
   "clippingMaskMode": 0,
   "do_objectID": "FA6B616A-85FA-47B4-9D91-7326418540E4",
   "exportOptions": {
@@ -24,9 +24,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 36,
-    "width": 104,
-    "x": 2464,
-    "y": 2277
+    "width": 94,
+    "x": 2285,
+    "y": 817
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -49,12 +49,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "05A41CAB-C345-4FF1-ACCD-603589AEF313"
+      "class": "rectangle",
+      "id": "0186F980-DD67-4E77-A934-F0B62DC4CA3A"
     },
     {
-      "class": "group",
-      "id": "E074EA63-C092-4C26-B56A-055367B4A52D"
+      "class": "shapeGroup",
+      "id": "2A50A76F-E76A-43F3-98FC-6AE37D3264CA"
     }
   ],
   "name": "State / Input / Square / Success",

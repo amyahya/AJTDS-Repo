@@ -13,11 +13,11 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 4,
+  "fixedRadius": 6,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 824,
+    "height": 1276,
     "width": 1240,
     "x": 0,
     "y": 77
@@ -28,16 +28,16 @@
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": false,
+  "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 0,
   "name": "Background",
   "nameIsFixed": true,
-  "pointRadiusBehaviour": 1,
+  "pointRadiusBehaviour": 2,
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 4,
+      "cornerRadius": 6,
       "curveFrom": "{0, 0}",
       "curveMode": 1,
       "curveTo": "{0, 0}",
@@ -47,7 +47,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 4,
+      "cornerRadius": 6,
       "curveFrom": "{1, 0}",
       "curveMode": 1,
       "curveTo": "{1, 0}",
@@ -57,7 +57,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 4,
+      "cornerRadius": 6,
       "curveFrom": "{1, 0.99999999999999956}",
       "curveMode": 1,
       "curveTo": "{1, 0.99999999999999956}",
@@ -67,7 +67,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 4,
+      "cornerRadius": 6,
       "curveFrom": "{0, 0.99999999999999956}",
       "curveMode": 1,
       "curveTo": "{0, 0.99999999999999956}",
@@ -83,7 +83,6 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "D42649DA-0515-48BF-A818-0AFAA17CA8D2",
     "endMarkerType": 0,
     "fills": [
       {
@@ -108,7 +107,7 @@
                 "_class": "color",
                 "alpha": 1,
                 "blue": 1,
-                "green": 0.9248890296691439,
+                "green": 0.9621926832242883,
                 "red": 0.797131470959596
               },
               "position": 0
@@ -120,7 +119,7 @@
                 "alpha": 1,
                 "blue": 1,
                 "green": 0.8802083333333334,
-                "red": 0.9069417317708333
+                "red": 0.9611486486486486
               },
               "position": 1
             }

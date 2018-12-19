@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 268,
-    "width": 546,
+    "height": 342,
+    "width": 532,
     "x": 0,
-    "y": 131
+    "y": 241
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -76,9 +76,13 @@
     {
       "class": "symbolInstance",
       "id": "B33BF059-A6D7-42EC-8CBB-58A9ED1E09AF"
+    },
+    {
+      "class": "text",
+      "id": "14083CFA-3A87-4DC2-893F-B51A6156A053"
     }
   ],
-  "name": "Shape - Fill",
+  "name": "Fill",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

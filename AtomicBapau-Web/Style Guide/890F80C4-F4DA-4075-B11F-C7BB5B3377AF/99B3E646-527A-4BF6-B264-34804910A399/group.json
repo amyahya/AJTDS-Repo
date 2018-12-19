@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 399,
-    "width": 1185,
+    "height": 1119,
+    "width": 1171,
     "x": 100,
-    "y": 70
+    "y": 80
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -31,26 +31,30 @@
   "layers": [
     {
       "class": "group",
-      "id": "1A2363C5-ABF3-48FE-BAF4-51E29F2ED9A6"
+      "id": "74E53B2F-6702-41E2-A18F-460E64178986"
+    },
+    {
+      "class": "group",
+      "id": "BA57F5F6-2682-4E2C-B95E-689CBE2FB03E"
+    },
+    {
+      "class": "group",
+      "id": "1182C1F8-7A09-4256-A1FC-5EF6DE9D74BD"
     },
     {
       "class": "group",
       "id": "DA5D1026-DAA3-42E5-A8A3-3C0DD22ACD19"
     },
     {
-      "class": "text",
-      "id": "14083CFA-3A87-4DC2-893F-B51A6156A053"
+      "class": "group",
+      "id": "1A2363C5-ABF3-48FE-BAF4-51E29F2ED9A6"
     },
     {
-      "class": "text",
-      "id": "6A349C63-12DD-4ED5-A435-C715964A3440"
-    },
-    {
-      "class": "text",
-      "id": "60EA8A35-C833-41DF-B76C-54C238A17484"
+      "class": "group",
+      "id": "5B9981C5-20FB-419A-8901-F7C2534C29AE"
     }
   ],
-  "name": "Buttons",
+  "name": "Button",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

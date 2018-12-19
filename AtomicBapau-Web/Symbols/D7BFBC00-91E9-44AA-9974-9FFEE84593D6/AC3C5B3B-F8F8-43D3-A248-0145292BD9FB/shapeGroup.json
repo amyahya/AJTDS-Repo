@@ -50,14 +50,16 @@
       "id": "39BBB9DB-859D-491A-8E67-815B53B9BE4C"
     }
   ],
-  "name": "Sad",
+  "name": "↳Color",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "7506F2DB-3127-45F1-BD79-82516071B13C",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "C0B49C3E-1762-4A51-975C-80E59962AE19",
     "endMarkerType": 0,
     "fills": [
       {
@@ -65,9 +67,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.03137254901960784,
+          "green": 0.4549019607843138,
+          "red": 0.9490196078431372
         },
         "fillType": 0,
         "isEnabled": true,
@@ -79,7 +81,7 @@
     ],
     "miterLimit": 10,
     "startMarkerType": 0,
-    "windingRule": 0
+    "windingRule": 1
   },
-  "windingRule": 0
+  "windingRule": 1
 }

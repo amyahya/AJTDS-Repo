@@ -33,10 +33,23 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "037306AD-27D9-4BA1-83DB-C85EDA7935A4/65CD7D42-0541-429D-8FD1-3D15D51A1490_image",
+      "do_objectID": "FC80B8B5-22EB-464F-AE59-961E0B3B0E8E",
+      "overrideName": "037306AD-27D9-4BA1-83DB-C85EDA7935A4_symbolID",
+      "value": "DB5E4C5A-FEF9-44C8-AE7D-32F662A2A48F"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D14863BD-5B73-4D8A-9097-E8920A9AA13F",
+      "overrideName": "037306AD-27D9-4BA1-83DB-C85EDA7935A4/123F0356-A199-42FC-9023-573BA9453BF9/F6B029B7-603D-436C-A3A1-FBCDA1923764_layerStyle",
+      "value": "DC1FC3D0-9541-41BF-A515-C6D58B3B497B"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2980A718-EB10-4A4A-BEE5-CA25985E90BF",
+      "overrideName": "037306AD-27D9-4BA1-83DB-C85EDA7935A4/24026F80-BA78-4F03-B938-C22D7E1524C5_image",
       "value": {
         "_class": "MSJSONFileReference",
-        "_ref": "images/1ae4d6c7ff55ae93dea7c1652df85a6fc1a1049e.png",
+        "_ref": "images/bc85ed17fd1ccef6bfef04828d70e64da6110748.png",
         "_ref_class": "MSImageData"
       }
     }

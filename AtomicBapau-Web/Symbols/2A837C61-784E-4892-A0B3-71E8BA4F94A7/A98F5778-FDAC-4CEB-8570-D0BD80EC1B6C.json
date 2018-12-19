@@ -15,8 +15,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 42,
-    "width": 205,
+    "height": 50,
+    "width": 165,
     "x": 0,
     "y": 0
   },
@@ -28,13 +28,25 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Shape",
+  "name": "Material",
   "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
       "overrideName": "902DA7F6-6A18-451E-8028-965BDBE0350A_symbolID",
       "value": "9E1C3B28-96E0-4D3C-A702-0076EEF55303"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CEE85B21-541C-4A49-8B5C-426BAE71B603",
+      "overrideName": "C20B6AA5-4D1D-43F0-BE5D-344CBA841AE0_layerStyle",
+      "value": "99F946C3-E654-435A-A182-F4A3DE40FC76"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3DC4E1EB-B4C1-4B8D-812D-C8DE0983D696",
+      "overrideName": "6536B3D1-54D8-428B-BFE2-19C3D3E98EEA_layerStyle",
+      "value": "7506F2DB-3127-45F1-BD79-82516071B13C"
     }
   ],
   "resizingConstraint": 63,
@@ -49,6 +61,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "EE6B45DF-1B94-4F7F-AB35-4E44AE9920E9",
+  "symbolID": "9941E746-3B49-4BBA-A3D6-819CDB00BE7D",
   "verticalSpacing": 0
 }

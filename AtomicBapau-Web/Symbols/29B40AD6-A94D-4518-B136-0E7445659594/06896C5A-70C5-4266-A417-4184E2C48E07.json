@@ -29,7 +29,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Gem",
+  "name": "↳Color",
   "nameIsFixed": true,
   "pointRadiusBehaviour": 1,
   "points": [
@@ -45,7 +45,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 0.5,
+      "cornerRadius": 0.8,
       "curveFrom": "{1.0071920956046092, 0.34822928073244319}",
       "curveMode": 1,
       "curveTo": "{1.0000000000000027, 0.33788522246729435}",
@@ -55,7 +55,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 0.5,
+      "cornerRadius": 0.8,
       "curveFrom": "{0.49997816490041064, 1}",
       "curveMode": 1,
       "curveTo": "{0.49997816490041064, 1}",
@@ -65,7 +65,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 0.5,
+      "cornerRadius": 0.8,
       "curveFrom": "{2.3980817331903383e-15, 0.33788522246729435}",
       "curveMode": 1,
       "curveTo": "{-0.0070481513449885914, 0.34802354588675766}",
@@ -127,13 +127,33 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "7506F2DB-3127-45F1-BD79-82516071B13C",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "D8EADC23-D3DD-45DC-BCAE-F577E2510D9A",
     "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.03137254901960784,
+          "green": 0.4549019607843138,
+          "red": 0.9490196078431372
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
     "miterLimit": 10,
     "startMarkerType": 0,
-    "windingRule": 0
+    "windingRule": 1
   },
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {

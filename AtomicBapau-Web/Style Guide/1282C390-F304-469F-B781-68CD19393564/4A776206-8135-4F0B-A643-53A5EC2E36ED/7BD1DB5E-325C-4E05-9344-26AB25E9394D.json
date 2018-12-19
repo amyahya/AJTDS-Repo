@@ -13,7 +13,7 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 4,
+  "fixedRadius": 6,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
@@ -33,11 +33,11 @@
   "layerListExpandedType": 0,
   "name": "Background",
   "nameIsFixed": true,
-  "pointRadiusBehaviour": 1,
+  "pointRadiusBehaviour": 2,
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 4,
+      "cornerRadius": 6,
       "curveFrom": "{0, 0}",
       "curveMode": 1,
       "curveTo": "{0, 0}",
@@ -47,7 +47,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 4,
+      "cornerRadius": 6,
       "curveFrom": "{1, 0}",
       "curveMode": 1,
       "curveTo": "{1, 0}",
@@ -57,7 +57,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 4,
+      "cornerRadius": 6,
       "curveFrom": "{1, 1}",
       "curveMode": 1,
       "curveTo": "{1, 1}",
@@ -67,7 +67,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 4,
+      "cornerRadius": 6,
       "curveFrom": "{0, 1}",
       "curveMode": 1,
       "curveTo": "{0, 1}",
@@ -79,11 +79,11 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "674B6CFB-6DE1-4E0F-B3E2-A0F5D2300580",
+  "sharedStyleID": "0A7B4B1A-EED8-4597-9C89-447131986504",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "244D43F8-7E3F-4708-B925-09D4D2F9D966",
+    "do_objectID": "A578893B-98F9-4266-B435-38A7767F7094",
     "endMarkerType": 0,
     "fills": [
       {
@@ -91,9 +91,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3058823529411765,
-          "green": 0.2549019607843137,
-          "red": 0.2431372549019608
+          "blue": 0.14,
+          "green": 0.11599,
+          "red": 0.1106
         },
         "fillType": 0,
         "isEnabled": true,

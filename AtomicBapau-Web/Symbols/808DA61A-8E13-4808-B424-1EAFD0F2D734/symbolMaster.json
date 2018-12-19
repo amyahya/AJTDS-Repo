@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2945,
+  "changeIdentifier": 3050,
   "clippingMaskMode": 0,
   "do_objectID": "808DA61A-8E13-4808-B424-1EAFD0F2D734",
   "exportOptions": {
@@ -24,9 +24,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 36,
-    "width": 104,
-    "x": 2618,
-    "y": 2363
+    "width": 94,
+    "x": 2429,
+    "y": 903
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -49,12 +49,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "561741CF-7E31-41A3-8930-FC480E0332DD"
+      "class": "rectangle",
+      "id": "D4648382-01C3-46CB-98B8-D6D2BE5F8442"
     },
     {
-      "class": "group",
-      "id": "56B24340-67C5-4602-B5C8-4F9929A8F2AC"
+      "class": "shapeGroup",
+      "id": "0A0149FD-97A7-4D08-9D9D-20216B8F46BC"
     }
   ],
   "name": "State / Input / Rounded / Error",

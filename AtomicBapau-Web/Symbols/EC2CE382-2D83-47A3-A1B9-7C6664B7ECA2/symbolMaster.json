@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2056,
+  "changeIdentifier": 2291,
   "clippingMaskMode": 0,
   "do_objectID": "EC2CE382-2D83-47A3-A1B9-7C6664B7ECA2",
   "exportOptions": {
@@ -24,9 +24,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 36,
-    "width": 108,
-    "x": 1694,
-    "y": 3306
+    "width": 80,
+    "x": 1709,
+    "y": 1726
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -46,15 +46,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "group",
-      "id": "DD173ACF-7D5F-4E83-A9C5-1A02A16EB3CF"
+      "class": "rectangle",
+      "id": "59BED169-DCB8-4BD5-BFE3-E45DF0561B62"
     },
     {
-      "class": "symbolInstance",
-      "id": "D001EAA9-026E-4957-A496-15F430F346DB"
+      "class": "rectangle",
+      "id": "F6863075-BCAB-46CD-8E52-E1732819C393"
     }
   ],
   "name": "Shape / Button / Fill / Basic - Radius: 100",

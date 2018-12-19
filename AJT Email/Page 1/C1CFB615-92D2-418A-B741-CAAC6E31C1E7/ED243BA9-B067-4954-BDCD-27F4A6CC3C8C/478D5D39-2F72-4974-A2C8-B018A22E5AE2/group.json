@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "478D5D39-2F72-4974-A2C8-B018A22E5AE2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "49B348AD-3A22-473A-8720-C22248ABEBD8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "88B96C28-22F5-4FFC-BE7F-3F8E8949D77B",
+    "height": 182,
+    "width": 320,
+    "x": 0,
+    "y": 162
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "DCFD6BC5-B1E5-446F-8E15-1367B436B5B8"
+    },
+    {
+      "class": "group",
+      "id": "CEDF0D53-FEBA-494E-BD65-E16836C2FA9D"
+    }
+  ],
+  "name": "hero-image",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "26BAE996-9486-40BB-A795-3BF5B64E661B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

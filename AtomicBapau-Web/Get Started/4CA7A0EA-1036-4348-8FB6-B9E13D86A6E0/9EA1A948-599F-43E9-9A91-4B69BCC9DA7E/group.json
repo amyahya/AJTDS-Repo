@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "9EA1A948-599F-43E9-9A91-4B69BCC9DA7E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2C61CD6E-1B25-4180-AE80-5F77D5B5E7A1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "71BD9FE7-1F65-4385-BE08-864A5EE41039",
+    "height": 235,
+    "width": 235,
+    "x": 1065,
+    "y": 165
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "100E0ADA-D886-48FA-915C-6377B60303F7"
+    },
+    {
+      "class": "rectangle",
+      "id": "B0D20944-841A-4586-A372-1454C5E82535"
+    },
+    {
+      "class": "text",
+      "id": "E0574D93-09CB-455F-9A65-710BEAB3DDCC"
+    }
+  ],
+  "name": "Yellow",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EEEB7D6F-3077-46E4-8BC3-CB6CD81BFD84",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

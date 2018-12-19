@@ -16,25 +16,24 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Montserrat-Medium",
-              "size": 22
+              "name": "Roboto-Regular",
+              "size": 24
             }
           },
-          "kerning": 0.07857143,
+          "MSAttributedStringTextTransformAttribute": 0,
+          "kerning": 0.2,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "baseWritingDirection": 0,
-            "headerLevel": 2,
-            "maximumLineHeight": 37,
-            "minimumLineHeight": 37
+            "maximumLineHeight": 34,
+            "minimumLineHeight": 34
           }
         },
-        "length": 18,
+        "length": 17,
         "location": 0
       }
     ],
-    "string": "Descriptive Inputs"
+    "string": "Descriptive Input"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -53,12 +52,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 37,
-    "width": 206,
+    "height": 34,
+    "width": 183,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{2, 9}, {203, 22}}",
+  "glyphBounds": "{{1, 7}, {181, 23}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Descriptive Inputs",
+  "name": "Descriptive Input",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -75,6 +74,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "BC224105-C35F-473B-8EFC-AB19CC2971E2",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -91,18 +91,17 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Montserrat-Medium",
-            "size": 22
+            "name": "Roboto-Regular",
+            "size": 24
           }
         },
-        "kerning": 0.07857143,
+        "MSAttributedStringTextTransformAttribute": 0,
+        "kerning": 0.2,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "baseWritingDirection": 0,
-          "headerLevel": 2,
-          "maximumLineHeight": 37,
-          "minimumLineHeight": 37
+          "maximumLineHeight": 34,
+          "minimumLineHeight": 34
         }
       },
       "verticalAlignment": 0

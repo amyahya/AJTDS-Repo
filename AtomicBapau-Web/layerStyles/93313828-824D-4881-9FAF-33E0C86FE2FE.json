@@ -1,7 +1,7 @@
 {
   "_class": "sharedStyle",
   "do_objectID": "93313828-824D-4881-9FAF-33E0C86FE2FE",
-  "name": "UI Border / Green",
+  "name": "Border / Green",
   "value": {
     "_class": "style",
     "borderOptions": {
@@ -18,14 +18,14 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.4,
-          "green": 0.807843137254902,
-          "red": 0.0745098039215686
+          "blue": 0.6313725490196077,
+          "green": 0.7764705882352941,
+          "red": 0.007843137254901926
         },
         "fillType": 0,
         "isEnabled": true,
         "position": 0,
-        "thickness": 1
+        "thickness": 2
       }
     ],
     "endMarkerType": 0,

@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 4329,
+  "changeIdentifier": 4671,
   "clippingMaskMode": 0,
   "do_objectID": "332472CF-A6A4-44E4-ACEF-9C304B0E67AE",
   "exportOptions": {
@@ -24,9 +24,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 80,
-    "x": 277,
-    "y": 2583
+    "width": 84,
+    "x": 282,
+    "y": 1366
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -46,20 +46,20 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "46443441-188D-4807-9A2A-35975D17B92C"
     },
     {
-      "class": "symbolInstance",
-      "id": "D4F6AFEC-9539-4FD6-BE53-82E0FB25CB60"
+      "class": "text",
+      "id": "BA837ED0-9EE6-4F33-90D5-83965C964976"
     }
   ],
-  "name": "Form / Checkbox / Basic + Description",
+  "name": "Toogle / Checkbox / Basic + Description",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

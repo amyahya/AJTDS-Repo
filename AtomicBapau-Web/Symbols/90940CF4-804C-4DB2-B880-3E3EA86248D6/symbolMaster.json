@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5501,
+  "changeIdentifier": 6005,
   "clippingMaskMode": 0,
   "do_objectID": "90940CF4-804C-4DB2-B880-3E3EA86248D6",
   "exportOptions": {
@@ -23,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 75,
-    "x": 1963,
-    "y": 1307
+    "height": 40,
+    "width": 84,
+    "x": 0,
+    "y": 1924
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -46,18 +46,18 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "73EEF5CE-A262-4D83-BFC4-49B35CA09430"
     },
     {
-      "class": "symbolInstance",
-      "id": "566DEBAC-E2F9-41D3-BA26-9BE0142A1196"
+      "class": "text",
+      "id": "8097B2C8-028E-4E0E-9303-F88BECB4948A"
     }
   ],
-  "name": "Data / Tag / Large",
+  "name": "Chip / Large / Basic",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

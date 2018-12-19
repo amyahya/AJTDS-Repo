@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 4690,
+  "changeIdentifier": 5256,
   "clippingMaskMode": 0,
   "do_objectID": "B7206C5A-74CB-451A-A0E4-DBF92A0F94E6",
   "exportOptions": {
@@ -25,8 +25,8 @@
     "constrainProportions": false,
     "height": 50,
     "width": 162,
-    "x": 1696,
-    "y": 469
+    "x": 0,
+    "y": 470
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -46,15 +46,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "11978265-45F6-4F73-86AA-F00E1C6DA84D"
     },
     {
-      "class": "symbolInstance",
-      "id": "13A9B5C2-DFD9-4BF6-B9CA-7C19B03D2D28"
+      "class": "text",
+      "id": "F56F3101-03A7-40BA-8620-52A326E11367"
     }
   ],
   "name": "Button / Large / Basic  ",

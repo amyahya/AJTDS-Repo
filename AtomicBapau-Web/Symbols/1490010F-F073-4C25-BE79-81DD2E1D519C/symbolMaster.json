@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5185,
+  "changeIdentifier": 5387,
   "clippingMaskMode": 0,
   "do_objectID": "1490010F-F073-4C25-BE79-81DD2E1D519C",
   "exportOptions": {
@@ -25,8 +25,8 @@
     "constrainProportions": false,
     "height": 36,
     "width": 120,
-    "x": 2035,
-    "y": 661
+    "x": 337,
+    "y": 662
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -49,10 +49,6 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "0B77E24E-B4C7-41AC-9D89-BBFA3F18ADBA"
-    },
-    {
       "class": "symbolInstance",
       "id": "D8A5F0BF-2077-48A6-AC4F-3872C741F8F7"
     },
@@ -61,8 +57,8 @@
       "id": "FC9521AD-D36A-4842-AB4B-1ABDE1CA12B5"
     },
     {
-      "class": "symbolInstance",
-      "id": "F0E635B8-D6C5-42AB-B728-00F532FC5EF2"
+      "class": "text",
+      "id": "4D602BD4-EE51-4EDC-8BE2-0AB4BA71DFA9"
     }
   ],
   "name": "Button / Small / Button + L.Icon",

@@ -31,7 +31,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Container",
+  "name": "↳Color",
   "nameIsFixed": true,
   "pointRadiusBehaviour": 1,
   "points": [
@@ -79,13 +79,15 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "DC1FC3D0-9541-41BF-A515-C6D58B3B497B",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "C5AE4F4F-851E-460E-8F8D-DBA4DD9C96C3",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
-    "windingRule": 0
+    "windingRule": 1
   },
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {

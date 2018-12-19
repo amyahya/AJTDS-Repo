@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5711,
+  "changeIdentifier": 5803,
   "clippingMaskMode": 0,
   "do_objectID": "38BF77ED-A090-4F6E-963B-1C6C95D32C89",
   "exportOptions": {
@@ -25,8 +25,8 @@
     "constrainProportions": false,
     "height": 24,
     "width": 24,
-    "x": 667,
-    "y": 4745
+    "x": 2375,
+    "y": 2256
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -49,19 +49,11 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "3D73F096-B427-458B-B7EF-1A7CA16EB215"
-    },
-    {
       "class": "shapeGroup",
       "id": "F317224D-81ED-40A8-A1B0-699229DF3A85"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "00C7AFD0-70D1-4115-B9EC-9D93C6FEECB0"
     }
   ],
-  "name": "Icon / Bookmark / Stroke",
+  "name": "Icon / Bookmark / Border",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

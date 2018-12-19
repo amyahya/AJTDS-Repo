@@ -16,10 +16,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 16,
+    "height": 18,
     "width": 10,
     "x": 7,
-    "y": 4
+    "y": 3
   },
   "hasClippingMask": true,
   "isClosed": true,
@@ -29,13 +29,13 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Chevron Right",
+  "name": "↳Color",
   "nameIsFixed": true,
   "pointRadiusBehaviour": 1,
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 100,
       "curveFrom": "{0, 0.11799999999999999}",
       "curveMode": 1,
       "curveTo": "{0, 0.11799999999999999}",
@@ -55,7 +55,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 100,
       "curveFrom": "{0, 0.88200000000000012}",
       "curveMode": 1,
       "curveTo": "{0, 0.88200000000000012}",
@@ -65,7 +65,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 100,
       "curveFrom": "{0.19093851132686074, 1}",
       "curveMode": 1,
       "curveTo": "{0.19093851132686074, 1}",
@@ -75,7 +75,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 1,
       "curveFrom": "{1, 0.5}",
       "curveMode": 1,
       "curveTo": "{1, 0.5}",
@@ -85,7 +85,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 100,
       "curveFrom": "{0.19093851132686074, 0}",
       "curveMode": 1,
       "curveTo": "{0.19093851132686074, 0}",
@@ -97,32 +97,32 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "7506F2DB-3127-45F1-BD79-82516071B13C",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "AEEC2FD2-EBD2-4CF5-AB2B-24389EA927DA",
     "endMarkerType": 0,
-    "miterLimit": 10,
-    "startMarkerType": 0,
-    "textStyle": {
-      "_class": "textStyle",
-      "encodedAttributes": {
-        "MSAttributedStringColorAttribute": {
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.03137254901960784,
+          "green": 0.4549019607843138,
+          "red": 0.9490196078431372
         },
-        "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "material",
-            "size": 30
-          }
-        }
-      },
-      "verticalAlignment": 0
-    },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
     "windingRule": 1
   }
 }

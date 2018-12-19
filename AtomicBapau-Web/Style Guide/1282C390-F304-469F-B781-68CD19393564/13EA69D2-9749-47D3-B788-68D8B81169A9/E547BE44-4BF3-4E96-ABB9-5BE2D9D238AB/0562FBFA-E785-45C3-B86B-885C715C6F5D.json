@@ -9,14 +9,14 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.07058823529,
-            "green": 0.03921568627,
+            "blue": 0.07058823528999997,
+            "green": 0.03921568626999999,
             "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "FiraSans-Light",
+              "name": "Muli-Light",
               "size": 40
             }
           },
@@ -55,9 +55,9 @@
     "height": 106,
     "width": 605,
     "x": 0,
-    "y": 68
+    "y": 67
   },
-  "glyphBounds": "{{0, 10}, {500, 84}}",
+  "glyphBounds": "{{0, 0}, {809, 53}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -71,7 +71,6 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "8D16DF21-9CB8-4CE9-BB7E-D7F8E0D6DEAF",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -84,14 +83,14 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.07058823529,
-          "green": 0.03921568627,
+          "blue": 0.07058823528999997,
+          "green": 0.03921568626999999,
           "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "FiraSans-Light",
+            "name": "Muli-Light",
             "size": 40
           }
         },

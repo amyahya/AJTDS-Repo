@@ -16,7 +16,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 32,
-    "width": 80,
+    "width": 60,
     "x": 0,
     "y": 0
   },
@@ -32,13 +32,9 @@
     {
       "class": "rectangle",
       "id": "7AD2C1B5-2ABF-486F-8711-1337E3A6DFC6"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "B4C04910-5B8A-4345-918E-2F034CA78ABB"
     }
   ],
-  "name": "BG",
+  "name": "Fill",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

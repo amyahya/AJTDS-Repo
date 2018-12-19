@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Montserrat-Medium",
+              "name": "Roboto-Regular",
               "size": 24
             }
           },
@@ -29,11 +29,11 @@
             "minimumLineHeight": 34
           }
         },
-        "length": 6,
+        "length": 5,
         "location": 0
       }
     ],
-    "string": "Inputs"
+    "string": "Input"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -53,11 +53,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 34,
-    "width": 80,
+    "width": 56,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{2, 9}, {77, 22}}",
+  "glyphBounds": "{{2, 7}, {53, 23}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,7 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Inputs",
+  "name": "Input",
   "nameIsFixed": false,
   "resizingConstraint": 41,
   "resizingType": 0,
@@ -74,6 +74,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "05D05E88-7B6C-45E1-A89A-B929D8EBB460",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -90,7 +91,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Montserrat-Medium",
+            "name": "Roboto-Regular",
             "size": 24
           }
         },

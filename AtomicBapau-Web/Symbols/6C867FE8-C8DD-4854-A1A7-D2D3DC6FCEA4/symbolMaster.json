@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 720,
+  "changeIdentifier": 946,
   "clippingMaskMode": 0,
   "do_objectID": "6C867FE8-C8DD-4854-A1A7-D2D3DC6FCEA4",
   "exportOptions": {
@@ -24,9 +24,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 32,
-    "width": 80,
-    "x": 1824,
-    "y": 2719
+    "width": 60,
+    "x": 1816,
+    "y": 1259
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -49,11 +49,15 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "A2F2A187-21DC-4B39-B0D6-4DDCB54EC171"
+      "class": "group",
+      "id": "5218CDB0-5EA0-40EA-B64D-71C3F92D99D2"
+    },
+    {
+      "class": "group",
+      "id": "CAA64969-A9BE-4ADA-A257-61B131764BDE"
     }
   ],
-  "name": "State / Cell / Basic",
+  "name": "State / Cell / Normal",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

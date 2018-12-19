@@ -18,7 +18,7 @@
     "height": 82,
     "width": 222,
     "x": 0,
-    "y": 66
+    "y": 67
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,8 +28,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Form / Input / Basic + Label",
-  "nameIsFixed": false,
+  "name": "Form / Input / Text field + Label",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
@@ -56,7 +56,7 @@
       "_class": "overrideValue",
       "do_objectID": "0359C7AE-9B68-464C-BAFD-A28B089176EE",
       "overrideName": "F5F3D84A-C1FF-47C3-8941-DB4807220E2C/A56DD516-45AB-44C8-906F-BEBD30593985_symbolID",
-      "value": "6C85BB03-FDBB-4A71-A569-0BB2B353ECD7"
+      "value": "36E8BA97-24F1-4418-823D-FDEE68FE30B7"
     },
     {
       "_class": "overrideValue",
@@ -72,9 +72,21 @@
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "FD9E7818-71B4-4641-89D9-7D7C7D72DC2A",
-      "overrideName": "F5F3D84A-C1FF-47C3-8941-DB4807220E2C/A56DD516-45AB-44C8-906F-BEBD30593985/393C50E0-519D-4B68-B1E2-D0E94DF84B76_symbolID",
+      "do_objectID": "0135F987-A93B-4C03-8E44-E60920294E7F",
+      "overrideName": "F5F3D84A-C1FF-47C3-8941-DB4807220E2C/A56DD516-45AB-44C8-906F-BEBD30593985/255FDFA8-A96D-4CF4-A10C-F0C7BFFDF63A_symbolID",
       "value": "B0C77062-B2A7-49FE-BBF3-80B775914D34"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E09D24B0-46BC-44DE-940F-A8CE9B4C4BAD",
+      "overrideName": "F5F3D84A-C1FF-47C3-8941-DB4807220E2C/A56DD516-45AB-44C8-906F-BEBD30593985/5AA43E8B-AAFD-408D-BB39-29F25416D7FE_layerStyle",
+      "value": "972F72A5-A485-4798-8E0E-A984F397E525"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D2D0E646-3E53-434F-8A9F-1881DAB4B2F5",
+      "overrideName": "F5F3D84A-C1FF-47C3-8941-DB4807220E2C/5BDF94E8-CAB4-4B02-AE58-0CA0D3EC8597_stringValue",
+      "value": "Text field"
     }
   ],
   "resizingConstraint": 63,

@@ -28,7 +28,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Form / Input / Basic",
+  "name": "Form / Input / Text field",
   "nameIsFixed": true,
   "overrideValues": [
     {
@@ -45,6 +45,12 @@
       "_class": "overrideValue",
       "overrideName": "CFF5A1B7-4A48-41A7-8DA5-167BF9A3C10A_symbolID",
       "value": "9B934AA1-0EA7-42B0-8BE0-4EFDF37D651E"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1D55EAA5-047E-414F-84C0-549AF3E6D453",
+      "overrideName": "5BDF94E8-CAB4-4B02-AE58-0CA0D3EC8597_stringValue",
+      "value": "Text field"
     }
   ],
   "resizingConstraint": 63,

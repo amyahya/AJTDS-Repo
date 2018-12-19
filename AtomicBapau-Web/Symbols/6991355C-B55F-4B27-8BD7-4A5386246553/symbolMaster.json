@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 3102,
+  "changeIdentifier": 3220,
   "clippingMaskMode": 0,
   "do_objectID": "6991355C-B55F-4B27-8BD7-4A5386246553",
   "exportOptions": {
@@ -24,9 +24,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 36,
-    "width": 104,
-    "x": 2772,
-    "y": 2363
+    "width": 94,
+    "x": 2141,
+    "y": 903
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -49,15 +49,15 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "AFAF6E91-EE07-4279-BD2E-50CC89A9B3DF"
+      "class": "rectangle",
+      "id": "3B433307-8ABF-4CED-8C91-606EFED24968"
     },
     {
-      "class": "group",
-      "id": "B8718272-8EB2-4BA5-B0B2-2C1E33D7A46E"
+      "class": "shapeGroup",
+      "id": "4669273A-D2F7-44F4-91E1-14705F220FD5"
     }
   ],
-  "name": "State / Input / _Rounded",
+  "name": "State / Input / Rounded / _Normal",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 103,
-    "width": 222,
+    "height": 86,
+    "width": 221,
     "x": 0,
-    "y": 316
+    "y": 317
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,8 +28,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Form / Input / Basic + Label + Caption",
-  "nameIsFixed": false,
+  "name": "Form / Input / Text field + Label + Caption",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
@@ -86,6 +86,12 @@
       "do_objectID": "E50C220E-099E-4485-B6BD-51BFF61F3335",
       "overrideName": "808B6849-3803-4D24-A27A-EA6942657FDE/FFF83095-B292-4368-8FCE-B849F7D19E7B/6907AEB2-A2B1-499E-B23E-C8A1B09527A3_stringValue",
       "value": "Default"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B2402BB2-A68B-47AE-8FC8-8118D7905D69",
+      "overrideName": "808B6849-3803-4D24-A27A-EA6942657FDE/477A3923-965A-4A35-8D3C-26F947A74E5D_stringValue",
+      "value": "Text field"
     }
   ],
   "resizingConstraint": 63,

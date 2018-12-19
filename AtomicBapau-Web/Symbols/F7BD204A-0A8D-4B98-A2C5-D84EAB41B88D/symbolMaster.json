@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2889,
+  "changeIdentifier": 2999,
   "clippingMaskMode": 0,
   "do_objectID": "F7BD204A-0A8D-4B98-A2C5-D84EAB41B88D",
   "exportOptions": {
@@ -24,9 +24,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 36,
-    "width": 104,
-    "x": 2464,
-    "y": 2363
+    "width": 94,
+    "x": 2285,
+    "y": 903
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -49,12 +49,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "8E11CD79-564D-492C-8509-C76CDC8BF24A"
+      "class": "rectangle",
+      "id": "239DAC67-3A43-4E16-9309-90DB1441C434"
     },
     {
-      "class": "group",
-      "id": "8F956F14-0096-4259-8027-81A17DF51B7C"
+      "class": "shapeGroup",
+      "id": "C2B237FE-99A4-4F70-9C94-AF9D88DBB859"
     }
   ],
   "name": "State / Input / Rounded / Success",

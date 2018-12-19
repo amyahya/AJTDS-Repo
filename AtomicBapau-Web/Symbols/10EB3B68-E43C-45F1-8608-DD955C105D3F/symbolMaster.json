@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1425,
+  "changeIdentifier": 2226,
   "clippingMaskMode": 0,
   "do_objectID": "10EB3B68-E43C-45F1-8608-DD955C105D3F",
   "exportOptions": {
@@ -23,12 +23,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 52,
-    "width": 52,
-    "x": 1810,
-    "y": 1119
+    "height": 44,
+    "width": 44,
+    "x": 504,
+    "y": 2646
   },
-  "hasBackgroundColor": true,
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -38,7 +38,7 @@
     ]
   },
   "includeBackgroundColorInExport": false,
-  "includeBackgroundColorInInstance": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -50,12 +50,16 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "512BD9A8-B9AE-425B-AE0B-6B0013838A46"
+      "id": "E02CC2CE-D94E-4EE9-9FF7-2BBC37218FE1"
+    },
+    {
+      "class": "text",
+      "id": "488BFB6B-328E-4FDA-B7CE-9B4F71A2A230"
     }
   ],
-  "name": "Data / Cell / Calendar Date",
+  "name": "Data / Cell / Calendar Cell",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

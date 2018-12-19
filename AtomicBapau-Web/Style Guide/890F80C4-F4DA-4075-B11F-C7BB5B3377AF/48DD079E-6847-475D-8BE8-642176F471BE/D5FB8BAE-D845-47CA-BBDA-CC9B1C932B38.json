@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D5FB8BAE-D845-47CA-BBDA-CC9B1C932B38",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 396,
+    "x": 844,
+    "y": 397
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Card / Image + Secondary Text",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "CF78A8D5-9737-49C5-B494-170B69DD7698/4FA2D890-B710-4649-8898-F7FE0B1B555B_symbolID",
+      "value": "5EB52576-ED7F-4238-BABC-0290E31D5CCA"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "12739AC8-B664-4263-9856-D7668AB1EA3D",
+      "overrideName": "69FF0F29-29ED-48D0-AE0D-2A00FBAD59DD/ED1F3D18-BF2B-4B09-B0E8-D26E260FCE24/5F15397D-4E0C-4A57-8A59-5F4662AD90C6_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2F1014BD-B12D-4A60-81A7-933FA697323F",
+      "overrideName": "7CEF88AF-613A-4AB2-8105-FCACFDED8D74/DAAB5054-A014-495E-BDBB-2932E9625E45_symbolID",
+      "value": "05B7CAF4-072B-4F75-B0F0-C73F9ACFAC2B"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EDDF6691-BB7E-41BC-B225-983D28813F15",
+      "overrideName": "601DB1FA-0F1C-4BB0-BAD0-6F66B29E723C_symbolID",
+      "value": "5A51330F-E1DF-4BE6-87B6-7FEE0574CAAC"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E9CC0CA2-5487-4846-884F-DDD039E4E7A4",
+      "overrideName": "601DB1FA-0F1C-4BB0-BAD0-6F66B29E723C/65CD7D42-0541-429D-8FD1-3D15D51A1490_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/bc85ed17fd1ccef6bfef04828d70e64da6110748.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "191CB1E1-68AC-4827-93B1-52E7AF8B848D",
+  "verticalSpacing": 0
+}

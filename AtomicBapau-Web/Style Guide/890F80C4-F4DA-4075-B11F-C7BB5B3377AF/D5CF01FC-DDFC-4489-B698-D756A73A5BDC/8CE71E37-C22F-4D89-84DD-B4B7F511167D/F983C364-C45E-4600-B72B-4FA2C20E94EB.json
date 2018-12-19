@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 103,
+    "height": 86,
     "width": 222,
     "x": 1018,
-    "y": 316
+    "y": 317
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,7 +28,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Form / Input / Basic + Label + Caption",
+  "name": "Form / Input / Text field + Label + Caption",
   "nameIsFixed": true,
   "overrideValues": [
     {
@@ -76,6 +76,24 @@
       "do_objectID": "75D8ECFD-4DD1-4913-AD0E-5048A2402A65",
       "overrideName": "D9B4732A-7FE9-4B7D-9DB0-F6B1C5D57B7C_symbolID",
       "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "867F43F2-9290-4E67-B66E-9D595692B614",
+      "overrideName": "33C30AD1-4B57-482F-BAFB-561CDFB5D07E_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D2CC97D3-6C0F-4D42-99D2-E9FEB4A1BD1D",
+      "overrideName": "59473EA5-CFB9-4BF3-B981-85B5B4A72AC7_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6A2223D5-8944-4F90-BD6A-B75E739C1AFE",
+      "overrideName": "808B6849-3803-4D24-A27A-EA6942657FDE/477A3923-965A-4A35-8D3C-26F947A74E5D_stringValue",
+      "value": "Text field"
     }
   ],
   "resizingConstraint": 63,

@@ -17,8 +17,8 @@
     "constrainProportions": false,
     "height": 36,
     "width": 120,
-    "x": 147,
-    "y": 152
+    "x": 130,
+    "y": 226
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,7 +28,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Button / Small / Button + R.Icon",
+  "name": "Button / Small / Button + R Icon",
   "nameIsFixed": true,
   "overrideValues": [
     {
@@ -50,6 +50,18 @@
       "_class": "overrideValue",
       "overrideName": "605297EE-FF34-4EB2-8F7A-45D455FC1BC2_symbolID",
       "value": "2481108A-0569-4D09-BE49-C37036297D57"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AEBD6B51-FE24-472E-AA4F-6D4C74EE4450",
+      "overrideName": "8E43A4A6-CA46-44DE-8E84-5D4D91462CE4/781CF294-65F5-473C-859D-78DCFF90791B_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A6AEE044-050E-496E-8040-9AA7EAFE44CD",
+      "overrideName": "EB737F61-4B1E-4C04-B7A9-A6152044827B/CD00EEC3-807E-4B9D-A4D8-F6E4DF460C39_layerStyle",
+      "value": "7506F2DB-3127-45F1-BD79-82516071B13C"
     }
   ],
   "resizingConstraint": 63,
