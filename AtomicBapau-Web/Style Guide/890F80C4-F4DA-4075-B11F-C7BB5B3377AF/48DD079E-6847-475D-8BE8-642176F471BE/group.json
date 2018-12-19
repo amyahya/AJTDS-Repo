@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "48DD079E-6847-475D-8BE8-642176F471BE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 337,
+    "width": 1240,
+    "x": 100,
+    "y": 2222
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "9716C0C3-8843-4C53-A315-F6C12647FF3E"
+    },
+    {
+      "class": "text",
+      "id": "EE1D6598-DEF1-45B0-BBD9-7EC164EA62B4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4CD5065A-2B76-467C-A9D7-AD70E6A75E2A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EC0FA6F1-AA0B-45E6-9880-6D0EA4F5F92F"
+    }
+  ],
+  "name": "Cards",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "566D2627-B5DC-4E73-A53C-DEB787589F45",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1307E7B9-259F-41DA-8023-677F8FEE5174",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6833A73F-E758-400B-93BF-F0E7D24BD886",
+    "height": 31.00015219976219,
+    "width": 51,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "D0E35418-96C4-48F8-84D2-3BDB8E6F390E"
+    },
+    {
+      "class": "shapePath",
+      "id": "45B879DB-41D3-457E-9FD0-3F9008FA4C80"
+    }
+  ],
+  "name": "Track",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "250F2326-A021-416C-9583-170F79E302D6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

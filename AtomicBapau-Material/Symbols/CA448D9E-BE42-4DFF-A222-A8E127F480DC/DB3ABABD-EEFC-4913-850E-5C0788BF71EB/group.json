@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "DB3ABABD-EEFC-4913-850E-5C0788BF71EB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E129FB0A-F6BA-4052-A992-0F6A03B71A18",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D7838C1D-2CD4-43A6-850C-2527CD48EFCD",
+    "height": 296,
+    "width": 296,
+    "x": 16,
+    "y": 112
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "23EFC2F0-8ECB-4C21-91C9-6DD5F288B31C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3F1D2652-EE5D-42D8-B142-2D8E3F908BE9"
+    },
+    {
+      "class": "group",
+      "id": "B1272A60-5BCB-4702-9858-E16671C9D2CA"
+    },
+    {
+      "class": "group",
+      "id": "9E162042-B828-4D35-9591-D776EEC8F6F1"
+    }
+  ],
+  "name": "Clock face",
+  "nameIsFixed": true,
+  "resizingConstraint": 26,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5354AD1F-3071-4A6E-BEB1-3C6EC658B35B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

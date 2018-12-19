@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "ABB3FEA7-7574-428D-A05C-EE06E99CAD39",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 212,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "705B5403-CF58-4F27-8575-B2C74BBBAB6A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5046AFD7-4A52-4D58-98B6-91E345BB39BE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6131ACA7-9C46-4870-A97D-C12976F79072"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1AC87C47-FC47-44F7-9200-56D7CD795871"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B931307F-782E-4687-BD12-1EA71E8BCD72"
+    }
+  ],
+  "name": "Platter",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

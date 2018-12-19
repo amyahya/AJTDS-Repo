@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "2E8038E4-EE2E-414B-845E-4D96751BD012",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F3C582FB-3CFA-41F7-9897-A8C81C45D262",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "103D0295-F285-463B-BEC8-4421717007F5",
+    "height": 176,
+    "width": 136,
+    "x": 590,
+    "y": 71
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "1E3FAD73-5845-4474-8F0D-6CFE0100065F"
+    },
+    {
+      "class": "rectangle",
+      "id": "46EC4510-EDB4-4665-88C9-48BD6EBD0892"
+    }
+  ],
+  "name": "Gradient",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7FD746EC-08D4-4210-90D9-0F94110EB98D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "50E3DFA9-1D40-463F-AB8D-32AE164CCB87",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 144,
+    "width": 328,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "0ACFA657-8616-49BA-BA5D-C60E851736E5"
+    },
+    {
+      "class": "rectangle",
+      "id": "3E49FBAA-B257-4CFF-8A1E-CC56FBF9620B"
+    },
+    {
+      "class": "rectangle",
+      "id": "AF7DAABA-2FD4-4CAE-A723-8995894C645E"
+    },
+    {
+      "class": "text",
+      "id": "6ECB93C4-DF0B-403C-B992-92FA1DFA6829"
+    },
+    {
+      "class": "text",
+      "id": "E7E3DD15-2109-4383-9F78-6D590F3B25AF"
+    },
+    {
+      "class": "text",
+      "id": "199CF5FE-CFFE-46D2-B00E-BC201A5C3F0B"
+    }
+  ],
+  "name": "Grid",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

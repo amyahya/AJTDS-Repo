@@ -1,0 +1,90 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C3D2E89D-0E3B-4859-B24D-AD6B1EAC90B1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "54A96EE8-97D9-4583-9D1C-B6EB255EB806",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3469B61E-4F95-4DE6-9557-06CF36C47520",
+    "height": 11.5,
+    "width": 26.5,
+    "x": 318,
+    "y": 4
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "7F55EC6E-AA15-4A86-A480-35229F2F0810"
+    },
+    {
+      "class": "shapePath",
+      "id": "F8CB0945-325E-497D-BC82-D411B5699761"
+    },
+    {
+      "class": "shapePath",
+      "id": "A0F0D7C9-3CD6-4B2E-BA4A-ABF41EEA019A"
+    },
+    {
+      "class": "shapePath",
+      "id": "1E05C3D6-ECC4-4C36-B932-D8EE237F0613"
+    }
+  ],
+  "name": "Battery",
+  "nameIsFixed": true,
+  "resizingConstraint": 44,
+  "resizingType": 0,
+  "rotation": 0,
+  "sharedStyleID": "56E4F63C-D9B1-467B-BDC1-F7480C3E4706",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "windingRule": 1
+}

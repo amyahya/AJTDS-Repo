@@ -1,0 +1,77 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "900DC72F-D800-40A5-A068-C17167FA8B9D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 32,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Contact",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3BC77744-D247-4791-B6F7-540539DA9F88",
+      "overrideName": "DDFCEE16-ACA0-4E38-97E4-C6476CCCADE5_stringValue",
+      "value": "JG"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BF3A06D1-D188-4703-BD11-248597265C14",
+      "overrideName": "556CE171-D332-42CB-82B8-8543F9DF93E8_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4ABEE1CB-6820-42C4-A66E-6779F49F7710",
+      "overrideName": "70095801-9B92-4B2E-B119-21A4228292BE_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/22c9d5b80be767cc7761918e2ef2b2176963f413.pdf",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 41,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2DCC0072-15B2-4EF6-B06A-48A2C7010D73",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

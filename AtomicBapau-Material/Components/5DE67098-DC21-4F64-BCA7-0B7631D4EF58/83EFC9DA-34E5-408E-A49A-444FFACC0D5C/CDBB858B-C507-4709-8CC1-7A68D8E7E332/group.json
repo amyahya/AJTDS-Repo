@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "CDBB858B-C507-4709-8CC1-7A68D8E7E332",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 164,
+    "width": 360,
+    "x": 1368,
+    "y": 59
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "91F52937-0D79-4FD2-B201-A9317DABAD50"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5353127C-0E21-42BD-A3AD-405D08707392"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4E22A7FB-C3F9-46EF-ADEA-1A04CF75A6CA"
+    },
+    {
+      "class": "text",
+      "id": "1B474C1A-8739-4E6B-AC75-AE97434A619F"
+    }
+  ],
+  "name": "Segmented control",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

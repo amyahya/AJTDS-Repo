@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D391A69E-1EB6-4EA1-9268-334D0421967B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 464,
+    "width": 360,
+    "x": 0,
+    "y": 599
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "09DFC89D-9442-4696-A99F-2A397B58FD5F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1CBDF7C9-938F-4FE1-BCB2-3BD923A49548"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AA9B454E-E38F-420C-8BDD-2D0629E8F6CD"
+    },
+    {
+      "class": "text",
+      "id": "ACBBDE02-09D6-4F4D-A210-CEE10ED4E2DF"
+    }
+  ],
+  "name": "Extended app bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

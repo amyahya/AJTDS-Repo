@@ -1,0 +1,88 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "768CB6E6-6CD5-4D19-9922-438B569735D4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 112,
+    "width": 112,
+    "x": 102,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "_Resources / _Logo",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "568D7465-E5EB-40BC-B0A0-B5B9A2FAC7B2",
+      "overrideName": "E05E6F57-8085-48AB-A833-0184F09DCF20_symbolID",
+      "value": "463589C7-093D-433C-8E3A-3BD102294103"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CDBA4983-F213-4D8F-A1B0-2D7925F7C31F",
+      "overrideName": "E05E6F57-8085-48AB-A833-0184F09DCF20/719FE9EA-57C4-4118-AF00-70BE18F22183_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "414DD0DE-8089-4707-A383-CF1CE409EC1A",
+      "overrideName": "E05E6F57-8085-48AB-A833-0184F09DCF20/09FE53A1-156E-412F-94DE-771C1B45A7D7_symbolID",
+      "value": "CA9A3712-85B6-4940-82EA-FAA742E96B2E"
+    }
+  ],
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "83A2F539-9EDE-46D6-BB80-585D543455B8",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 112,
+            "enabled": 1,
+            "modelID": "constraint_e9196e4f-5e05-4ac7-bbc0-8fef03d44073",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 112
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_ddb11a1d-aa01-4803-ba25-c4c64f4543ae",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

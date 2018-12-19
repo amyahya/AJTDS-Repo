@@ -1,0 +1,93 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 7527,
+  "clippingMaskMode": 0,
+  "do_objectID": "BC3599F0-4104-4E65-882C-0174A91CEF49",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 116,
+    "width": 360,
+    "x": 3891,
+    "y": 3539
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "C8927B58-1564-4592-A00C-165948D2E983"
+    },
+    {
+      "class": "group",
+      "id": "B1B0CC65-1200-419E-B939-86268FBC8A9C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BD5FF780-F50E-42ED-AC1F-CC6311E5BA61"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A9180709-FDFB-4FBC-A319-186FEC18052A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "398E2EE1-7A0B-434A-BC5C-38321D716F70"
+    }
+  ],
+  "name": ".iOS / Navigation Bars / L,R Details + Search Bar",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "921AC8B8-B3B6-4E14-A388-CAEA9AD312EB",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

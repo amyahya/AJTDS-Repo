@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "DD99A125-782D-4E00-B373-D637704117DB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "07017A98-97CB-4F90-95A2-833798D379B3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "87A8215A-9EAE-4F49-903A-EABB0A8C3EC0",
+    "height": 2,
+    "width": 102,
+    "x": 0,
+    "y": 34
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "DEC0F5D6-BD08-4CBF-A0D9-B1BD3C408B79"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6A8FF205-D8D4-4296-A9E1-C1503456C852"
+    }
+  ],
+  "name": "Line Color",
+  "nameIsFixed": true,
+  "resizingConstraint": 34,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "881773E7-D3C8-4B15-BE4E-FA83EB4D3202",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

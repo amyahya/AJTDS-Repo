@@ -1,0 +1,93 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 9032,
+  "clippingMaskMode": 0,
+  "do_objectID": "AC0D6F6C-F182-435B-BCA2-DFF87005E1E9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 28,
+    "width": 360,
+    "x": 3331,
+    "y": 4240
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "A43E7EA9-862A-4960-9E86-CEBB42EE3D02"
+    },
+    {
+      "class": "rectangle",
+      "id": "9C198132-C76A-46AD-A2C2-67C5A99A64C2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C589FE60-669E-471F-9331-E5D35BF024D1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BD0210D0-9582-4FDE-9034-2DD09C2EF0DD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BD7C7A6F-AF85-4A16-B646-485CD117BF6B"
+    }
+  ],
+  "name": ".iOS / Segmented Control / 3 Tabs",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B8221EE2-4E9E-4088-BFA8-C2ADDC6BFA85",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

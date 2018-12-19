@@ -1,0 +1,89 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 7604,
+  "clippingMaskMode": 0,
+  "do_objectID": "62F23B8A-93D9-4A28-9F7E-9F5079AF9573",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 60,
+    "width": 360,
+    "x": 2211,
+    "y": 3609
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "A6CB15A6-75F7-47EB-A91C-A12F8EE8E2CB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FAF5C2AE-D3AD-4345-B1F9-A0337697DF17"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9CF87048-6E1A-42F3-9E2D-B933E264E059"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "448F7D7F-4701-4F8C-ADFE-87930D982648"
+    }
+  ],
+  "name": ".iOS / Table view cells / Large / L Detail + R Detail (Icon + Next)",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C249E130-0D6E-44A2-B107-8011B0BBD2BB",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

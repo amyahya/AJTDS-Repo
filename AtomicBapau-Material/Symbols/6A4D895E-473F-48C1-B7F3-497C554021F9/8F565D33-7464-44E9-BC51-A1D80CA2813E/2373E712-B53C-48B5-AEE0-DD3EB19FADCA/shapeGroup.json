@@ -1,0 +1,90 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "2373E712-B53C-48B5-AEE0-DD3EB19FADCA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D687D57E-C425-4ABD-93FA-43E0613879CC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CD739F40-C918-4F5A-BB9D-4CAB17CD8CB1",
+    "height": 10,
+    "width": 16.5,
+    "x": 0,
+    "y": 5
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "3D99C9C2-EDA3-47A1-AA89-C7F00FC5AA03"
+    },
+    {
+      "class": "shapePath",
+      "id": "FDCC6B9B-F117-4F93-83F0-BA7252C1A7B9"
+    },
+    {
+      "class": "shapePath",
+      "id": "C85CD44C-525D-4BB1-AE44-E766D664899C"
+    },
+    {
+      "class": "shapePath",
+      "id": "B8EEA2EA-8131-43AD-A31B-F117F66B071B"
+    }
+  ],
+  "name": "Signal",
+  "nameIsFixed": true,
+  "resizingConstraint": 57,
+  "resizingType": 0,
+  "rotation": 0,
+  "sharedStyleID": "56E4F63C-D9B1-467B-BDC1-F7480C3E4706",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "windingRule": 1
+}

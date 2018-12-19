@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "EBF166B7-EB7B-4A8E-A0DF-22E41FB54B49",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 644,
+    "width": 360,
+    "x": 0,
+    "y": 1395
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "D400B6BC-3205-4906-AF66-B6E33AAD3CA7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8D66141A-D773-4FF6-8836-E6783CA6E5D4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BD15EBA7-D8CE-4863-AA91-D9F3A9C801F2"
+    },
+    {
+      "class": "text",
+      "id": "211ABBBD-F5A4-4540-AA6B-D6052A03E5EE"
+    }
+  ],
+  "name": "Medium",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

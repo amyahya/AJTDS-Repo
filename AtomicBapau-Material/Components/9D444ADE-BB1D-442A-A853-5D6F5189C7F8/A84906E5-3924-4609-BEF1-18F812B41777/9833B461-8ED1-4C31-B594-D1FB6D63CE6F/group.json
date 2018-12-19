@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "9833B461-8ED1-4C31-B594-D1FB6D63CE6F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "49FEDFBD-18B3-409E-90D1-6E2DB4A6C766",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "33F1DF20-5332-4CC3-982B-57BD8763AD5D",
+    "height": 148,
+    "width": 360,
+    "x": 456,
+    "y": 1445
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "23032BB6-49C5-48BE-B96A-785F7B0E2B18"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1196EF2D-8388-48B6-889E-18C222AC4685"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C1C0C308-DB97-4B13-AF4E-28006538740B"
+    }
+  ],
+  "name": "Progress indicator",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "769F3ED1-1BCC-4799-9962-D61ADF598DAF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

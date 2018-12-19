@@ -1,0 +1,99 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 7253,
+  "clippingMaskMode": 0,
+  "do_objectID": "C1906DC6-E26C-4E06-82C8-736B6E204BAF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 72,
+    "width": 360,
+    "x": 2211,
+    "y": 2267
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "A91BDD2D-CD46-468A-BCC9-7E0158793E1C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "74396C86-0530-45CF-B8AE-6A070462F876"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A7AC0E71-3D9A-4063-80E3-F083F679C9FC"
+    },
+    {
+      "class": "group",
+      "id": "6BBEC89A-36F9-445F-BC03-CA33D24240FA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9CEFE9C2-0420-4E67-8CCD-85B36C61A6B3"
+    }
+  ],
+  "name": "05. Lists / 2 Line / Music player list",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0DB72B3D-6A73-4208-B2D9-F0EA6A092FE3",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

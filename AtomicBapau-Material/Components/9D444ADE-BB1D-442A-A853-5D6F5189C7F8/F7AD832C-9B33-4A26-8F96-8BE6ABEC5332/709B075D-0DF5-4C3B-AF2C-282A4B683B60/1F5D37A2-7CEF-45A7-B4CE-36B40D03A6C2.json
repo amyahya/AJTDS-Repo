@@ -1,0 +1,89 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "1F5D37A2-7CEF-45A7-B4CE-36B40D03A6C2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 262,
+    "width": 360,
+    "x": 0,
+    "y": 308
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "13. Cards / Large / Image + Title + Secondary text",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9111681B-7C24-42A7-8544-0CE832642A2F",
+      "overrideName": "1840522A-1B52-4265-AF6F-E05C820D18AC/F0C8F343-71B0-4BCD-A452-12C8FD62EB03_symbolID",
+      "value": "52FBAB92-F028-4DFF-AFD7-350C452F48AF"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "315CE3CF-C004-422A-BF35-D20C82961199",
+      "overrideName": "1840522A-1B52-4265-AF6F-E05C820D18AC/E2635487-DBF9-415C-85C1-10BF4E13DE72_symbolID",
+      "value": "84112138-83DC-491A-A63D-C78DDB7EE2C0"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D023D7FF-7C64-43E1-9E2A-37D7FEE12CBB",
+      "overrideName": "376F26B5-0A48-4BE1-A088-07A8ABFA9D74_symbolID",
+      "value": "E5C10D0C-221B-40C1-AA24-06AD5A3D951A"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "294F9AF6-C730-4961-9690-53DF96109B11",
+      "overrideName": "FCEF8806-F922-4F42-B888-E5B8A5DCD8E6/7EE7E925-6F4C-4C8B-88FB-63F1F41D8E7E_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/27fd30737bb4e8ab4003d26d20484cf41838b74f.pdf",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "74546454-92A2-46C0-82CC-4ADA3B73CCB8",
+      "overrideName": "9362A470-1DA2-4230-B97C-0A95D4158E4C_symbolID",
+      "value": "46511E89-10FE-41AA-80EC-8D7CFF750985"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6C8B8B1D-FF0B-459A-95C9-76C73D10B4A8",
+      "overrideName": "376F26B5-0A48-4BE1-A088-07A8ABFA9D74/82ED05E5-92AB-40CC-97D4-38280DD25F5F_stringValue",
+      "value": "This is a really really long two-line secondary text example"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "456C06DF-296E-4606-8043-90BE445F85F4",
+  "verticalSpacing": 0
+}

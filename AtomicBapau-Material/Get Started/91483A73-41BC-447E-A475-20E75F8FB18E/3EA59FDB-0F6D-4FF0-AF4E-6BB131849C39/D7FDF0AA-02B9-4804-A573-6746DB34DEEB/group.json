@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D7FDF0AA-02B9-4804-A573-6746DB34DEEB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9160CDF8-BC74-46CB-9CEA-617407BD5174",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5BE43E95-4D04-4821-A3DA-445884AD48AB",
+    "height": 176,
+    "width": 136,
+    "x": 983,
+    "y": 71
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "6E6E3968-AC0F-41F4-BFD3-33D7365DD8AC"
+    },
+    {
+      "class": "rectangle",
+      "id": "2DCCA16F-4AAB-48D9-82D9-1EDE4BCD444B"
+    }
+  ],
+  "name": "Shadow",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "32CFBC46-4046-4968-ACC3-A12C59B1F6D3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

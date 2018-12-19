@@ -1,0 +1,98 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "3A3398E1-A3DC-4FD5-9137-4A1C0E3C3AC4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 16,
+    "width": 296,
+    "x": 204,
+    "y": 58
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "FE913CCD-FBFB-4E76-A259-3992357EA20B"
+    },
+    {
+      "class": "text",
+      "id": "FF7D90CF-1191-4D80-B6E9-BAB1C659F640"
+    },
+    {
+      "class": "text",
+      "id": "BA07426C-E3A2-4876-8C91-98DFBDCF8136"
+    },
+    {
+      "class": "text",
+      "id": "166A888B-8541-4F18-8B72-6455FC86693C"
+    },
+    {
+      "class": "text",
+      "id": "5505F6C5-8448-464F-A83F-B7F5D2187947"
+    },
+    {
+      "class": "text",
+      "id": "23D70EA0-C07A-4FC8-A5A3-F35E830DD813"
+    },
+    {
+      "class": "text",
+      "id": "3A54C621-56E9-4D4D-B300-F957051314E1"
+    }
+  ],
+  "name": "Week days",
+  "nameIsFixed": true,
+  "resizingConstraint": 10,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
