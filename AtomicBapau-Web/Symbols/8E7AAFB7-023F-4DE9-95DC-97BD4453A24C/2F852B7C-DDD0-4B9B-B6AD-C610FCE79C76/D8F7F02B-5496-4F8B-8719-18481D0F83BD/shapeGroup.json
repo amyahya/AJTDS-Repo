@@ -2,9 +2,10 @@
   "_class": "shapeGroup",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "42B8C5A9-F6D8-4222-A9AA-6C9C177225B7",
+  "do_objectID": "D8F7F02B-5496-4F8B-8719-18481D0F83BD",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "10C10A9F-D870-4F32-8425-687216B29275",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,43 +16,43 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 36,
-    "width": 48.00000000000001,
-    "x": 0,
-    "y": 6
+    "do_objectID": "96663B3F-6243-4027-93B5-A10DD893BC14",
+    "height": 34.90909090909092,
+    "width": 10.08606440581362,
+    "x": 70.60245084069533,
+    "y": 16
   },
   "hasClickThrough": false,
-  "hasClippingMask": true,
+  "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapePath",
-      "id": "864CC3D7-54A0-497E-9065-260E1FFF7A73"
+      "id": "41A3A88B-BC21-4B78-8F6A-ADB3DA8FF7C9"
     },
     {
       "class": "shapePath",
-      "id": "C316855E-C445-4C5F-AFB3-D83DB44587B6"
+      "id": "DCFE23CF-E573-4367-9BF3-49906635C492"
     },
     {
       "class": "shapePath",
-      "id": "771DDF55-0A0C-416A-B249-24CF7FC4D5D4"
+      "id": "1E068ECC-3C03-4F28-94A9-E1EA71274426"
     }
   ],
-  "name": "Logo",
-  "nameIsFixed": true,
+  "name": "Shape",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "7506F2DB-3127-45F1-BD79-82516071B13C",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "EF593039-E8EF-4BAC-BBCC-05B38CF1A210",
+    "do_objectID": "5E6CFA5C-A801-4FBC-9EA5-397ADBF7A6FF",
     "endMarkerType": 0,
     "fills": [
       {
@@ -59,9 +60,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.03137254901960784,
-          "green": 0.4549019607843138,
-          "red": 0.9490196078431372
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "fillType": 0,
         "isEnabled": true,
@@ -73,7 +74,7 @@
     ],
     "miterLimit": 10,
     "startMarkerType": 0,
-    "windingRule": 1
+    "windingRule": 0
   },
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
@@ -81,5 +82,5 @@
       }
     }
   },
-  "windingRule": 1
+  "windingRule": 0
 }
