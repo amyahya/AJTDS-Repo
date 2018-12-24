@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "21D11A9D-B040-4B6D-8069-E7BE39389D27",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3288BA6A-8114-4D44-959B-486F5E47DD79",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "54F782B3-7313-4818-AA30-4DC2F7E80A24",
+    "height": 44,
+    "width": 44,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "B4B7E720-44BC-40F0-92A7-E4058417A7C0"
+    },
+    {
+      "class": "oval",
+      "id": "C8E37B83-A7CA-4FE0-B10B-89A792776AFA"
+    },
+    {
+      "class": "shapePath",
+      "id": "A94EDA64-8190-4A03-B122-C1426579E9BE"
+    }
+  ],
+  "name": "facebook",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FB33F8F4-74DB-456B-B6D4-567AC53E0680",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
