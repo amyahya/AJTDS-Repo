@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 788,
+  "changeIdentifier": 831,
   "clippingMaskMode": 0,
   "do_objectID": "4EACF6C4-37D1-4FA7-BF96-DF691A6B2943",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 60,
     "x": 1818,
     "y": 2924
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -63,6 +66,38 @@
   ],
   "name": "Material / Radius: 06",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C20B6AA5-4D1D-43F0-BE5D-344CBA841AE0_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6536B3D1-54D8-428B-BFE2-19C3D3E98EEA_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C20B6AA5-4D1D-43F0-BE5D-344CBA841AE0_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "4CF9BF26-0A99-4309-B74A-D4D5054564C2_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "4CF9BF26-0A99-4309-B74A-D4D5054564C2_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6536B3D1-54D8-428B-BFE2-19C3D3E98EEA_image"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -76,6 +111,12 @@
     "windingRule": 1
   },
   "symbolID": "9941E746-3B49-4BBA-A3D6-819CDB00BE7D",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

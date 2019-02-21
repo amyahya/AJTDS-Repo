@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2527,
+  "changeIdentifier": 2542,
   "clippingMaskMode": 0,
   "do_objectID": "46666DB7-C87E-4633-A8C6-796411094C02",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 24,
     "x": 2523,
     "y": 2404
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,18 @@
   ],
   "name": "Icon / _Star / Half",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "993C55DA-99E3-4208-BB19-A004A6AEB11D_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "993C55DA-99E3-4208-BB19-A004A6AEB11D_image"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

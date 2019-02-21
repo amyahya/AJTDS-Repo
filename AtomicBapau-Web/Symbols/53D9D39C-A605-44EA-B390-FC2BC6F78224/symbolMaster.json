@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5157,
+  "changeIdentifier": 5171,
   "clippingMaskMode": 0,
   "do_objectID": "53D9D39C-A605-44EA-B390-FC2BC6F78224",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 120,
     "x": 167,
     "y": 662
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -63,6 +66,23 @@
   ],
   "name": "Button / Small / Button + R Icon",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8E43A4A6-CA46-44DE-8E84-5D4D91462CE4_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "EB737F61-4B1E-4C04-B7A9-A6152044827B_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "BE136854-32E2-4BF9-A8A2-0B8CFE93DBAD_stringValue"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -76,6 +96,12 @@
     "windingRule": 1
   },
   "symbolID": "03481AC1-6877-4335-A6EB-AF8E0B575B70",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

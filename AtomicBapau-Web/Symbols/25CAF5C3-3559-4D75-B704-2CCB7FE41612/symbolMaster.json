@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 7087,
+  "changeIdentifier": 7090,
   "clippingMaskMode": 0,
   "do_objectID": "25CAF5C3-3559-4D75-B704-2CCB7FE41612",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 152,
     "x": 1206,
     "y": 990
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -67,6 +70,33 @@
   ],
   "name": "Form / Input / Text Area",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "28F23F03-83F2-4FD1-9FD9-04D76A37E7DF_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8CA792CA-FCCD-423A-9FE6-B40379EB3992_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "76F75AE6-1935-4CFB-90F6-49B6008CABE7_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "BAD58326-E398-4125-B3C9-5861971EDC13_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "28F23F03-83F2-4FD1-9FD9-04D76A37E7DF_image"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -80,6 +110,12 @@
     "windingRule": 1
   },
   "symbolID": "29A2895A-EFA4-432C-8371-AE3DA6D74C8E",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 6903,
+  "changeIdentifier": 6918,
   "clippingMaskMode": 0,
   "do_objectID": "B5A55C7F-5895-494D-A369-F48AE3B201BA",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 24,
     "x": 2597,
     "y": 2330
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,18 @@
   ],
   "name": "Icon / Send",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "3EAA70FA-5C65-4155-9FF7-93A657325D40_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "3EAA70FA-5C65-4155-9FF7-93A657325D40_layerStyle"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

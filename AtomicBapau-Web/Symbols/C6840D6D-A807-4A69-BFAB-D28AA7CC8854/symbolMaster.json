@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 9206,
+  "changeIdentifier": 9221,
   "clippingMaskMode": 0,
   "do_objectID": "C6840D6D-A807-4A69-BFAB-D28AA7CC8854",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 24,
     "x": 1857,
     "y": 2256
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,18 @@
   ],
   "name": "Icon / Add / Border",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "9EB85ED7-8FD0-467C-AF34-0C5EA83CD46F_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "9EB85ED7-8FD0-467C-AF34-0C5EA83CD46F_layerStyle"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

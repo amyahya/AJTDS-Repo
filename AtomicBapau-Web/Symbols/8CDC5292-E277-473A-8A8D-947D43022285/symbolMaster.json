@@ -8,7 +8,7 @@
     "red": 0
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1822,
+  "changeIdentifier": 1837,
   "clippingMaskMode": 0,
   "do_objectID": "8CDC5292-E277-473A-8A8D-947D43022285",
   "exportOptions": {
@@ -33,6 +33,9 @@
     "gridSize": 4,
     "isEnabled": false,
     "thickGridTimes": 2
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -61,6 +64,18 @@
   ],
   "name": "Icon / Image / Photo fill",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "BBE02B02-69F4-4469-A895-32BA25F1D251_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "BBE02B02-69F4-4469-A895-32BA25F1D251_layerStyle"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

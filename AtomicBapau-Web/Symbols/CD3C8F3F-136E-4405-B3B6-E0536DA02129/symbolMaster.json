@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5588,
+  "changeIdentifier": 5603,
   "clippingMaskMode": 0,
   "do_objectID": "CD3C8F3F-136E-4405-B3B6-E0536DA02129",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 24,
     "x": 2375,
     "y": 2478
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,18 @@
   ],
   "name": "Icon / Warning / Border",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "35FB0718-EFED-4A7C-BE3F-2FE06F15A7F5_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "35FB0718-EFED-4A7C-BE3F-2FE06F15A7F5_layerStyle"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

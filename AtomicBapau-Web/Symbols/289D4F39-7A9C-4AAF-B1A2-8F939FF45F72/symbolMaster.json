@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 7332,
+  "changeIdentifier": 7347,
   "clippingMaskMode": 0,
   "do_objectID": "289D4F39-7A9C-4AAF-B1A2-8F939FF45F72",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 24,
     "x": 2671,
     "y": 2330
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,18 @@
   ],
   "name": "Icon / Forward",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "9F219245-D02A-4D0B-BCFF-DCC36748E91B_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "9F219245-D02A-4D0B-BCFF-DCC36748E91B_image"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

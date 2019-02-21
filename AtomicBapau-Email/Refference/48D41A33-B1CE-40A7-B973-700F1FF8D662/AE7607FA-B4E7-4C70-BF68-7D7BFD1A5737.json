@@ -64,7 +64,7 @@
     "height": 24,
     "width": 61,
     "x": 446,
-    "y": 298
+    "y": 296
   },
   "glyphBounds": "{{1, 6}, {59, 13}}",
   "hasClippingMask": false,
@@ -126,5 +126,12 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    }
+  }
 }

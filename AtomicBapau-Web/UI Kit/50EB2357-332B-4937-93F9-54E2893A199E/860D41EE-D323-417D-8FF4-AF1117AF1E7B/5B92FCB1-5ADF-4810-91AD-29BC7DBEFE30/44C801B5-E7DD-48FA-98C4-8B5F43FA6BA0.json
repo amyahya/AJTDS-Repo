@@ -33,6 +33,31 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
+      "overrideName": "C118AB12-84B5-4DEA-AFA3-9200B864D420_stringValue",
+      "value": "Username"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F5F3D84A-C1FF-47C3-8941-DB4807220E2C_symbolID",
+      "value": "007D15C6-CA80-49F7-B2C9-9DB37FF92B24"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F5F3D84A-C1FF-47C3-8941-DB4807220E2C/DDC9BB41-4AAC-4C7C-AC41-5994B61CF32B/216621F2-2F00-4550-BD2B-2DFCD05564ED_stringValue",
+      "value": "972F72A5-A485-4798-8E0E-A984F397E525"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F5F3D84A-C1FF-47C3-8941-DB4807220E2C/477A3923-965A-4A35-8D3C-26F947A74E5D_stringValue",
+      "value": "atomicBapau"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F5F3D84A-C1FF-47C3-8941-DB4807220E2C/BFC30615-CCC8-462E-8F3F-F55BAA78F4B1_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
       "overrideName": "F5F3D84A-C1FF-47C3-8941-DB4807220E2C/8BB46224-9D08-479E-92BD-59E30234C8C2_symbolID",
       "value": "8C8E981C-681F-405E-8E38-3A4BC365417A"
     },
@@ -44,7 +69,7 @@
     {
       "_class": "overrideValue",
       "overrideName": "F5F3D84A-C1FF-47C3-8941-DB4807220E2C/8BB46224-9D08-479E-92BD-59E30234C8C2/B614382D-BFA2-46A2-875E-D928C78C9DDA_stringValue",
-      "value": "Robowolf"
+      "value": "atomicBapau"
     },
     {
       "_class": "overrideValue",
@@ -60,36 +85,6 @@
       "_class": "overrideValue",
       "overrideName": "0AA9864C-54FA-45A8-9E42-5D298930B84B/C5988472-6EF7-4933-95F3-ACD295B2ECD6_stringValue",
       "value": "Name"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "FE6CB9D9-D67F-4F36-8179-458BB5672A40",
-      "overrideName": "F5F3D84A-C1FF-47C3-8941-DB4807220E2C_symbolID",
-      "value": "007D15C6-CA80-49F7-B2C9-9DB37FF92B24"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "22DB7C0F-0F4F-4130-9E59-006E81017B57",
-      "overrideName": "F5F3D84A-C1FF-47C3-8941-DB4807220E2C/477A3923-965A-4A35-8D3C-26F947A74E5D_stringValue",
-      "value": "Robowolf"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "54C0C277-2C80-4E62-A596-A0E351DC9B6B",
-      "overrideName": "F5F3D84A-C1FF-47C3-8941-DB4807220E2C/DDC9BB41-4AAC-4C7C-AC41-5994B61CF32B/216621F2-2F00-4550-BD2B-2DFCD05564ED_layerStyle",
-      "value": "972F72A5-A485-4798-8E0E-A984F397E525"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "56BE01E5-AEE1-4221-892F-245EAC34E664",
-      "overrideName": "F5F3D84A-C1FF-47C3-8941-DB4807220E2C/BFC30615-CCC8-462E-8F3F-F55BAA78F4B1_symbolID",
-      "value": ""
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "8F242A6E-62F4-4CC5-82E3-78A5F9576430",
-      "overrideName": "C118AB12-84B5-4DEA-AFA3-9200B864D420_stringValue",
-      "value": "Username"
     }
   ],
   "resizingConstraint": 63,

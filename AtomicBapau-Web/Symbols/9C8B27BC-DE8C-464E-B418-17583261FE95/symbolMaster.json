@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 4965,
+  "changeIdentifier": 4980,
   "clippingMaskMode": 0,
   "do_objectID": "9C8B27BC-DE8C-464E-B418-17583261FE95",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 24,
     "x": 2523,
     "y": 2552
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,18 @@
   ],
   "name": "Icon / Social / Facebook",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "FDEEDB61-E28D-44AC-BD2C-7A60244C4BEC_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "FDEEDB61-E28D-44AC-BD2C-7A60244C4BEC_layerStyle"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

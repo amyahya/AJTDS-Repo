@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 9177,
+  "changeIdentifier": 9192,
   "clippingMaskMode": 0,
   "do_objectID": "0DB6C760-6BA9-498B-9100-CD59ADACB9ED",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 24,
     "x": 2375,
     "y": 2330
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,18 @@
   ],
   "name": "Icon / Grid ",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "61DE9BD3-65DB-4A1D-824B-A48F34318823_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "61DE9BD3-65DB-4A1D-824B-A48F34318823_layerStyle"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

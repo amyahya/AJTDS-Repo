@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 3313,
+  "changeIdentifier": 3328,
   "clippingMaskMode": 0,
   "do_objectID": "5F338F47-EE06-4CEF-8AA4-90DB5A7F7DCB",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 25,
     "x": 1782,
     "y": 1341
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,18 @@
   ],
   "name": "State / Radio / Hover",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0BA204D5-3712-4796-9CDD-1F3CAB6964D6_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0BA204D5-3712-4796-9CDD-1F3CAB6964D6_image"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

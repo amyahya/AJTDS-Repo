@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5465,
+  "changeIdentifier": 5476,
   "clippingMaskMode": 0,
   "do_objectID": "BE9E3DC3-1A63-46E5-B732-8B9C1BA7506F",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 146,
     "x": 0,
     "y": 1126
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -63,6 +66,23 @@
   ],
   "name": "Form / Menu / Label + R Icon",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "69D34D07-80B5-42B3-B4B9-589D0B0111D7_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1DD54AA4-6CAB-4EEC-B89F-6A21FA8EDD3F_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "2DB4B8E1-4018-4CB0-A19D-65A6235866E4_stringValue"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -76,6 +96,12 @@
     "windingRule": 1
   },
   "symbolID": "09807B95-4D3D-4398-87A5-570DACB9CE62",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

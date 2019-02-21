@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5353,
+  "changeIdentifier": 5368,
   "clippingMaskMode": 0,
   "do_objectID": "4EF661B2-218E-453D-B658-82D6710D8454",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 24,
     "x": 2523,
     "y": 2478
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,18 @@
   ],
   "name": "Icon / Social / Android",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B7231D6F-5AB7-4819-93E2-5A6CFF2B8DDB_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B7231D6F-5AB7-4819-93E2-5A6CFF2B8DDB_image"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

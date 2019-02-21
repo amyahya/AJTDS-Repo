@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 3627,
+  "changeIdentifier": 3628,
   "clippingMaskMode": 0,
   "do_objectID": "0E35E2A1-0E90-49FD-BDC1-6A0071A9D97E",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 24,
     "x": 208,
     "y": 1366
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,13 @@
   ],
   "name": "Toogle / Checkbox / Basic",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "21086A86-3309-475F-B375-71625683B8DA_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -68,6 +78,12 @@
     "windingRule": 1
   },
   "symbolID": "901418E2-8295-48DA-86B8-E9274C0A2396",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

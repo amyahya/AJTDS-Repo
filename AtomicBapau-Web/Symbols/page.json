@@ -20,6 +20,9 @@
     "x": 0,
     "y": 0
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -1062,6 +1065,10 @@
     },
     {
       "class": "symbolMaster",
+      "id": "2B6870C3-1633-40A3-B35D-CDEFA1D90E13"
+    },
+    {
+      "class": "symbolMaster",
       "id": "4D5766CA-5A45-4843-9715-74F491E9EB4C"
     },
     {
@@ -1194,6 +1201,10 @@
     },
     {
       "class": "symbolMaster",
+      "id": "05D68A7C-75E2-4A4D-ADCE-78EB702B61C4"
+    },
+    {
+      "class": "symbolMaster",
       "id": "6596B15E-AB98-4DED-9179-B452D29BB4F3"
     },
     {
@@ -1239,6 +1250,10 @@
     {
       "class": "symbolMaster",
       "id": "1DC2B5A8-8EC1-45B6-B72A-643AF3F20A67"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "867C7EFA-13CA-4C7B-A82D-E97A72206306"
     },
     {
       "class": "symbolMaster",
@@ -1411,6 +1426,11 @@
     "windingRule": 1
   },
   "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "com.animaapp.uses.anima": 1,
+      "kModelPropertiesKey": {
+      }
+    },
     "com.example.sketch.44673736-18ee-470e-b22a-f17fbb378238": {
       "displayTitles": 0,
       "gatherSymbols": 0,

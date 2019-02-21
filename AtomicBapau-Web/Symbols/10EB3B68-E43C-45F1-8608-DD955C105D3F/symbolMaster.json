@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2226,
+  "changeIdentifier": 2241,
   "clippingMaskMode": 0,
   "do_objectID": "10EB3B68-E43C-45F1-8608-DD955C105D3F",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 44,
     "x": 504,
     "y": 2646
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -59,6 +62,18 @@
   ],
   "name": "Data / Cell / Calendar Cell",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "488BFB6B-328E-4FDA-B7CE-9B4F71A2A230_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E02CC2CE-D94E-4EE9-9FF7-2BBC37218FE1_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

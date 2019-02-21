@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5157,
+  "changeIdentifier": 5172,
   "clippingMaskMode": 0,
   "do_objectID": "F822E5C8-4FFB-424A-93FE-29D2F5D4F33F",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 24,
     "x": 2375,
     "y": 2182
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,18 @@
   ],
   "name": "Icon / Explore",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "44788FF0-A00F-45F5-92D7-A4149CECF498_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "44788FF0-A00F-45F5-92D7-A4149CECF498_image"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

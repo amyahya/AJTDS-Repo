@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1538,
+  "changeIdentifier": 1613,
   "clippingMaskMode": 0,
   "do_objectID": "D01E308A-2D53-48D2-B78F-E02505D9D5FC",
   "exportOptions": {
@@ -25,14 +25,17 @@
     "constrainProportions": false,
     "height": 100,
     "width": 100,
-    "x": 6709,
-    "y": 363
+    "x": -437,
+    "y": 1049
   },
   "grid": {
     "_class": "simpleGrid",
     "gridSize": 4,
     "isEnabled": true,
     "thickGridTimes": 40
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -76,6 +79,8 @@
   },
   "name": "✱ / Color / Secondary / 600",
   "nameIsFixed": true,
+  "overrideProperties": [
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -89,6 +94,12 @@
     "windingRule": 1
   },
   "symbolID": "11278245-241F-4E66-837D-4E199EF567A5",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 11537,
+  "changeIdentifier": 11552,
   "clippingMaskMode": 0,
   "do_objectID": "36DD0172-1CEE-4FAD-AA3D-F3E87FDA5C59",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 24,
     "x": 2004,
     "y": 2700
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,18 @@
   ],
   "name": "Icon / Money",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "4B0C3397-E8A1-47E0-AEEE-F263337155B4_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "4B0C3397-E8A1-47E0-AEEE-F263337155B4_layerStyle"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 10106,
+  "changeIdentifier": 10121,
   "clippingMaskMode": 0,
   "do_objectID": "2AA27D60-52D1-489E-9DBF-AB50D96BAED0",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 24,
     "x": 2153,
     "y": 2404
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,18 @@
   ],
   "name": "Icon / Location",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D64768FA-A5D6-433E-868B-11320F5680F0_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D64768FA-A5D6-433E-868B-11320F5680F0_image"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

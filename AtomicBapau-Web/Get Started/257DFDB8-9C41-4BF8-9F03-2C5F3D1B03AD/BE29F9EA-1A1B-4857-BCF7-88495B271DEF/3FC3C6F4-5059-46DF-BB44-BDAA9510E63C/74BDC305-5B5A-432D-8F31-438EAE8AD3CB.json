@@ -90,9 +90,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9019607843137255,
-          "green": 0.831372549019608,
-          "red": 0.8235294117647058
+          "blue": 0.7686274509803922,
+          "green": 0.5764705882352942,
+          "red": 0.3843137254901961
         },
         "fillType": 0,
         "isEnabled": true,
@@ -105,5 +105,26 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 220,
+            "enabled": 1,
+            "modelID": "constraint_fad85f6a-39c1-4ea0-a9f8-2a641c6e5797",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 220
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_1afabe94-8e70-476d-be7c-5d5580131cab",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
   }
 }

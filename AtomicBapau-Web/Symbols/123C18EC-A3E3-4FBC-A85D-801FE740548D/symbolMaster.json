@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5055,
+  "changeIdentifier": 5070,
   "clippingMaskMode": 0,
   "do_objectID": "123C18EC-A3E3-4FBC-A85D-801FE740548D",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 24,
     "x": 2671,
     "y": 2552
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,18 @@
   ],
   "name": "Icon / Social / Google",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1D47B76E-BC4F-4138-B715-30594B242AE8_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1D47B76E-BC4F-4138-B715-30594B242AE8_image"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

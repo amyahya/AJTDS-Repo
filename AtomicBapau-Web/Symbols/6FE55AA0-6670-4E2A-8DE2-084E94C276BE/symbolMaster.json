@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 7317,
+  "changeIdentifier": 7332,
   "clippingMaskMode": 0,
   "do_objectID": "6FE55AA0-6670-4E2A-8DE2-084E94C276BE",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 24,
     "x": 2005,
     "y": 2552
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,18 @@
   ],
   "name": "Icon / Social / Skype",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "AD69B738-D9D7-4089-894E-71CE1BB9E90B_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "AD69B738-D9D7-4089-894E-71CE1BB9E90B_layerStyle"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 7535,
+  "changeIdentifier": 7550,
   "clippingMaskMode": 0,
   "do_objectID": "93C4B3D0-C309-471D-8A90-CF236EAF21BB",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 24,
     "x": 2301,
     "y": 2700
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,18 @@
   ],
   "name": "Icon / Thumb / Down",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A92FAA15-E8CA-4699-AC2A-0FC7F4841833_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A92FAA15-E8CA-4699-AC2A-0FC7F4841833_image"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5961,
+  "changeIdentifier": 5976,
   "clippingMaskMode": 0,
   "do_objectID": "076F6D04-98F8-4B02-8AFC-6129FC71CF98",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 24,
     "x": 2301,
     "y": 2478
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,18 @@
   ],
   "name": "Icon / Warning / Fill",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "219EF42B-85A8-4DCC-A305-B869AAD203A7_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "219EF42B-85A8-4DCC-A305-B869AAD203A7_layerStyle"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

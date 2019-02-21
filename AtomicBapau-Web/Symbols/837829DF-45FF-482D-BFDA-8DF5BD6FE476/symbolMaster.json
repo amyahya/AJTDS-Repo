@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 7404,
+  "changeIdentifier": 7419,
   "clippingMaskMode": 0,
   "do_objectID": "837829DF-45FF-482D-BFDA-8DF5BD6FE476",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 24,
     "x": 1857,
     "y": 2478
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,18 @@
   ],
   "name": "Icon / File / Download",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "9BE0DE2A-D7F5-4C5C-A8CA-C72C08B73875_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "9BE0DE2A-D7F5-4C5C-A8CA-C72C08B73875_layerStyle"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 6354,
+  "changeIdentifier": 6372,
   "clippingMaskMode": 0,
   "do_objectID": "EA48E756-4D95-41A1-847C-DA7280539E8B",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 24,
     "x": 2227,
     "y": 2626
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,18 @@
   ],
   "name": "Icon / Hot",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "FF51DA3D-DD92-48E2-B374-8D429CDCF3E0_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "FF51DA3D-DD92-48E2-B374-8D429CDCF3E0_layerStyle"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

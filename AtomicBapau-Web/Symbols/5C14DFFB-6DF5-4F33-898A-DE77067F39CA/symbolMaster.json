@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 8030,
+  "changeIdentifier": 8048,
   "clippingMaskMode": 0,
   "do_objectID": "5C14DFFB-6DF5-4F33-898A-DE77067F39CA",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 62,
     "x": 2047,
     "y": 470
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -59,6 +62,28 @@
   ],
   "name": "State / Avatar / User Icon",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "EC421419-E7E5-445C-90B5-FC8E60C83457_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "EC421419-E7E5-445C-90B5-FC8E60C83457_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "062FB23B-FF90-4B89-A6CA-C80CD2F9CE7F_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "062FB23B-FF90-4B89-A6CA-C80CD2F9CE7F_layerStyle"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -81,6 +106,12 @@
     "windingRule": 1
   },
   "symbolID": "0F337558-AF8C-4056-AA5E-EDCD62F22812",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

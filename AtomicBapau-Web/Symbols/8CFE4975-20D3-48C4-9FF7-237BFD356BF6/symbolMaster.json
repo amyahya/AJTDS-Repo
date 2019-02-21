@@ -8,7 +8,7 @@
     "red": 0
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2592,
+  "changeIdentifier": 2607,
   "clippingMaskMode": 0,
   "do_objectID": "8CFE4975-20D3-48C4-9FF7-237BFD356BF6",
   "exportOptions": {
@@ -33,6 +33,9 @@
     "gridSize": 4,
     "isEnabled": false,
     "thickGridTimes": 2
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -61,6 +64,18 @@
   ],
   "name": "Icon / Remove / w Circle Border",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "3BDBA99F-B850-4D0F-8987-D2E3A0EB9B2B_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "3BDBA99F-B850-4D0F-8987-D2E3A0EB9B2B_image"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -17,10 +17,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "B563E5DD-0DD6-4F09-A6F3-F21EE30065DD",
-    "height": 647,
+    "height": 645,
     "width": 1546,
     "x": 951,
-    "y": -1389
+    "y": -1387
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -93,11 +93,19 @@
     },
     {
       "class": "text",
+      "id": "0AA1A1A8-66FA-4CE3-8CC6-F096F88C427B"
+    },
+    {
+      "class": "text",
       "id": "4DAFF513-DE5B-4FBF-A72A-CDF8BD561549"
     },
     {
       "class": "text",
       "id": "CE901390-183A-46C0-93EF-038DA30FAD5A"
+    },
+    {
+      "class": "text",
+      "id": "77AC5F59-380C-47CC-9986-B5626FCADB03"
     },
     {
       "class": "text",
@@ -109,11 +117,19 @@
     },
     {
       "class": "text",
+      "id": "BDA286B9-EAF5-4020-9E10-F21BD33A06E5"
+    },
+    {
+      "class": "text",
       "id": "4F2E617C-2E5A-459D-A4FA-B8549E40CED9"
     },
     {
       "class": "text",
       "id": "C9FCB2DA-E4B7-4983-8E0E-1FBA9545A9A0"
+    },
+    {
+      "class": "text",
+      "id": "25A9C502-98D7-488F-BC8D-12926BA79A2E"
     },
     {
       "class": "text",
@@ -137,5 +153,11 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   }
 }

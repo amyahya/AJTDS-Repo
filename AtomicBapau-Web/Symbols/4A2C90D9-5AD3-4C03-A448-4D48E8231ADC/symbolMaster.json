@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 7406,
+  "changeIdentifier": 7416,
   "clippingMaskMode": 0,
   "do_objectID": "4A2C90D9-5AD3-4C03-A448-4D48E8231ADC",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 118,
     "x": 134,
     "y": 1924
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -63,6 +66,23 @@
   ],
   "name": "Chip / Large / Text + R Icon",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B6BFFA25-7D22-4D66-9558-46673468EB45_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "88CDF83A-58C6-4789-8B31-1ED837F998FD_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C643FA64-80B6-4E37-BC52-B3032992C8EB_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

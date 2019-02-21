@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 6595,
+  "changeIdentifier": 6605,
   "clippingMaskMode": 0,
   "do_objectID": "37DC70FA-7F12-4E25-939A-E959D325D645",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 88,
     "x": 589,
     "y": 1924
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -63,6 +66,23 @@
   ],
   "name": "Chip / Medium / Text + R Icon",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "900F4815-61AF-4488-9088-25AB3A62727B_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6CD6A031-BE04-4761-AD71-988B611CE5E6_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "DE81972C-14FC-4DF3-A3E7-F33735D97DEA_stringValue"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

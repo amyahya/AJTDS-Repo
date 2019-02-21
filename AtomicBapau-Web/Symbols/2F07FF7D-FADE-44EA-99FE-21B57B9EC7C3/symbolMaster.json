@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2025,
+  "changeIdentifier": 2040,
   "clippingMaskMode": 0,
   "do_objectID": "2F07FF7D-FADE-44EA-99FE-21B57B9EC7C3",
   "exportOptions": {
@@ -28,6 +28,9 @@
     "x": 1839,
     "y": 1726
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -46,7 +49,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -59,6 +62,18 @@
   ],
   "name": "Shape / Button / Fill / Basic - Radius: 6",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "ED7BB605-8411-424C-94E8-0D3B5BEB7900_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "DDC37ADF-4A83-412B-82B8-EA0B476E0A74_layerStyle"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

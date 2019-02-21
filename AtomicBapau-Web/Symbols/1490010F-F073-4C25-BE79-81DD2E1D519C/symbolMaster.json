@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5387,
+  "changeIdentifier": 5399,
   "clippingMaskMode": 0,
   "do_objectID": "1490010F-F073-4C25-BE79-81DD2E1D519C",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 120,
     "x": 337,
     "y": 662
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -63,6 +66,23 @@
   ],
   "name": "Button / Small / Button + L.Icon",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D8A5F0BF-2077-48A6-AC4F-3872C741F8F7_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "FC9521AD-D36A-4842-AB4B-1ABDE1CA12B5_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "4D602BD4-EE51-4EDC-8BE2-0AB4BA71DFA9_stringValue"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -76,6 +96,12 @@
     "windingRule": 1
   },
   "symbolID": "02F43B22-349A-4871-B0C8-AC108A0D1D85",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 6088,
+  "changeIdentifier": 6103,
   "clippingMaskMode": 0,
   "do_objectID": "C2F6EFAD-ACBB-4908-BC47-86EDB492C9EC",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 24,
     "x": 2523,
     "y": 2330
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,18 @@
   ],
   "name": "Icon / Selector",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "978EB3B3-0751-43EF-ABEE-53723BD575FA_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "978EB3B3-0751-43EF-ABEE-53723BD575FA_layerStyle"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

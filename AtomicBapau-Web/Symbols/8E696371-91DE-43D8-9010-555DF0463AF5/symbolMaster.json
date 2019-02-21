@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 4766,
+  "changeIdentifier": 4781,
   "clippingMaskMode": 0,
   "do_objectID": "8E696371-91DE-43D8-9010-555DF0463AF5",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 260,
     "x": 4949,
     "y": 3693
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,18 @@
   ],
   "name": "Mockup / _Assets / iPhone 7 / _Linear",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8DBA893E-7DB4-469B-9B10-CA1106840979_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8DBA893E-7DB4-469B-9B10-CA1106840979_image"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

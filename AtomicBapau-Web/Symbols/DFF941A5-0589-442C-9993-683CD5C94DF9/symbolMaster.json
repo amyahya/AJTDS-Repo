@@ -8,7 +8,7 @@
     "red": 0
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2573,
+  "changeIdentifier": 2588,
   "clippingMaskMode": 0,
   "do_objectID": "DFF941A5-0589-442C-9993-683CD5C94DF9",
   "exportOptions": {
@@ -33,6 +33,9 @@
     "gridSize": 4,
     "isEnabled": false,
     "thickGridTimes": 2
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -61,6 +64,18 @@
   ],
   "name": "Icon / Label / Fill",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E0C81B50-C674-4ED8-B418-5FD8983F9FF9_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E0C81B50-C674-4ED8-B418-5FD8983F9FF9_layerStyle"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

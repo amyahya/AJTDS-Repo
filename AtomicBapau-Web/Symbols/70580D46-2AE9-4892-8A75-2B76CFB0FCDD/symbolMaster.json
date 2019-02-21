@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 6518,
+  "changeIdentifier": 6533,
   "clippingMaskMode": 0,
   "do_objectID": "70580D46-2AE9-4892-8A75-2B76CFB0FCDD",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 24,
     "x": 2078,
     "y": 2626
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,18 @@
   ],
   "name": "Icon / Cart",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A6211BA2-8EFC-4898-AB31-0CEFEA17F108_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A6211BA2-8EFC-4898-AB31-0CEFEA17F108_layerStyle"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

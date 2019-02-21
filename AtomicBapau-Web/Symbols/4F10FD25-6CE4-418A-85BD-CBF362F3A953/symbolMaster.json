@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5795,
+  "changeIdentifier": 5797,
   "clippingMaskMode": 0,
   "do_objectID": "4F10FD25-6CE4-418A-85BD-CBF362F3A953",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 152,
     "x": 600,
     "y": 990
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -67,6 +70,28 @@
   ],
   "name": "Form / Input / Basic + L, R Icon",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "EA951BD8-D2A2-4109-AA47-0A0A0C707667_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B06AC267-24AF-4CF4-A0C3-DA915EEF9157_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "82B9655A-7911-41AE-B471-F03FFCA8EF52_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0AE8CFDF-7952-4AEB-91E9-1EDED6B360BE_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -80,6 +105,12 @@
     "windingRule": 1
   },
   "symbolID": "F2A1D205-72DC-4947-A851-8AC012A6F37A",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

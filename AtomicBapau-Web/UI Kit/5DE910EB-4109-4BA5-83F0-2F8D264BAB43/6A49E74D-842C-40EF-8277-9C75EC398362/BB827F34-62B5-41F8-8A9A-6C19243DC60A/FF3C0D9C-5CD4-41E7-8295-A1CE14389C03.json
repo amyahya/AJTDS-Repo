@@ -33,13 +33,23 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
+      "overrideName": "D1C27A36-BC89-4F0A-B4C5-F663A4EADE80_stringValue",
+      "value": "Show more"
+    },
+    {
+      "_class": "overrideValue",
       "overrideName": "ED1F3D18-BF2B-4B09-B0E8-D26E260FCE24_symbolID",
       "value": "E44D300F-3A02-46D0-BCED-152D7910E4E4"
     },
     {
       "_class": "overrideValue",
-      "overrideName": "ED1F3D18-BF2B-4B09-B0E8-D26E260FCE24/2EDA6EEF-DFB6-4950-BEF2-7728C507300C_symbolID",
+      "overrideName": "ED1F3D18-BF2B-4B09-B0E8-D26E260FCE24/CF6A9DF0-F817-4472-B785-25B1BEA24E8B_symbolID",
       "value": "B0C77062-B2A7-49FE-BBF3-80B775914D34"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "ED1F3D18-BF2B-4B09-B0E8-D26E260FCE24/DDA41823-CDEC-4048-A21F-4876B1AD0E18_stringValue",
+      "value": "E33C52B2-411B-4D97-9C6C-C81EBC2BE7C9"
     },
     {
       "_class": "overrideValue",
@@ -53,8 +63,13 @@
     },
     {
       "_class": "overrideValue",
-      "overrideName": "ED1F3D18-BF2B-4B09-B0E8-D26E260FCE24/CF6A9DF0-F817-4472-B785-25B1BEA24E8B_symbolID",
+      "overrideName": "ED1F3D18-BF2B-4B09-B0E8-D26E260FCE24/2EDA6EEF-DFB6-4950-BEF2-7728C507300C_symbolID",
       "value": "B0C77062-B2A7-49FE-BBF3-80B775914D34"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "ED1F3D18-BF2B-4B09-B0E8-D26E260FCE24/6D136550-AD93-49C3-9DCD-5CC01FC80483_stringValue",
+      "value": "DC1FC3D0-9541-41BF-A515-C6D58B3B497B"
     },
     {
       "_class": "overrideValue",
@@ -65,24 +80,6 @@
       "_class": "overrideValue",
       "overrideName": "78D80DD0-78E3-4AD9-B14E-7ABBF350A1E7/84465A3C-CBF8-42AE-BC83-5913CDD6D99F_stringValue",
       "value": "Secondary"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "C0034809-4031-426F-BA03-2FCBBDEBAABA",
-      "overrideName": "D1C27A36-BC89-4F0A-B4C5-F663A4EADE80_stringValue",
-      "value": "Show more"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "C635C5DA-4477-4F19-BE7A-03142DFE91B1",
-      "overrideName": "ED1F3D18-BF2B-4B09-B0E8-D26E260FCE24/DDA41823-CDEC-4048-A21F-4876B1AD0E18_layerStyle",
-      "value": "E33C52B2-411B-4D97-9C6C-C81EBC2BE7C9"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "1CD2A034-1DB5-4EC9-8DF1-A27EF762D507",
-      "overrideName": "ED1F3D18-BF2B-4B09-B0E8-D26E260FCE24/6D136550-AD93-49C3-9DCD-5CC01FC80483_layerStyle",
-      "value": "DC1FC3D0-9541-41BF-A515-C6D58B3B497B"
     }
   ],
   "resizingConstraint": 43,

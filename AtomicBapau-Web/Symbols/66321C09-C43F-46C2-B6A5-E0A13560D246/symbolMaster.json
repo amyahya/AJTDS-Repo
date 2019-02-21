@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 6605,
+  "changeIdentifier": 6620,
   "clippingMaskMode": 0,
   "do_objectID": "66321C09-C43F-46C2-B6A5-E0A13560D246",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 24,
     "x": 2449,
     "y": 2256
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,18 @@
   ],
   "name": "Icon / Phone",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "9246B05A-45DE-40EE-BCFE-2B2B7642A503_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "9246B05A-45DE-40EE-BCFE-2B2B7642A503_image"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

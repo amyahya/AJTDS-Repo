@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 3412,
+  "changeIdentifier": 3427,
   "clippingMaskMode": 0,
   "do_objectID": "C45D02B1-6246-4A22-8F8A-1420951A5A5D",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 80,
     "x": 1839,
     "y": 1640
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -59,6 +62,38 @@
   ],
   "name": "Shape / Button / Border / Basic - Radius: 6",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "3506F82A-A8A9-461A-A1F1-18DDE7514318_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "DDA41823-CDEC-4048-A21F-4876B1AD0E18_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "3506F82A-A8A9-461A-A1F1-18DDE7514318_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "DDA41823-CDEC-4048-A21F-4876B1AD0E18_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6D136550-AD93-49C3-9DCD-5CC01FC80483_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6D136550-AD93-49C3-9DCD-5CC01FC80483_layerStyle"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

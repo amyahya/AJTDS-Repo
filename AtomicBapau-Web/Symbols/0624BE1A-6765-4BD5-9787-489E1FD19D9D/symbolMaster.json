@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 7078,
+  "changeIdentifier": 7093,
   "clippingMaskMode": 0,
   "do_objectID": "0624BE1A-6765-4BD5-9787-489E1FD19D9D",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 24,
     "x": 2079,
     "y": 2552
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,18 @@
   ],
   "name": "Icon / Social / Slack",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "31B64412-2688-4C68-9171-1341910DCDAB_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "31B64412-2688-4C68-9171-1341910DCDAB_layerStyle"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

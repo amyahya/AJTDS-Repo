@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 13506,
+  "changeIdentifier": 13521,
   "clippingMaskMode": 0,
   "do_objectID": "5088A9C5-F1E1-4A60-9C48-0D9FB74E68A5",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 24,
     "x": 2597,
     "y": 2182
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,18 @@
   ],
   "name": "Icon / Open in view",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "2580EB35-DB8F-41E8-B70D-2B70C78AF7DA_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "2580EB35-DB8F-41E8-B70D-2B70C78AF7DA_layerStyle"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 3914,
+  "changeIdentifier": 3915,
   "clippingMaskMode": 0,
   "do_objectID": "9129D267-6ECA-4496-A35A-D6CEF3DE6D12",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 185,
     "x": 0,
     "y": 1440
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,13 @@
   ],
   "name": "Toogle / Slider",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "500DAC05-1C3A-4278-AC79-9C6C83073FC8_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -68,6 +78,12 @@
     "windingRule": 1
   },
   "symbolID": "B7A3065A-4E56-4999-ADEB-50530C1A79D2",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

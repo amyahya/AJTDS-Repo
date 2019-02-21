@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 3762,
+  "changeIdentifier": 3772,
   "clippingMaskMode": 0,
   "do_objectID": "1DC2B5A8-8EC1-45B6-B72A-643AF3F20A67",
   "exportOptions": {
@@ -28,6 +28,9 @@
     "x": 0,
     "y": 662
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -46,7 +49,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -59,6 +62,18 @@
   ],
   "name": "Button / Small / Basic",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "48DA3BC8-8ABD-413A-B5DC-94B7983C2010_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F4560003-0788-4177-99A1-A0FEC881C605_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -72,6 +87,12 @@
     "windingRule": 1
   },
   "symbolID": "03540A22-6200-4B52-A007-904EBC9F8D61",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

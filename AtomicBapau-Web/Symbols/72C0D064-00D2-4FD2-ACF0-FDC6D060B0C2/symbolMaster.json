@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2327,
+  "changeIdentifier": 2342,
   "clippingMaskMode": 0,
   "do_objectID": "72C0D064-00D2-4FD2-ACF0-FDC6D060B0C2",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 80,
     "x": 2359,
     "y": 1726
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -59,6 +62,28 @@
   ],
   "name": "Shape / Button / Fill / Right Radius: 100",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "7F95A301-0B6D-4D5C-8822-42C1CBF51B69_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "DA1079CA-C1FE-4E56-9EF3-5BB10B2494F5_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "7F95A301-0B6D-4D5C-8822-42C1CBF51B69_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "DA1079CA-C1FE-4E56-9EF3-5BB10B2494F5_layerStyle"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

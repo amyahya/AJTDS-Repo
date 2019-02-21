@@ -50,5 +50,26 @@
     "windingRule": 1
   },
   "symbolID": "6AB0591F-A6C9-440B-8FFE-8AE6C52819F2",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 24,
+            "enabled": 1,
+            "modelID": "constraint_4e9d4e1c-d8f4-4bc8-b2e6-20c1235e0470",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 24
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_b091296d-f2d5-40ea-ba79-17e116db48db",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
   "verticalSpacing": 0
 }

@@ -64,9 +64,9 @@
     "height": 24,
     "width": 61,
     "x": 41,
-    "y": 298
+    "y": 296
   },
-  "glyphBounds": "{{1, 6}, {59, 13}}",
+  "glyphBounds": "{{1, 3}, {59, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -74,7 +74,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 2,
+  "lineSpacingBehaviour": 1,
   "name": "Header Copy 4",
   "nameIsFixed": false,
   "resizingConstraint": 47,
@@ -84,13 +84,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "9D42E328-8722-4C3C-87FD-A9F15AB3B21F",
+    "do_objectID": "BBE01FEB-4046-4FA5-A6EE-24340F37FC34",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "CEA4E593-A14E-4B43-9486-D84A21E1AA41",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -126,5 +125,12 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    }
+  }
 }

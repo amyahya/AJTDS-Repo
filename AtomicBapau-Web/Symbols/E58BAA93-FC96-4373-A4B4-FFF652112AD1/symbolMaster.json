@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 10108,
+  "changeIdentifier": 10123,
   "clippingMaskMode": 0,
   "do_objectID": "E58BAA93-FC96-4373-A4B4-FFF652112AD1",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 24,
     "x": 2153,
     "y": 2478
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,18 @@
   ],
   "name": "Icon / Music / Volume off",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "DAF04CEE-FFC4-437F-988E-C453A14D7630_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "DAF04CEE-FFC4-437F-988E-C453A14D7630_layerStyle"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

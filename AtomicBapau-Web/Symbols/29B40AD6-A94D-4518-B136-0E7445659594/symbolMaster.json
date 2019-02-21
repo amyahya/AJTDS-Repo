@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 9226,
+  "changeIdentifier": 9241,
   "clippingMaskMode": 0,
   "do_objectID": "29B40AD6-A94D-4518-B136-0E7445659594",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 24,
     "x": 2153,
     "y": 2330
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,18 @@
   ],
   "name": "Icon / Gem / Fill",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "06896C5A-70C5-4266-A417-4184E2C48E07_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "06896C5A-70C5-4266-A417-4184E2C48E07_layerStyle"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

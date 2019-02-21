@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5580,
+  "changeIdentifier": 5595,
   "clippingMaskMode": 0,
   "do_objectID": "CD86B301-4036-41FE-B92F-B7C7292091C7",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 24,
     "x": 1709,
     "y": 2256
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,18 @@
   ],
   "name": "Icon / Add / Basic",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1219234F-F696-4E24-A4F7-9A7E328F8533_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1219234F-F696-4E24-A4F7-9A7E328F8533_layerStyle"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

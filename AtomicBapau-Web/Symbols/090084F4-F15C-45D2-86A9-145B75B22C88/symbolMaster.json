@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 3924,
+  "changeIdentifier": 3925,
   "clippingMaskMode": 0,
   "do_objectID": "090084F4-F15C-45D2-86A9-145B75B22C88",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 39,
     "x": 416,
     "y": 1366
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,13 @@
   ],
   "name": "Toogle / Switch / Basic",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "23F8C97B-0231-4E78-B7E0-0E9BED87D1DB_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -68,6 +78,12 @@
     "windingRule": 1
   },
   "symbolID": "3C2657DE-71B2-4BB5-A0E1-3A0478175369",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

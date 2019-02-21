@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 17626,
+  "changeIdentifier": 17641,
   "clippingMaskMode": 0,
   "do_objectID": "F8CE7D15-BA92-4840-91E9-700CE71E94CD",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 160,
     "x": 2129,
     "y": 745
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -64,6 +67,33 @@
   ],
   "name": "State / Progress / 50%",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C01CF640-1852-4F82-B568-3D2C081E98FC_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C01CF640-1852-4F82-B568-3D2C081E98FC_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "AED7F1E5-2030-48D2-A5C2-08ECD141821B_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "AED7F1E5-2030-48D2-A5C2-08ECD141821B_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "4834C887-6869-4A3A-B90A-EC23A0756CF1_stringValue"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

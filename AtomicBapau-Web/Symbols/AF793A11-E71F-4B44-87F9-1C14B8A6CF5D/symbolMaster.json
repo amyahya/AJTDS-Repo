@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 7419,
+  "changeIdentifier": 7434,
   "clippingMaskMode": 0,
   "do_objectID": "AF793A11-E71F-4B44-87F9-1C14B8A6CF5D",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 24,
     "x": 2301,
     "y": 2330
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,18 @@
   ],
   "name": "Icon / Globe",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0E67E1E9-638C-4194-8A50-ED28B995335F_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0E67E1E9-638C-4194-8A50-ED28B995335F_image"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

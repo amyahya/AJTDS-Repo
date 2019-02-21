@@ -20,6 +20,9 @@
     "x": 0,
     "y": 0
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -59,6 +62,38 @@
     {
       "class": "group",
       "id": "4CA7A0EA-1036-4348-8FB6-B9E13D86A6E0"
+    },
+    {
+      "class": "bitmap",
+      "id": "41212F1B-3C07-4E28-8867-DFF932794CAB"
+    },
+    {
+      "class": "bitmap",
+      "id": "41D59FF0-D42D-4CBD-A724-553F24916AAA"
+    },
+    {
+      "class": "bitmap",
+      "id": "8C599ABC-8E13-42EA-8BB1-CC096B23DB2D"
+    },
+    {
+      "class": "bitmap",
+      "id": "97EF805A-2A3B-4102-B6DD-237693C04C00"
+    },
+    {
+      "class": "bitmap",
+      "id": "9EBBC19A-FA80-47F8-92F2-387C57DED096"
+    },
+    {
+      "class": "oval",
+      "id": "F5CF5DDA-08D0-4554-B274-C7E6B3CC31C3"
+    },
+    {
+      "class": "oval",
+      "id": "02EEF662-E500-48EC-ADF8-03008778E5B0"
+    },
+    {
+      "class": "oval",
+      "id": "94BCE9EF-97F3-4896-83C0-4AA6B6AF1717"
     }
   ],
   "name": "Get Started",
@@ -73,6 +108,13 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "com.animaapp.uses.anima": 1,
+      "kModelPropertiesKey": {
+      }
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

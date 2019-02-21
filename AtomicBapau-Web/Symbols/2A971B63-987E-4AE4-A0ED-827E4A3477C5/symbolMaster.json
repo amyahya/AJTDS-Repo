@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5120,
+  "changeIdentifier": 5136,
   "clippingMaskMode": 0,
   "do_objectID": "2A971B63-987E-4AE4-A0ED-827E4A3477C5",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 24,
     "x": 2005,
     "y": 2108
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,18 @@
   ],
   "name": "Icon / Check / w Circle fill",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "CDA6444F-629C-4A00-ABD0-A311F79E4F61_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "CDA6444F-629C-4A00-ABD0-A311F79E4F61_layerStyle"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -68,6 +83,12 @@
     "windingRule": 1
   },
   "symbolID": "8480F6E1-F4E0-4B40-86A8-3BD0D6359319",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

@@ -8,7 +8,7 @@
     "red": 0
   },
   "booleanOperation": 0,
-  "changeIdentifier": 4034,
+  "changeIdentifier": 4049,
   "clippingMaskMode": 0,
   "do_objectID": "67996EAF-09DB-4B8F-B487-2014EF6DFB9D",
   "exportOptions": {
@@ -33,6 +33,9 @@
     "gridSize": 4,
     "isEnabled": false,
     "thickGridTimes": 2
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -61,6 +64,18 @@
   ],
   "name": "Icon / File / Attachment",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "42807391-DBB8-4989-9550-0AE518E702D6_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "42807391-DBB8-4989-9550-0AE518E702D6_layerStyle"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

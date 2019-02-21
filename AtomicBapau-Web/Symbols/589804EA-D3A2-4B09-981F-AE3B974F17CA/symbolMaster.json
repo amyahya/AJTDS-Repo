@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 3028,
+  "changeIdentifier": 3043,
   "clippingMaskMode": 0,
   "do_objectID": "589804EA-D3A2-4B09-981F-AE3B974F17CA",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 25,
     "x": 1932,
     "y": 1415
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,18 @@
   ],
   "name": "State / Checkbox / Selected",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "4443ED42-534A-41B5-94D5-28725F729C17_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "4443ED42-534A-41B5-94D5-28725F729C17_layerStyle"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

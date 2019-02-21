@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5950,
+  "changeIdentifier": 5965,
   "clippingMaskMode": 0,
   "do_objectID": "0462C0CB-B27C-48A3-B1D1-46F2F56FD0E5",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 24,
     "x": 2005,
     "y": 2404
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,18 @@
   ],
   "name": "Icon / Home",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "CDB5E3FA-2D4B-4D1A-B31B-474996012050_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "CDB5E3FA-2D4B-4D1A-B31B-474996012050_layerStyle"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

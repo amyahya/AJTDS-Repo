@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5810,
+  "changeIdentifier": 5817,
   "clippingMaskMode": 0,
   "do_objectID": "C1EDE745-C7AF-413C-B124-54909A60AD58",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 68,
     "x": 4712,
     "y": 800
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,13 @@
   ],
   "name": "Mockup / Screen ",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "037306AD-27D9-4BA1-83DB-C85EDA7935A4_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -68,6 +78,12 @@
     "windingRule": 1
   },
   "symbolID": "6BA1BC10-949D-471F-8DF3-B6BCED59FE73",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

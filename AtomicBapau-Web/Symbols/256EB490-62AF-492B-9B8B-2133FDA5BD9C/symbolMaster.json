@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 6971,
+  "changeIdentifier": 6986,
   "clippingMaskMode": 0,
   "do_objectID": "256EB490-62AF-492B-9B8B-2133FDA5BD9C",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 24,
     "x": 1709,
     "y": 2182
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,18 @@
   ],
   "name": "Icon / Mail / Border",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "396E59FB-0C55-408E-BF7D-9434B59F8D8C_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "396E59FB-0C55-408E-BF7D-9434B59F8D8C_layerStyle"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

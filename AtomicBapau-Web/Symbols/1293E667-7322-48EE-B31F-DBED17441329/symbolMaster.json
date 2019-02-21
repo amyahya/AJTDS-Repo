@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 3672,
+  "changeIdentifier": 3687,
   "clippingMaskMode": 0,
   "do_objectID": "1293E667-7322-48EE-B31F-DBED17441329",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 25,
     "x": 1782,
     "y": 1415
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,28 @@
   ],
   "name": "State / Checkbox / Hover",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6836668B-909F-4EA8-A365-DD029532CE35_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "4277E75C-3491-4735-BC01-2A7AAD5BFA84_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "4277E75C-3491-4735-BC01-2A7AAD5BFA84_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6836668B-909F-4EA8-A365-DD029532CE35_image"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

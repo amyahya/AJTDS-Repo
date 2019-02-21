@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 15819,
+  "changeIdentifier": 15894,
   "clippingMaskMode": 0,
   "do_objectID": "DF69CBC1-42F5-46A9-AC4C-8CF3435890A8",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 164,
     "x": 1919,
     "y": 669
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -56,6 +59,38 @@
   ],
   "name": "State / Pagination / 3 Dots",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "BAB39143-AD60-4034-AAF8-E1F1377414B8_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E0386017-BCCF-4783-9109-5521102FD43F_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "BAB39143-AD60-4034-AAF8-E1F1377414B8_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8EBD2296-374F-43C2-800B-D8AFDA57816A_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E0386017-BCCF-4783-9109-5521102FD43F_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8EBD2296-374F-43C2-800B-D8AFDA57816A_image"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 6583,
+  "changeIdentifier": 6598,
   "clippingMaskMode": 0,
   "do_objectID": "02C3AA7B-5A6F-4906-A26C-E899C188E6E5",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 24,
     "x": 2301,
     "y": 2626
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,18 @@
   ],
   "name": "Icon / Face / Smile",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "CD6198A7-8554-4E7A-A271-BCFCD44AFF42_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "CD6198A7-8554-4E7A-A271-BCFCD44AFF42_layerStyle"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

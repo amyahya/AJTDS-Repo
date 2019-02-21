@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 7250,
+  "changeIdentifier": 7265,
   "clippingMaskMode": 0,
   "do_objectID": "32FEA0AA-3E70-4C79-8A71-2888B4E4D6F9",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 24,
     "x": 2449,
     "y": 2478
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,18 @@
   ],
   "name": "Icon / Social / Amazon",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5FDB476C-9327-4B45-BCBF-70ED92CAD056_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5FDB476C-9327-4B45-BCBF-70ED92CAD056_layerStyle"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

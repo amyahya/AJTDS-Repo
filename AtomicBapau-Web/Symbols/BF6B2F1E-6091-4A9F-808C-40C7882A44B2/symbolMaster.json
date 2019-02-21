@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 9977,
+  "changeIdentifier": 9992,
   "clippingMaskMode": 0,
   "do_objectID": "BF6B2F1E-6091-4A9F-808C-40C7882A44B2",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 24,
     "x": 2005,
     "y": 2182
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,18 @@
   ],
   "name": "Icon / Comments / Border",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F5DC9615-04F2-4C86-83C0-989C8C4CE36B_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F5DC9615-04F2-4C86-83C0-989C8C4CE36B_image"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

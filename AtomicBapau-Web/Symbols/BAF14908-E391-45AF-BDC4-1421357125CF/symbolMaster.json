@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 4770,
+  "changeIdentifier": 4771,
   "clippingMaskMode": 0,
   "do_objectID": "BAF14908-E391-45AF-BDC4-1421357125CF",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 120,
     "x": 2046,
     "y": 1161
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -59,6 +62,23 @@
   ],
   "name": "State / Tab / Medium / Inactive",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "82B68E7C-F5E8-4551-857B-6FFC51769C92_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "BB070172-E3BA-4B85-8E60-6E25DA4AB03B_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "BB070172-E3BA-4B85-8E60-6E25DA4AB03B_layerStyle"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -72,6 +92,12 @@
     "windingRule": 1
   },
   "symbolID": "6FD29F0B-EC23-4228-AB54-398751741E3A",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

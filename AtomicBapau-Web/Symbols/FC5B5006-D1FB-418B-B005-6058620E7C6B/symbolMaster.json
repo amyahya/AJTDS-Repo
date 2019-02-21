@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5246,
+  "changeIdentifier": 5261,
   "clippingMaskMode": 0,
   "do_objectID": "FC5B5006-D1FB-418B-B005-6058620E7C6B",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 14,
     "x": 1773,
     "y": 1894
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,18 @@
   ],
   "name": "Shape / Data Point - Fill / Square",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "25C8113A-4F9D-4B47-8C3F-3AAC78FFB8F5_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "25C8113A-4F9D-4B47-8C3F-3AAC78FFB8F5_layerStyle"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

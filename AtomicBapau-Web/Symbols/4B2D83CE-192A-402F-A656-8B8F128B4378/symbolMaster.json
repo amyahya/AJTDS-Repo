@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5306,
+  "changeIdentifier": 5321,
   "clippingMaskMode": 0,
   "do_objectID": "4B2D83CE-192A-402F-A656-8B8F128B4378",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 24,
     "x": 2671,
     "y": 2626
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,18 @@
   ],
   "name": "Icon / Share",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5290AFB4-A92A-4ADD-8764-18E98E231232_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5290AFB4-A92A-4ADD-8764-18E98E231232_image"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -9,21 +9,21 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.9998809695243835,
+            "blue": 1,
             "green": 1,
-            "red": 0.9998916983604431
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Bold",
+              "name": "OpenSans-Bold",
               "size": 20
             }
           },
-          "kerning": 0.2000000029802322,
+          "kerning": 0.2,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2,
+            "alignment": 0,
             "baseWritingDirection": 0,
             "headerLevel": 2,
             "maximumLineHeight": 14,
@@ -58,7 +58,7 @@
     "x": 16,
     "y": 18
   },
-  "glyphBounds": "{{26, -1}, {78, 16}}",
+  "glyphBounds": "{{1, -1}, {83, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -72,6 +72,7 @@
   "resizingConstraint": 42,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "128A6F5A-A6D1-459D-9ACE-8124860B5F57",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -85,21 +86,21 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9998809695243835,
+          "blue": 1,
           "green": 1,
-          "red": 0.9998916983604431
+          "red": 1
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Bold",
+            "name": "OpenSans-Bold",
             "size": 20
           }
         },
-        "kerning": 0.2000000029802322,
+        "kerning": 0.2,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2,
+          "alignment": 0,
           "baseWritingDirection": 0,
           "headerLevel": 2,
           "maximumLineHeight": 14,
@@ -110,5 +111,11 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
 }

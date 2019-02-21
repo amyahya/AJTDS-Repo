@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5789,
+  "changeIdentifier": 5804,
   "clippingMaskMode": 0,
   "do_objectID": "F4BB0F57-455D-4050-BB96-CB6C772DEC33",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 14,
     "x": 1709,
     "y": 1894
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,18 @@
   ],
   "name": "Shape / Data Point - Fill / Oval",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "318AA069-027F-45B6-B0E1-289E2BCD87C0_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "318AA069-027F-45B6-B0E1-289E2BCD87C0_image"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

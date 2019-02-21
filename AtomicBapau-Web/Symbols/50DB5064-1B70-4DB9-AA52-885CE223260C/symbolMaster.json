@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5702,
+  "changeIdentifier": 5718,
   "clippingMaskMode": 0,
   "do_objectID": "50DB5064-1B70-4DB9-AA52-885CE223260C",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 24,
     "x": 2375,
     "y": 2108
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,18 @@
   ],
   "name": "Icon / Close / w Circle Border",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6DCCBAA3-B679-4F22-9CF0-DFF0282CC787_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6DCCBAA3-B679-4F22-9CF0-DFF0282CC787_layerStyle"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -68,6 +83,12 @@
     "windingRule": 1
   },
   "symbolID": "ED17C99F-FC1C-42DD-ADD8-8F1DB7980134",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

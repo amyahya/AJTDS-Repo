@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5474,
+  "changeIdentifier": 5489,
   "clippingMaskMode": 0,
   "do_objectID": "6E2718D0-4A59-4898-94EA-EA296EDAE1E4",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 24,
     "x": 1857,
     "y": 2330
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,18 @@
   ],
   "name": "Icon / Flag",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "24691DFD-D256-4986-95C8-5783ECB7FAAE_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "24691DFD-D256-4986-95C8-5783ECB7FAAE_layerStyle"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

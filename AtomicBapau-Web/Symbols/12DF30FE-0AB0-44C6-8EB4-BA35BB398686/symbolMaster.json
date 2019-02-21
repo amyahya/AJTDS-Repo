@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 3659,
+  "changeIdentifier": 3660,
   "clippingMaskMode": 0,
   "do_objectID": "12DF30FE-0AB0-44C6-8EB4-BA35BB398686",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 25,
     "x": 1857,
     "y": 1415
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,28 @@
   ],
   "name": "State / Checkbox / Normal",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8942DFA2-EC2B-4600-9BDB-B2570A5286EA_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B411B78D-9191-4D47-8DF8-336247812138_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B411B78D-9191-4D47-8DF8-336247812138_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8942DFA2-EC2B-4600-9BDB-B2570A5286EA_layerStyle"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -68,6 +93,12 @@
     "windingRule": 1
   },
   "symbolID": "E2DD960C-D4EB-481A-909B-A0766B91EA1B",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

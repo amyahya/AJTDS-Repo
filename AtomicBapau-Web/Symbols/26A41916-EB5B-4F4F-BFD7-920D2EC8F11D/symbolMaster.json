@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5919,
+  "changeIdentifier": 5934,
   "clippingMaskMode": 0,
   "do_objectID": "26A41916-EB5B-4F4F-BFD7-920D2EC8F11D",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 24,
     "x": 2227,
     "y": 2182
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,18 @@
   ],
   "name": "Icon / Dots / Vertical",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "22B7DC09-9ED1-4CE1-904C-002F2599361B_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "22B7DC09-9ED1-4CE1-904C-002F2599361B_image"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

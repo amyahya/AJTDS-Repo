@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 4971,
+  "changeIdentifier": 4972,
   "clippingMaskMode": 0,
   "do_objectID": "1B6A1A05-AD1E-4ACD-A744-C47F6E45B94A",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 139,
     "x": 0,
     "y": 748
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,13 @@
   ],
   "name": "Button / Navigation Tab / Large",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "7F6184ED-513E-4171-AC4C-51761A1862D3_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -68,6 +78,12 @@
     "windingRule": 1
   },
   "symbolID": "CF4EC9C3-F735-43D4-8E76-A4C8E86214AF",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

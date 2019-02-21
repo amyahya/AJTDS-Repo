@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5219,
+  "changeIdentifier": 5234,
   "clippingMaskMode": 0,
   "do_objectID": "60D9E250-3FC0-469E-9190-B862ACB37CEE",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 24,
     "x": 2671,
     "y": 2256
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,18 @@
   ],
   "name": "Icon / Music / Play circle",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "98FBCF0D-6D60-4D01-9AA8-6304F58CFF2A_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "98FBCF0D-6D60-4D01-9AA8-6304F58CFF2A_image"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

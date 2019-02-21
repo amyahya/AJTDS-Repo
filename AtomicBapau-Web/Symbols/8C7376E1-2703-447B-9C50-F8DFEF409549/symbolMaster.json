@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5321,
+  "changeIdentifier": 5336,
   "clippingMaskMode": 0,
   "do_objectID": "8C7376E1-2703-447B-9C50-F8DFEF409549",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 24,
     "x": 2005,
     "y": 2478
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,18 @@
   ],
   "name": "Icon / User / Fill",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5AA43E8B-AAFD-408D-BB39-29F25416D7FE_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5AA43E8B-AAFD-408D-BB39-29F25416D7FE_layerStyle"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

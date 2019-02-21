@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 7168,
+  "changeIdentifier": 7183,
   "clippingMaskMode": 0,
   "do_objectID": "F116C354-0BE5-42ED-8EA4-C358F0387571",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 24,
     "x": 2153,
     "y": 2552
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,18 @@
   ],
   "name": "Icon / Social / Spotify",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F8BE0469-9C84-448B-BF88-CB73C78D9ED7_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F8BE0469-9C84-448B-BF88-CB73C78D9ED7_layerStyle"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

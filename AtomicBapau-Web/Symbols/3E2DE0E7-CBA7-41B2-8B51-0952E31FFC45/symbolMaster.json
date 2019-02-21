@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5436,
+  "changeIdentifier": 5451,
   "clippingMaskMode": 0,
   "do_objectID": "3E2DE0E7-CBA7-41B2-8B51-0952E31FFC45",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 24,
     "x": 2153,
     "y": 2256
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,18 @@
   ],
   "name": "Icon / Arrowhead / Right",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8C47B2E0-CA7E-47C2-A245-6D70C0B99098_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8C47B2E0-CA7E-47C2-A245-6D70C0B99098_layerStyle"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 8370,
+  "changeIdentifier": 8373,
   "clippingMaskMode": 0,
   "do_objectID": "3CB9D462-7090-44D0-B9A0-FCDF013865CE",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 152,
     "x": 0,
     "y": 990
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -63,6 +66,23 @@
   ],
   "name": "Form / Input / Text field + Label + Caption",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "59473EA5-CFB9-4BF3-B981-85B5B4A72AC7_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "33C30AD1-4B57-482F-BAFB-561CDFB5D07E_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "808B6849-3803-4D24-A27A-EA6942657FDE_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -76,6 +96,12 @@
     "windingRule": 1
   },
   "symbolID": "53028F3D-BFDE-4C54-8466-0061E899E122",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

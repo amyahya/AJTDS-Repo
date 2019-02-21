@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 4939,
+  "changeIdentifier": 4954,
   "clippingMaskMode": 0,
   "do_objectID": "07E445B9-52FE-4E43-A1B2-E97FD477826E",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 24,
     "x": 2301,
     "y": 2552
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,18 @@
   ],
   "name": "Icon / Social / Twitter",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0A4C72C8-C6B4-4B23-8F21-EDAD38BAF65D_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0A4C72C8-C6B4-4B23-8F21-EDAD38BAF65D_layerStyle"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

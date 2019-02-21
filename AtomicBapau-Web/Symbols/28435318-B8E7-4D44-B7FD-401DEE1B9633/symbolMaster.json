@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 6330,
+  "changeIdentifier": 6345,
   "clippingMaskMode": 0,
   "do_objectID": "28435318-B8E7-4D44-B7FD-401DEE1B9633",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 48,
     "x": 196,
     "y": 2548
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,13 @@
   ],
   "name": "Data / Avatar",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5DE06A22-46BD-48AD-A909-E8474AAB9326_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

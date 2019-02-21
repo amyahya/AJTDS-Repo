@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 19431,
+  "changeIdentifier": 19434,
   "clippingMaskMode": 0,
   "do_objectID": "83E2A2CA-7375-4FE7-B562-102CA23D258E",
   "exportOptions": {
@@ -30,6 +30,9 @@
     "width": 454,
     "x": 0,
     "y": 1664
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -72,6 +75,58 @@
   ],
   "name": "Pagination / Numeric / Large",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "97A26ABC-02D4-40A1-8CCA-7C05CDD8259F_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "3133F4FB-F24B-482A-AC7A-179E66C26860_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "346F79EB-F54F-43DA-AAC9-33A76E78CD1A_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "48BFDEAF-0A22-4916-9660-B82D41FF0B2E_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "DEC713D9-D3C0-4805-9201-8EAD36550480_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0DD66396-A43A-4500-A6C8-645D8F172781_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C5C0F631-3A27-4409-BA3A-0F04CC39946A_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "20F743A4-7BA8-479F-B190-9ACF40E3A6EA_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A9B74D6D-B537-43AF-930A-9EA9E6AA0A56_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "80553F78-C10B-491D-AE12-18FEAABAC0D0_stringValue"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

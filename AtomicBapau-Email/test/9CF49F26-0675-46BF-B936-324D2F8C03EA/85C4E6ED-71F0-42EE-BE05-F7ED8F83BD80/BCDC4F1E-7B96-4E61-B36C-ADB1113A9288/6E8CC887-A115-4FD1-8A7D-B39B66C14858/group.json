@@ -1,0 +1,76 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "6E8CC887-A115-4FD1-8A7D-B39B66C14858",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F14A5FD5-5C8D-4F96-929D-FB68A9BA9A9A",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "ACA10557-2961-4A70-8F54-E8C9E1C62867",
+    "height": 44,
+    "width": 44,
+    "x": 68,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "089D2833-C944-401F-A856-877AF6BB9155"
+    },
+    {
+      "class": "oval",
+      "id": "E1B76A3F-16E4-46C4-99A2-FDBFCAB73D54"
+    },
+    {
+      "class": "shapePath",
+      "id": "94C28287-29A5-4AFE-A8AD-46E85FE88AEE"
+    }
+  ],
+  "name": "twitter",
+  "nameIsFixed": true,
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4F928120-5275-42DE-8805-8113C69A0E6F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

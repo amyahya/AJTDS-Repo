@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5631,
+  "changeIdentifier": 5707,
   "clippingMaskMode": 0,
   "do_objectID": "B79F394C-87AC-4726-94A7-2918BB6551B0",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 42,
     "x": 573,
     "y": 570
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -59,6 +62,18 @@
   ],
   "name": "Button / Medium / _Icon Button",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5EF388C0-8760-421B-854C-DC920C258BC5_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "BEEE99D2-3720-4B00-967F-D5F04E1C6EE6_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -72,6 +87,12 @@
     "windingRule": 1
   },
   "symbolID": "5047DF06-DFFA-49F9-9A37-E888307C31EE",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

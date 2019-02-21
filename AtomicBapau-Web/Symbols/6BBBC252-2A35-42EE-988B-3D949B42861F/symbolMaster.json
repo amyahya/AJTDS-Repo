@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5599,
+  "changeIdentifier": 5614,
   "clippingMaskMode": 0,
   "do_objectID": "6BBBC252-2A35-42EE-988B-3D949B42861F",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 24,
     "x": 2079,
     "y": 2108
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,18 @@
   ],
   "name": "Icon / Chevron / Down",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "86FEFB9A-1907-4BAF-961D-F182583BED92_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "86FEFB9A-1907-4BAF-961D-F182583BED92_image"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

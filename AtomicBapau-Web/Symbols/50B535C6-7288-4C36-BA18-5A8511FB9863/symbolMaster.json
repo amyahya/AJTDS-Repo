@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 16584,
+  "changeIdentifier": 16599,
   "clippingMaskMode": 0,
   "do_objectID": "50B535C6-7288-4C36-BA18-5A8511FB9863",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 70,
     "x": 4592,
     "y": 800
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,18 @@
   ],
   "name": "Mockup / _Overlay / Splash (60% Opacity)",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "2F4C4559-1A1B-41A4-96B5-9DA56F1F39C2_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "2F4C4559-1A1B-41A4-96B5-9DA56F1F39C2_image"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

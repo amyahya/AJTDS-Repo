@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5642,
+  "changeIdentifier": 5657,
   "clippingMaskMode": 0,
   "do_objectID": "C57684D7-DAC8-460E-A715-5E047F88CAAA",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 24,
     "x": 1857,
     "y": 2404
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,18 @@
   ],
   "name": "Icon / Help / Fill",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A940586F-66C8-4E24-A5A0-56D2D01679AF_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A940586F-66C8-4E24-A5A0-56D2D01679AF_image"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

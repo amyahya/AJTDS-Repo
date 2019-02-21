@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5371,
+  "changeIdentifier": 5386,
   "clippingMaskMode": 0,
   "do_objectID": "00B31035-D924-4774-A59D-F8D3293E921E",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 24,
     "x": 2597,
     "y": 2626
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,18 @@
   ],
   "name": "Icon / Trash",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "4BC70538-B378-4838-A761-CB89001D9A71_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "4BC70538-B378-4838-A761-CB89001D9A71_layerStyle"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

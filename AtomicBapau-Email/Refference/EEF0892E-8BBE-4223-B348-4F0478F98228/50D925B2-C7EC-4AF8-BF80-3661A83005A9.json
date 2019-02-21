@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Montserrat-SemiBold",
-              "size": 16
+              "size": 14
             }
           },
           "kerning": 0,
@@ -36,11 +36,11 @@
           },
           "underlineStyle": 0
         },
-        "length": 6,
+        "length": 15,
         "location": 0
       }
     ],
-    "string": "Header"
+    "string": "Paragraph Title"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -62,11 +62,11 @@
     "constrainProportions": false,
     "do_objectID": "F5F7B8A8-4B6F-480B-AC5B-D542EF82DA1A",
     "height": 24,
-    "width": 61,
+    "width": 112,
     "x": 41,
-    "y": 298
+    "y": 297
   },
-  "glyphBounds": "{{1, 6}, {59, 13}}",
+  "glyphBounds": "{{1, 6}, {110, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -75,12 +75,12 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Header Copy 22",
+  "name": "Paragraph Title",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "138A3E06-BC1D-4236-844B-63B0122B7AFD",
+  "sharedStyleID": "31AE71CA-2C88-4FA9-9320-FE9363E25D2E",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -90,7 +90,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "7E875B2B-DCD9-4B52-9232-DD39BA1A945C",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -103,7 +102,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Montserrat-SemiBold",
-            "size": 16
+            "size": 14
           }
         },
         "kerning": 0,
@@ -126,5 +125,12 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    }
+  }
 }
