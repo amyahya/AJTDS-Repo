@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "56726CE7-629D-4ECF-9435-FEB027881B1E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3CD020D4-430E-486A-8CE3-F9F0A738D308",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1D61BE2B-03A9-489E-BF3D-A362C4E96A85",
+    "height": 481,
+    "width": 35,
+    "x": 427,
+    "y": 1
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "2C3D589C-B5FA-4392-B916-88ADE8DE323A"
+    },
+    {
+      "class": "shapePath",
+      "id": "D3ECFBD1-77BC-4266-AD8C-616D5223C0FC"
+    }
+  ],
+  "name": "Gridline - Range",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7C37F3C7-605F-4EB0-A459-252EFA9F0AA5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

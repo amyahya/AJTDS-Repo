@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "0C24DAFD-6A8E-4EF6-8BAA-6954113186E6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9C1178EE-2A8E-4185-9575-1C4B993E9E0D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FA0269DB-57B6-41E0-9ABB-F3EE63F64843",
+    "height": 235,
+    "width": 235,
+    "x": 808,
+    "y": 131
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "245BB7CB-8C66-49A4-826E-D26B934F0DE7"
+    },
+    {
+      "class": "text",
+      "id": "720BCAE6-0F3A-4015-A983-4DEC61415306"
+    }
+  ],
+  "name": "Robin Hood",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B62789F1-F4DB-4179-84DE-670C4A54F5F6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

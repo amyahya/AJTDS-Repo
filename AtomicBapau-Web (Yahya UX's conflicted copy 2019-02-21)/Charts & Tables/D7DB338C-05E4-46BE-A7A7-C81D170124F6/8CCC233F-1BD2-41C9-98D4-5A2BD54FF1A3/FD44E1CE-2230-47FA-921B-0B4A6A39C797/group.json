@@ -1,0 +1,79 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "FD44E1CE-2230-47FA-921B-0B4A6A39C797",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 585,
+    "width": 585,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "054F51AD-ED97-4FA9-BF10-1FCB9108E6A3"
+    },
+    {
+      "class": "oval",
+      "id": "A489EEBE-C033-432C-9838-F865A44FFE62"
+    },
+    {
+      "class": "oval",
+      "id": "31C64BD4-2B0C-445D-BC40-0454C91A6312"
+    },
+    {
+      "class": "oval",
+      "id": "6F855A62-07FC-4AEF-B0FF-2230CF4629C7"
+    },
+    {
+      "class": "oval",
+      "id": "DA4AFE63-61E8-4D8A-8A74-C493E1914767"
+    },
+    {
+      "class": "oval",
+      "id": "5D5417A4-7298-4FA7-9DCA-61BEDC232AC8"
+    }
+  ],
+  "name": "Plot Circles",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

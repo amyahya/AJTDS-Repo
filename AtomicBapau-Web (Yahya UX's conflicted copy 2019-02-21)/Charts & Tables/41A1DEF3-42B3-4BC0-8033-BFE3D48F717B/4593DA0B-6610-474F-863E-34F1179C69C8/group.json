@@ -1,0 +1,74 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "4593DA0B-6610-474F-863E-34F1179C69C8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "303C6449-51E5-4866-9004-130973CC1838",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3B41F768-950B-4097-B9CC-2FDA949817F3",
+    "height": 502,
+    "width": 1230,
+    "x": 109,
+    "y": 103
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "F827B064-57E5-4607-91CB-E4028EC0EAC0"
+    },
+    {
+      "class": "group",
+      "id": "CDC5E7DE-0FEF-4CF4-BE57-201E70200F88"
+    },
+    {
+      "class": "group",
+      "id": "5D33C6C9-6578-4DB3-A257-85ECBE1FF8A5"
+    },
+    {
+      "class": "shapePath",
+      "id": "81A11EE2-1C1A-4AF8-8C99-385D75382239"
+    }
+  ],
+  "name": "Histogram Chart - On White",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B7196256-1B96-473B-8D71-F3462F18F8AD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
