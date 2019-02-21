@@ -38,19 +38,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "6DD73E7A-4327-4F16-B9D2-12D8396B111C"
-    },
-    {
-      "class": "oval",
-      "id": "9DCC6E4A-0DDF-4864-9371-0B68A0BA8953"
-    },
-    {
       "class": "shapeGroup",
-      "id": "ACA20897-9F4B-4841-8B41-EB421DBEED91"
+      "id": "5C7C9374-C567-4891-A85B-1457BAAC9E02"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CF8397CA-C2A2-49AD-9F0A-DEEE3D3F6C19"
     }
   ],
   "name": "instagram",
@@ -66,5 +62,11 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   }
 }

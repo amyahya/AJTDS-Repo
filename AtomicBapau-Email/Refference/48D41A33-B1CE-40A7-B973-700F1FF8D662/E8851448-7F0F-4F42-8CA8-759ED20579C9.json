@@ -29,11 +29,11 @@
             "tighteningFactorForTruncation": 0.05
           }
         },
-        "length": 6,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "Header"
+    "string": "Subheader"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -55,11 +55,11 @@
     "constrainProportions": false,
     "do_objectID": "F892D63D-AAA2-4530-808F-B77BD1E9989E",
     "height": 25,
-    "width": 60,
+    "width": 89,
     "x": 869,
-    "y": 249
+    "y": 247
   },
-  "glyphBounds": "{{1, 5}, {59, 15}}",
+  "glyphBounds": "{{0, 5}, {89, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Header Copy 5",
+  "name": "Subheader",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -112,5 +112,12 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    }
+  }
 }

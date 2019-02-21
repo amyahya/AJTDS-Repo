@@ -16,14 +16,14 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Bold",
+              "name": "OpenSans-Bold",
               "size": 20
             }
           },
-          "kerning": 0.2000000029802322,
+          "kerning": 0.2,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2,
+            "alignment": 0,
             "baseWritingDirection": 0,
             "headerLevel": 2,
             "maximumLineHeight": 14,
@@ -54,11 +54,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 14,
-    "width": 80,
+    "width": 86,
     "x": 0,
     "y": 7
   },
-  "glyphBounds": "{{1, -1}, {78, 16}}",
+  "glyphBounds": "{{1, -1}, {83, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -72,6 +72,7 @@
   "resizingConstraint": 43,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "128A6F5A-A6D1-459D-9ACE-8124860B5F57",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -92,14 +93,14 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Bold",
+            "name": "OpenSans-Bold",
             "size": 20
           }
         },
-        "kerning": 0.2000000029802322,
+        "kerning": 0.2,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2,
+          "alignment": 0,
           "baseWritingDirection": 0,
           "headerLevel": 2,
           "maximumLineHeight": 14,

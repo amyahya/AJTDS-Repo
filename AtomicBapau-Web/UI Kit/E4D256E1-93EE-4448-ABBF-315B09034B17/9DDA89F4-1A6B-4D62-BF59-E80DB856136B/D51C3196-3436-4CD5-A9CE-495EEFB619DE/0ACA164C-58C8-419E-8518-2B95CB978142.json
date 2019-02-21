@@ -30,11 +30,11 @@
             "minimumLineHeight": 24
           }
         },
-        "length": 30,
+        "length": 33,
         "location": 0
       }
     ],
-    "string": "Copyright © 2017 Robowolf Inc."
+    "string": "Copyright © 2017 atomicBapau Inc."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -55,11 +55,15 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
+<<<<<<< HEAD
     "width": 260,
+=======
+    "width": 288,
+>>>>>>> sandbox
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{1, 4}, {255, 18}}",
+  "glyphBounds": "{{1, 4}, {285, 18}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +72,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Copyright © 2017 Rob",
+  "name": "Copyright © 2017 atomicBapau Inc.",
   "nameIsFixed": false,
   "resizingConstraint": 33,
   "resizingType": 0,

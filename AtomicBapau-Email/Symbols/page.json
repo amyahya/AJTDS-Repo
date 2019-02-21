@@ -54,15 +54,15 @@
     },
     {
       "class": "symbolMaster",
-      "id": "35687D30-E060-4F6C-AF1B-D884EA835008"
-    },
-    {
-      "class": "symbolMaster",
       "id": "E0BB2B53-EB3E-4E4B-B364-45AD260450DB"
     },
     {
       "class": "symbolMaster",
       "id": "F07EB3A4-4CED-44B0-8A79-538EA90E68A3"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "35687D30-E060-4F6C-AF1B-D884EA835008"
     },
     {
       "class": "symbolMaster",
@@ -74,15 +74,43 @@
     },
     {
       "class": "symbolMaster",
-      "id": "395610A4-6DB4-49D5-ABC0-D3AA2D1FF7D7"
-    },
-    {
-      "class": "symbolMaster",
       "id": "B0C7679C-8F97-4A2B-B181-DBC5C7D808B3"
     },
     {
+      "class": "symbolMaster",
+      "id": "395610A4-6DB4-49D5-ABC0-D3AA2D1FF7D7"
+    },
+    {
       "class": "group",
-      "id": "54B5CF79-2FC8-4B91-8C31-D7958515CC54"
+      "id": "22251B31-A9FC-44EE-BFDC-A9B1B65A055F"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "82E86863-0865-428C-B1C8-BB437F2F6101"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "B1211892-3EB9-4BA7-80DE-827E9F79D8C2"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "786DC206-2619-4E47-9437-226E4B0E17B8"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "141E071B-3A29-4DEC-A396-9E79A6A49A65"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "8EE74E1E-7DDA-4906-BEA9-CEDFBF5DBE7C"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "E5276BF8-942A-46AA-8594-9C1498E5C991"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "D5700BE2-09C6-44E8-AAF4-8B429EB5A9A1"
     }
   ],
   "name": "Symbols",
@@ -97,6 +125,16 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "com.animaapp.uses.anima": 1,
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.sonburn.sketchplugins.symbol-organizer": {
+      "globalSettings": 1
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

@@ -16,11 +16,11 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Bold",
+              "name": "OpenSans-Bold",
               "size": 14
             }
           },
-          "kerning": 0.2000000029802322,
+          "kerning": 0.2,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
@@ -58,7 +58,7 @@
     "x": 16,
     "y": 11
   },
-  "glyphBounds": "{{15, 1}, {55, 12}}",
+  "glyphBounds": "{{13, 1}, {59, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -72,9 +72,11 @@
   "resizingConstraint": 42,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "538AD676-B1FC-4E25-A7A5-B1E6BD048001",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "9F8553CC-74CC-4C86-A334-5CFED46DC604",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -91,11 +93,11 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Bold",
+            "name": "OpenSans-Bold",
             "size": 14
           }
         },
-        "kerning": 0.2000000029802322,
+        "kerning": 0.2,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,
@@ -113,7 +115,7 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "isAutoWidth": 1
+        "isAutoWidth": 0
       }
     }
   }

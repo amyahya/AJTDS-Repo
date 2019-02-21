@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "OpenSans-Regular",
-              "size": 16
+              "size": 12
             }
           },
           "kerning": 0,
@@ -64,9 +64,9 @@
     "height": 48,
     "width": 250,
     "x": 351,
-    "y": 346
+    "y": 345
   },
-  "glyphBounds": "{{4, 5}, {242, 41}}",
+  "glyphBounds": "{{34, 7}, {182, 37}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -80,7 +80,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "2662BC19-A014-41B0-8D02-468222232FAB",
+  "sharedStyleID": "5A0B67DD-0906-42D6-A57F-95D92E9570FF",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -90,7 +90,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "B02D5159-1606-4925-B2D9-F3EE2370BE17",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -103,7 +102,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "OpenSans-Regular",
-            "size": 16
+            "size": 12
           }
         },
         "kerning": 0,
@@ -126,5 +125,12 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    }
+  }
 }

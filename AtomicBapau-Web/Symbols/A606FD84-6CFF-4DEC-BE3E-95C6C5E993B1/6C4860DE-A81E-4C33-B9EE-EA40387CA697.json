@@ -16,11 +16,11 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Bold",
+              "name": "OpenSans-Bold",
               "size": 20
             }
           },
-          "kerning": 0.2000000029802322,
+          "kerning": 0.2,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
@@ -58,7 +58,7 @@
     "x": 16,
     "y": 18
   },
-  "glyphBounds": "{{1, -1}, {78, 16}}",
+  "glyphBounds": "{{1, -1}, {83, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -72,9 +72,11 @@
   "resizingConstraint": 42,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "128A6F5A-A6D1-459D-9ACE-8124860B5F57",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "4D815811-13D8-4054-BC9F-E30E48B81E05",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -91,11 +93,11 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Bold",
+            "name": "OpenSans-Bold",
             "size": 20
           }
         },
-        "kerning": 0.2000000029802322,
+        "kerning": 0.2,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,

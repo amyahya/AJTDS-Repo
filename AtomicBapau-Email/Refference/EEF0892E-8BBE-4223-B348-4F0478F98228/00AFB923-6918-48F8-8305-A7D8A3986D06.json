@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "OpenSans-Regular",
-              "size": 12
+              "size": 11
             }
           },
           "kerning": 0,
@@ -64,9 +64,9 @@
     "height": 32,
     "width": 250,
     "x": 869,
-    "y": 434
+    "y": 489
   },
-  "glyphBounds": "{{0, 3}, {181, 29}}",
+  "glyphBounds": "{{0, 3}, {166, 28}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -80,7 +80,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "03188C6B-470F-4C8F-B170-58FAD6AEA1D7",
+  "sharedStyleID": "18AEDA1D-B078-4674-AD49-5D8E40C016A9",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -102,7 +102,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "OpenSans-Regular",
-            "size": 12
+            "size": 11
           }
         },
         "kerning": 0,
@@ -125,5 +125,12 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    }
+  }
 }

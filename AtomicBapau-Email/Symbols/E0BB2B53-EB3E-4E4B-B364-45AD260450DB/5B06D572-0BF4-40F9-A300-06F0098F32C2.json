@@ -19,7 +19,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "C813880E-5973-4A5F-A45A-716EFD1C5777",
-    "height": 224,
+    "height": 80,
     "width": 320,
     "x": 0,
     "y": 0
@@ -92,9 +92,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9411764705882353,
-          "green": 0.9411764705882353,
-          "red": 0.9411764705882353
+          "blue": 0.9607843137254902,
+          "green": 0.9607843137254902,
+          "red": 0.9607843137254902
         },
         "fillType": 0,
         "isEnabled": true,
@@ -107,5 +107,11 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   }
 }

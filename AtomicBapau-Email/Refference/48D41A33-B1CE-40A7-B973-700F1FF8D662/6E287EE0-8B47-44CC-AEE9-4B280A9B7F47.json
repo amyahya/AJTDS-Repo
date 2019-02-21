@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Montserrat-SemiBold",
-              "size": 24
+              "size": 18
             }
           },
           "paragraphStyle": {
@@ -54,11 +54,11 @@
     "constrainProportions": false,
     "do_objectID": "BFEBB3CD-5A3D-473D-879D-E95207A998FF",
     "height": 31,
-    "width": 91,
+    "width": 68,
     "x": 41,
     "y": 194
   },
-  "glyphBounds": "{{2, 6}, {88, 19}}",
+  "glyphBounds": "{{1, 8}, {67, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -95,7 +95,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Montserrat-SemiBold",
-            "size": 24
+            "size": 18
           }
         },
         "paragraphStyle": {
@@ -110,5 +110,12 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    }
+  }
 }

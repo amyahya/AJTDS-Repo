@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 7087,
+  "changeIdentifier": 7090,
   "clippingMaskMode": 0,
   "do_objectID": "25CAF5C3-3559-4D75-B704-2CCB7FE41612",
   "exportOptions": {
@@ -79,12 +79,20 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
+<<<<<<< HEAD
       "overrideName": "76F75AE6-1935-4CFB-90F6-49B6008CABE7_symbolID"
+=======
+      "overrideName": "8CA792CA-FCCD-423A-9FE6-B40379EB3992_stringValue"
+>>>>>>> sandbox
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
+<<<<<<< HEAD
       "overrideName": "8CA792CA-FCCD-423A-9FE6-B40379EB3992_stringValue"
+=======
+      "overrideName": "76F75AE6-1935-4CFB-90F6-49B6008CABE7_symbolID"
+>>>>>>> sandbox
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -110,6 +118,12 @@
     "windingRule": 1
   },
   "symbolID": "29A2895A-EFA4-432C-8371-AE3DA6D74C8E",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

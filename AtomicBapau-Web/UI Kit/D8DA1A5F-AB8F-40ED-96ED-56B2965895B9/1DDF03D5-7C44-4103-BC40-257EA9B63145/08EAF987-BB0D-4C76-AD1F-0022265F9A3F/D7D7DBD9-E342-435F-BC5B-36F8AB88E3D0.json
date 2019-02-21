@@ -33,6 +33,11 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
+      "overrideName": "C118AB12-84B5-4DEA-AFA3-9200B864D420_stringValue",
+      "value": "Location"
+    },
+    {
+      "_class": "overrideValue",
       "overrideName": "F5F3D84A-C1FF-47C3-8941-DB4807220E2C/8BB46224-9D08-479E-92BD-59E30234C8C2_symbolID",
       "value": "8C8E981C-681F-405E-8E38-3A4BC365417A"
     },
@@ -63,6 +68,16 @@
     },
     {
       "_class": "overrideValue",
+      "overrideName": "F5F3D84A-C1FF-47C3-8941-DB4807220E2C/A56DD516-45AB-44C8-906F-BEBD30593985/D64768FA-A5D6-433E-868B-11320F5680F0_stringValue",
+      "value": "972F72A5-A485-4798-8E0E-A984F397E525"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F5F3D84A-C1FF-47C3-8941-DB4807220E2C/5BDF94E8-CAB4-4B02-AE58-0CA0D3EC8597_stringValue",
+      "value": "Saint-Petersburg, Russia"
+    },
+    {
+      "_class": "overrideValue",
       "overrideName": "0AA9864C-54FA-45A8-9E42-5D298930B84B/C75B4C12-7F3B-4AC6-BF5E-475449783E53_stringValue",
       "value": "Location"
     },
@@ -70,24 +85,6 @@
       "_class": "overrideValue",
       "overrideName": "0AA9864C-54FA-45A8-9E42-5D298930B84B/C5988472-6EF7-4933-95F3-ACD295B2ECD6_stringValue",
       "value": "Location"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "EB14832D-54C0-4659-AC08-5A6433039893",
-      "overrideName": "C118AB12-84B5-4DEA-AFA3-9200B864D420_stringValue",
-      "value": "Location"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "91EFAB8C-E9B6-4F02-B629-D5C6C93BE5A4",
-      "overrideName": "F5F3D84A-C1FF-47C3-8941-DB4807220E2C/5BDF94E8-CAB4-4B02-AE58-0CA0D3EC8597_stringValue",
-      "value": "Saint-Petersburg, Russia"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "69A38FD2-E418-44DE-8089-9876511C4BC1",
-      "overrideName": "F5F3D84A-C1FF-47C3-8941-DB4807220E2C/A56DD516-45AB-44C8-906F-BEBD30593985/D64768FA-A5D6-433E-868B-11320F5680F0_layerStyle",
-      "value": "972F72A5-A485-4798-8E0E-A984F397E525"
     }
   ],
   "resizingConstraint": 63,

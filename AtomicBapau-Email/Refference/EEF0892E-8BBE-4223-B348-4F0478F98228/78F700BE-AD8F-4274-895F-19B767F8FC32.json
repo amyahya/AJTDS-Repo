@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Montserrat-SemiBold",
-              "size": 16
+              "size": 14
             }
           },
           "kerning": 0,
@@ -36,11 +36,11 @@
           },
           "underlineStyle": 0
         },
-        "length": 6,
+        "length": 15,
         "location": 0
       }
     ],
-    "string": "Header"
+    "string": "Paragraph Title"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -62,11 +62,11 @@
     "constrainProportions": false,
     "do_objectID": "2EAF2144-1F85-486F-B070-B58DB805752E",
     "height": 24,
-    "width": 61,
+    "width": 112,
     "x": 869,
-    "y": 298
+    "y": 297
   },
-  "glyphBounds": "{{1, 6}, {59, 13}}",
+  "glyphBounds": "{{1, 6}, {110, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -75,12 +75,12 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Header Copy 20",
+  "name": "Paragraph Title",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "D54703F7-5FDC-4FFC-AD9B-DD7B93EEC1BB",
+  "sharedStyleID": "BBA9642A-AEAE-4A10-AD46-A85EC2899F35",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -90,7 +90,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "E299F7D8-5824-43C2-AB4F-506790B419AB",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -103,7 +102,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Montserrat-SemiBold",
-            "size": 16
+            "size": 14
           }
         },
         "kerning": 0,
@@ -126,5 +125,12 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    }
+  }
 }

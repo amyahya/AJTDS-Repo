@@ -38,19 +38,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "21E53563-B33A-42BA-93F5-630F22E4D535"
+      "class": "shapeGroup",
+      "id": "5F6135C7-B480-4CDB-8E78-DF97199542A3"
     },
     {
-      "class": "oval",
-      "id": "E35EB79B-66AE-4B4C-ADFB-ECC1400EBD34"
-    },
-    {
-      "class": "shapePath",
-      "id": "25FF9A57-34D9-4B82-84E4-542B6B8669E2"
+      "class": "symbolInstance",
+      "id": "D50F839E-E0DC-46B7-8199-ABD6A27C2171"
     }
   ],
   "name": "twitter",
@@ -66,5 +62,11 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   }
 }
