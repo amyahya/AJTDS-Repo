@@ -1,0 +1,93 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 12102,
+  "clippingMaskMode": 0,
+  "do_objectID": "F7F94510-651A-44E6-8DB2-A8ABD4964F52",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 44,
+    "width": 360,
+    "x": 2771,
+    "y": 3768
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "5BD09183-25A4-4262-B9E8-52706593AD52"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F1BAF63A-F2AD-4909-8EB9-A83E152E4DCF"
+    },
+    {
+      "class": "group",
+      "id": "C1B12255-268D-44A6-8692-A4829B23FD0A"
+    },
+    {
+      "class": "group",
+      "id": "E48C2B6C-9E5E-41A9-859B-D85A146D57B4"
+    },
+    {
+      "class": "group",
+      "id": "D5904581-D0D9-4EA5-AA37-EB261782ADF9"
+    }
+  ],
+  "name": ".iOS / Sliders / _States / Default / 100%",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "400A393F-E3E1-4964-BDFB-9EE73BF294DA",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

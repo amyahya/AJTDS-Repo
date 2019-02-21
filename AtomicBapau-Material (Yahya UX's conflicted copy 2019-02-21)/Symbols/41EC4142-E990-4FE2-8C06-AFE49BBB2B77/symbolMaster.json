@@ -1,0 +1,103 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "6CAED15C-D0D3-4FF3-A669-F94E93A9501B",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 8173,
+  "clippingMaskMode": 0,
+  "do_objectID": "41EC4142-E990-4FE2-8C06-AFE49BBB2B77",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "58AB895B-6B4C-4EB6-BA0D-B3FCB8AE50F1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "63776657-9B2B-4424-AAAF-6C92A20B3F97",
+    "height": 164,
+    "width": 360,
+    "x": 3891,
+    "y": 3811
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "FB6473C2-1D76-4CD2-874F-66936381E7FF",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "3B5FA8A6-EA89-4B21-983B-8242BFFF8EAA"
+    },
+    {
+      "class": "group",
+      "id": "ED4E8D59-77E6-4ACD-B54B-E9718C2F630C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "28E04264-30CA-48E1-B19A-58FA07A6089D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ED2B7635-E403-4DD7-AA40-26700A62E40C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C0C59D84-A9FF-47FB-B415-79A46EF53978"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5A6BB347-3892-4CBB-B461-8C568FCF97D8"
+    }
+  ],
+  "name": ".iOS / Navigation Bars / L,R Details + Large Title + Search Bar",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CE3543AF-9052-42D0-B2EE-34E5BC9BC8F1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "03BE9B94-187A-45F0-9BBC-544C05F24C89",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D6AB6BC9-5BA4-4B7A-9D12-268FBAE671A1",
+    "guides": [
+    ]
+  }
+}

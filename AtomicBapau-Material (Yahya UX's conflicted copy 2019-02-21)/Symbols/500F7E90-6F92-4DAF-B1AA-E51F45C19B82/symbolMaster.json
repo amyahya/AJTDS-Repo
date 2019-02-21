@@ -1,0 +1,93 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 11798,
+  "clippingMaskMode": 0,
+  "do_objectID": "500F7E90-6F92-4DAF-B1AA-E51F45C19B82",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 44,
+    "width": 360,
+    "x": 2771,
+    "y": 3576
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "C7E497CA-ED51-4488-AAA7-D9834557D1E0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "822D5777-62A7-4AEB-A4F9-1E1F5A5BC110"
+    },
+    {
+      "class": "group",
+      "id": "CB77B03B-7C83-4ABA-9F13-95B14C3464E4"
+    },
+    {
+      "class": "group",
+      "id": "99082CAE-54F4-4FF3-8C87-79AD9EB2CEC2"
+    },
+    {
+      "class": "group",
+      "id": "18EC8946-6B7E-49D2-9797-E7F91C526B38"
+    }
+  ],
+  "name": ".iOS / Sliders / _States / Default / 25%",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7A28767F-8384-46A3-B445-FD49EAD43913",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

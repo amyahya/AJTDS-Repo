@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "69AC06A1-147C-473A-89CB-7CC6EC870F6E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 96,
+    "width": 360,
+    "x": 0,
+    "y": 272
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "AA3EDABB-5F26-4824-84D7-F9E5E7883CC6"
+    },
+    {
+      "class": "text",
+      "id": "44DFB35D-CCB1-4C7B-BBB3-D1B0F9E05C20"
+    },
+    {
+      "class": "text",
+      "id": "6ABEFC0A-967C-4D2B-ADBE-A29FD641EC74"
+    },
+    {
+      "class": "text",
+      "id": "3C3B8B72-6274-4AF2-AF4C-ABB21C249A3F"
+    }
+  ],
+  "name": "A400",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

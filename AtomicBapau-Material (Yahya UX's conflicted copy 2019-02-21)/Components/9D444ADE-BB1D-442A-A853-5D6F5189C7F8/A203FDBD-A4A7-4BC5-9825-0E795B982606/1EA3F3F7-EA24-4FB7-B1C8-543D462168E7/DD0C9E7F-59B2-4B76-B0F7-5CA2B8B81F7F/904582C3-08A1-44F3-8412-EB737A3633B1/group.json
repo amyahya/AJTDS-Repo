@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "904582C3-08A1-44F3-8412-EB737A3633B1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2FF7764D-E687-4911-BB1A-963362A732A1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FA1A7BD3-0A8C-4F4B-AC07-AB06C15F6170",
+    "height": 88,
+    "width": 360,
+    "x": 456,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "2E8A7A8D-D8C5-4274-8DC0-31633CC396D7"
+    },
+    {
+      "class": "text",
+      "id": "F04B7D83-9669-4B4A-A923-2E8CCDA5E285"
+    }
+  ],
+  "name": "Message input",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CCB18D98-DB16-425B-9FFD-6AE0AFE18B05",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C383A0CF-300B-433F-A773-90F4A6FA99C5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "398A6568-D186-4ECE-9304-87E7563FDA71",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "0F21C25C-DB99-4942-91E4-F573AA356159",
+    "height": 28,
+    "width": 28,
+    "x": 16,
+    "y": 8
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "13CD93D3-A72B-43F3-B745-E96A4AE6D9DD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E43CACB9-AF20-4D79-ADF2-AEFE826C56C3"
+    }
+  ],
+  "name": "Knob",
+  "nameIsFixed": true,
+  "resizingConstraint": 43,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5655C58F-B14C-4E83-9BE3-67B9F1F466D3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

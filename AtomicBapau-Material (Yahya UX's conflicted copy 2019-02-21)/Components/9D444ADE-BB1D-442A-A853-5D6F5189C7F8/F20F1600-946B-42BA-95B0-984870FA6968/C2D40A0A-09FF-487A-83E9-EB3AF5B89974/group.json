@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C2D40A0A-09FF-487A-83E9-EB3AF5B89974",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 464,
+    "width": 360,
+    "x": 0,
+    "y": 599
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "522F5578-E56D-45D8-805D-6C861CF94A9C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CA48EF96-9C8B-4389-BDA7-799A138BEEAE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2E3D2E37-A3B3-474C-AD55-39CB856EB00C"
+    },
+    {
+      "class": "text",
+      "id": "4993C174-0544-48E4-B27A-18C307F7C51B"
+    }
+  ],
+  "name": "Extended app bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

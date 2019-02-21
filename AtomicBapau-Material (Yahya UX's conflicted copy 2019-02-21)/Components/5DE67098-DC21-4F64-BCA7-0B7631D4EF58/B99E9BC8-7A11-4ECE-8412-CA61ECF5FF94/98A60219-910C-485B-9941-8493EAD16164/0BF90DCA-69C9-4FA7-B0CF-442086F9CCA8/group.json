@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "0BF90DCA-69C9-4FA7-B0CF-442086F9CCA8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 330,
+    "width": 360,
+    "x": 0,
+    "y": 342
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "C9A41D48-581C-4CA5-BDFF-378DB373F475"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C943DB3D-9621-4673-AADF-6A7B5489B1DB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A31595DC-D6A4-41A5-84B0-CCF66741189E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2562CE9F-106B-43D5-BC07-12E338C92121"
+    }
+  ],
+  "name": "Grid-style + Header",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

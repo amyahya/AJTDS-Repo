@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "19C2FAF7-7FDB-4D65-9CFD-0ADC61AA8C66",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 687,
+    "width": 360,
+    "x": 96,
+    "y": 3821
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "E95F7355-A907-410D-BB9E-CEAD4F115BDD"
+    },
+    {
+      "class": "group",
+      "id": "5B621E04-7B4B-4078-8395-6E4B51BF431B"
+    },
+    {
+      "class": "group",
+      "id": "5EE0AC61-F094-4CD0-A7F1-FD6946761315"
+    },
+    {
+      "class": "text",
+      "id": "FED3C40F-6ABF-4AF2-B8C3-2505A3DCDCA5"
+    }
+  ],
+  "name": "Snackbar & toasts",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

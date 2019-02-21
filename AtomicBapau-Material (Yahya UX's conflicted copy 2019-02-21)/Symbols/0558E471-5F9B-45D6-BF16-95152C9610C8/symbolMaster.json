@@ -1,0 +1,99 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "7B25E625-EE3F-4444-BC53-FB93CAAA71B9",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 991,
+  "clippingMaskMode": 0,
+  "do_objectID": "0558E471-5F9B-45D6-BF16-95152C9610C8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0AA64A70-40A7-4CA4-8566-892D2B6DF602",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C17E2E2A-7E13-4382-9E12-C7E8A2770B90",
+    "height": 24,
+    "width": 128,
+    "x": 1252,
+    "y": 602
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "45FA9A49-455A-47F9-A88B-45B59AD45E71",
+    "gridSize": 8,
+    "isEnabled": false,
+    "thickGridTimes": 6
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "CC810842-ECD7-47A6-B47B-78B22D421404",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "47C852B3-04D0-4330-A4C8-61BF7767EEA3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B1D14413-C96E-403B-ADB5-8091E02BD768"
+    }
+  ],
+  "name": "action / icon + text",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "33C7039D-5B95-44AA-803E-1A2F9DD87D60",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A64318BA-7E8D-4B07-A734-CFBE43B6F311",
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": 1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "97A8881C-5F25-4B99-9591-ED869897A487",
+    "guides": [
+    ]
+  }
+}

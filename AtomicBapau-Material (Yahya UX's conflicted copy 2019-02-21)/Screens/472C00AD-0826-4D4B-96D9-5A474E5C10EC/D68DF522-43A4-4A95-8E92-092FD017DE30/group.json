@@ -1,0 +1,80 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D68DF522-43A4-4A95-8E92-092FD017DE30",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 670,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "E9172BF4-BC28-49F8-B24C-8884BA0B46EE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "94A203DF-812A-4FB9-A74E-CDC81DACBD0B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DE76F2B3-1FFD-4939-993B-90E093C54430"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CC9DF62E-4498-47F8-8B71-FB86B6BC177D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1FB29846-1361-4E51-94D1-E21EFBD02DEF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "22B78EA6-1E43-49AD-9937-FA63F6193654"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DD25DB8F-15EE-49CF-8F69-E1190C56B598"
+    }
+  ],
+  "name": "Contacts",
+  "nameIsFixed": true,
+  "resizingConstraint": 15,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

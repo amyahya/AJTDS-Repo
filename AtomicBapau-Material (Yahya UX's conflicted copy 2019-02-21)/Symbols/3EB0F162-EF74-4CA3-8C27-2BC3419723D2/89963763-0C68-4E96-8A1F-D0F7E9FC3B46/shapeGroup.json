@@ -1,0 +1,108 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "89963763-0C68-4E96-8A1F-D0F7E9FC3B46",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 22,
+    "width": 16,
+    "x": 4,
+    "y": 1
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "F3B9B153-F155-4E40-A111-B11204CC597C"
+    },
+    {
+      "class": "shapePath",
+      "id": "9E907D36-1736-41BC-A0BF-F7ABA023A582"
+    },
+    {
+      "class": "shapePath",
+      "id": "239D7290-CC70-415E-BB21-DB9536A7D6AF"
+    },
+    {
+      "class": "shapePath",
+      "id": "15584D2D-EC0E-4D8E-83DF-1F74CC09C570"
+    },
+    {
+      "class": "shapePath",
+      "id": "6325C591-D40B-4403-B169-3432842FC86E"
+    },
+    {
+      "class": "shapePath",
+      "id": "58D97252-092E-41D9-9CF7-E41E10EA1A25"
+    },
+    {
+      "class": "shapePath",
+      "id": "65B877E4-CEFF-4E0F-BB6D-C17ED91EA678"
+    },
+    {
+      "class": "shapePath",
+      "id": "2A5DCAF9-3C01-4E21-9755-559A56247681"
+    },
+    {
+      "class": "shapePath",
+      "id": "130DA0E3-5AC4-4431-9070-057ADE4CDE0B"
+    },
+    {
+      "class": "shapePath",
+      "id": "065C5F25-3F7B-480B-9E51-BA7B2F966512"
+    }
+  ],
+  "name": "Icon",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 22,
+            "enabled": 1,
+            "modelID": "constraint_13db2fc1-b404-41db-81ac-8afa3bed24af",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 16
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_6f2f436d-1dad-4216-8a78-b26eb29e563e",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "windingRule": 0
+}
