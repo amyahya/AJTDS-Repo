@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Regular",
-              "size": 17
+              "name": "OpenSans-Regular",
+              "size": 14
             }
           },
           "kerning": 0,
@@ -60,7 +60,7 @@
     "x": 8,
     "y": 4
   },
-  "glyphBounds": "{{1, 0}, {40, 14}}",
+  "glyphBounds": "{{1, 1}, {34, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -74,6 +74,7 @@
   "resizingConstraint": 42,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "FFAA22B9-4EAF-4046-A686-B81C3FB4CA9E",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -94,8 +95,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Regular",
-            "size": 17
+            "name": "OpenSans-Regular",
+            "size": 14
           }
         },
         "kerning": 0,

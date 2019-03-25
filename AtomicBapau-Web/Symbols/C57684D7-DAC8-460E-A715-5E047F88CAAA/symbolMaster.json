@@ -8,12 +8,21 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5657,
+  "changeIdentifier": 5659,
   "clippingMaskMode": 0,
   "do_objectID": "C57684D7-DAC8-460E-A715-5E047F88CAAA",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -62,12 +71,12 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "A940586F-66C8-4E24-A5A0-56D2D01679AF_layerStyle"
+      "overrideName": "A940586F-66C8-4E24-A5A0-56D2D01679AF_image"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "A940586F-66C8-4E24-A5A0-56D2D01679AF_image"
+      "overrideName": "A940586F-66C8-4E24-A5A0-56D2D01679AF_layerStyle"
     }
   ],
   "resizesContent": true,

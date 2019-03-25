@@ -16,18 +16,17 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Regular",
-              "size": 20
+              "name": "Montserrat-Regular",
+              "size": 18
             }
           },
-          "kerning": 0,
+          "MSAttributedStringTextTransformAttribute": 0,
+          "kerning": 0.09,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "baseWritingDirection": 0,
-            "headerLevel": 2,
-            "maximumLineHeight": 26,
-            "minimumLineHeight": 26
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24
           }
         },
         "length": 4,
@@ -54,11 +53,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 30,
-    "width": 42,
+    "width": 45,
     "x": 38,
     "y": 0
   },
-  "glyphBounds": "{{1, 5}, {39, 20}}",
+  "glyphBounds": "{{0, 4}, {42, 18}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -72,6 +71,7 @@
   "resizingConstraint": 42,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "A706A525-7D92-4144-89DD-82E97FC9784F",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -92,18 +92,17 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Regular",
-            "size": 20
+            "name": "Montserrat-Regular",
+            "size": 18
           }
         },
-        "kerning": 0,
+        "MSAttributedStringTextTransformAttribute": 0,
+        "kerning": 0.09,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "baseWritingDirection": 0,
-          "headerLevel": 2,
-          "maximumLineHeight": 26,
-          "minimumLineHeight": 26
+          "maximumLineHeight": 24,
+          "minimumLineHeight": 24
         }
       },
       "verticalAlignment": 1
