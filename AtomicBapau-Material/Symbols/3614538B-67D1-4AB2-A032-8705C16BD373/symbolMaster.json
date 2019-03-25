@@ -28,6 +28,9 @@
     "x": 2211,
     "y": 1483
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -67,6 +70,28 @@
   ],
   "name": "05. Lists / 1 Line / Body 2 + Secondary text",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5FDCB5AE-37C4-47B8-9BC4-C194EC100CC2_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "91A7CBB2-B325-4330-9FD9-B8DD06106A44_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C90FA0C0-7DEB-49A8-8518-719CCBDB3A17_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F8F9D0F3-D5B9-4AAA-B2B4-1560BA8254A4_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

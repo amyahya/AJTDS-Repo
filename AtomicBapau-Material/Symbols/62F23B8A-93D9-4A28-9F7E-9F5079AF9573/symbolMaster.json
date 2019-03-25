@@ -28,6 +28,9 @@
     "x": 2211,
     "y": 3609
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -67,6 +70,28 @@
   ],
   "name": ".iOS / Table view cells / Large / L Detail + R Detail (Icon + Next)",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "448F7D7F-4701-4F8C-ADFE-87930D982648_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "FAF5C2AE-D3AD-4345-B1F9-A0337697DF17_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "9CF87048-6E1A-42F3-9E2D-B933E264E059_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A6CB15A6-75F7-47EB-A91C-A12F8EE8E2CB_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

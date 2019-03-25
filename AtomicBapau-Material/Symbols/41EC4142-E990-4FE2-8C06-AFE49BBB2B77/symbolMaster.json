@@ -31,6 +31,9 @@
     "x": 3891,
     "y": 3811
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -79,6 +82,53 @@
   ],
   "name": ".iOS / Navigation Bars / L,R Details + Large Title + Search Bar",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "28E04264-30CA-48E1-B19A-58FA07A6089D_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5A6BB347-3892-4CBB-B461-8C568FCF97D8_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "ED2B7635-E403-4DD7-AA40-26700A62E40C_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1E6DBBAA-A893-4C83-8F76-BA57F7CE7F67_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "9DE0E212-C56C-4280-BD94-9133B668B3AB_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0BE54C21-57EA-40A0-BCA7-CD77311F9A3A_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "3B5FA8A6-EA89-4B21-983B-8242BFFF8EAA_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C0C59D84-A9FF-47FB-B415-79A46EF53978_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "80E8C3D6-1DAC-4D96-9767-ADD6DAA0E914_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

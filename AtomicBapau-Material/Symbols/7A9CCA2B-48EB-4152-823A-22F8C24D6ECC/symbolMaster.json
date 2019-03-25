@@ -28,6 +28,9 @@
     "x": 1651,
     "y": 1981
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -63,6 +66,33 @@
   ],
   "name": "02. Bottom navigation / App Bar / Centered FAB / Overlapping / Circular",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "18759919-7F7B-4330-905E-6E71BC26DBDB_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "7D36CD2A-0C6F-4705-BDE6-F69C540F4C77_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "48F8D7CB-9F4D-4223-A8C5-058D816A985E_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B21810F9-1A43-4098-B74E-E7CCB2795334_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B21810F9-1A43-4098-B74E-E7CCB2795334_image"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

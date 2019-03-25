@@ -31,6 +31,9 @@
     "x": 3891,
     "y": 3449
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -75,6 +78,33 @@
   ],
   "name": ".iOS / Navigation Bars / L, R Detail + Title",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8B3FFE44-2BAD-464A-BF18-047CC451B87F_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B539E6F5-456E-47AE-A8CB-C577977F7E87_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "DC6A9C0C-654D-4365-B57C-52FD533ACD20_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "32926CC3-A7E9-416C-BE8F-39A00D5AD4F5_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "7862FA1D-2F4D-4474-AF63-9AEC26684E93_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -28,6 +28,9 @@
     "x": 6233,
     "y": 1423
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -55,6 +58,23 @@
   ],
   "name": "_Resources / Containers / Ripple (24%) / Radius: 04",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "A37E1B70-49F6-4563-9EF2-38C840FC3706/0AABF286-D213-4ABD-A844-56DD71604C94_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "A37E1B70-49F6-4563-9EF2-38C840FC3706_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "69DE6FF7-2684-4CA3-A488-33AE929A6B4B_layerStyle"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

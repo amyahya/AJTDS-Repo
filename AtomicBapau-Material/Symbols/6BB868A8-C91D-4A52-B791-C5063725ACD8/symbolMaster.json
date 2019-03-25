@@ -28,6 +28,9 @@
     "x": 2211,
     "y": -173
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -75,6 +78,38 @@
   ],
   "name": "04. Tabs / Fixed / Icon or Text / 5 Items",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "2D9C2A3A-C712-4D25-B8BE-8D99CB90823B_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "25ED96CF-4A6B-45AC-AC5A-C84C779A3F05_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "EC45DC90-6BD7-4AD0-AA2A-5134DFCC124A_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "78A14752-4747-44E0-805B-26F2A2321061_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "FACFDE39-8241-469D-A5BD-7A650F95EC50_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "29A67FAA-F287-4FF5-8266-B65FE9BFD9DE_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

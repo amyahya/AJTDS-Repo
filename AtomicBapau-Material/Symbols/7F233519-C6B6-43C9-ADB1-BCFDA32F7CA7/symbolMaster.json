@@ -28,6 +28,9 @@
     "x": 1651,
     "y": 3769
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -67,6 +70,28 @@
   ],
   "name": ".iOS / Table view cells / Default / L Detail + R Detail (Switch - Off)",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "77014A16-FB03-4993-81EF-338F37B9422C_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8ADEF7BD-6CFE-46F0-BCC9-B7D79D516FDD_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "04AD7B80-2052-4DD6-B4B3-50EB35580F29_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "AE26685F-7CBD-4179-8A53-541E99C6361E_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

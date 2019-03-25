@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "43272E4D-1439-48CA-B84A-98F070D20B10",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CF952272-E6E8-49E6-B630-EE02296D467F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7669DCC6-1BB4-4465-83B1-BAD89D4A14A8",
+    "height": 235,
+    "width": 235,
+    "x": 1065,
+    "y": 430
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "34240A87-C710-42D7-B167-363F395D223E"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "1E81C20C-D4C9-4B91-BEE6-FD1E2C49564D"
+    },
+    {
+      "class": "rectangle",
+      "id": "85029C0B-D7EE-4449-B780-D3978F4F2971"
+    },
+    {
+      "class": "text",
+      "id": "090791C4-D829-47C4-B3F5-D8AAF3B6BEE7"
+    }
+  ],
+  "name": "Snow",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F42C6FE5-6411-4EE4-A760-11B038EBF877",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

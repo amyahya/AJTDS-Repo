@@ -28,6 +28,9 @@
     "x": 5545,
     "y": 1787
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -71,6 +74,33 @@
   ],
   "name": "_Resources / App Icons / L icon + 4 R icons",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "9ED8BF23-FA57-4B94-A6A6-F949A7FC8DE9_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5C6CAF38-DAF7-4ACA-8A2F-255041817D16_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "88060606-0408-4CA5-839A-F8344E25679A_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8CF728CC-DD9A-4A64-96F9-27F1E38D10F1_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "4AAB73ED-4DB9-49CD-8925-B0A627A02F51_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

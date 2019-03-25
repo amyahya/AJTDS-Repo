@@ -28,6 +28,9 @@
     "x": 3869,
     "y": 1793
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -63,6 +66,33 @@
   ],
   "name": "13. Cards / Small / Image + 2 Line header",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "42AFED8F-7B88-47ED-AEB1-2CD2BE1D93D0_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "840B00CB-9698-4671-8AF7-70C9B383B38E_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F150C3BD-B936-4ED8-A714-EF657653C2BA_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "42AFED8F-7B88-47ED-AEB1-2CD2BE1D93D0_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5300F915-1DCA-4DBE-ACB4-7F4B3C3B9BE3_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

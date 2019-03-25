@@ -37,6 +37,9 @@
     "isEnabled": true,
     "thickGridTimes": 40
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -80,6 +83,8 @@
   },
   "name": "✱ / Color / Surface / Base",
   "nameIsFixed": true,
+  "overrideProperties": [
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

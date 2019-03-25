@@ -28,6 +28,9 @@
     "x": 1651,
     "y": 1031
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -59,6 +62,63 @@
   ],
   "name": "01. Toolbars / Status bar / iOS / Light background + Dark contents",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "FE9DCBFF-E68B-4E23-8330-955A4F1AC2DC_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "2373E712-B53C-48B5-AEE0-DD3EB19FADCA_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "BC402E28-4958-4E5E-861E-6B94DFF2AF63_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "89AEDF81-A8C2-4B89-8AC5-01D42A67D448_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "2373E712-B53C-48B5-AEE0-DD3EB19FADCA_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0301945B-19AF-4690-BC1E-DE792FE0852F_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "FE9DCBFF-E68B-4E23-8330-955A4F1AC2DC_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "C3D2E89D-0E3B-4859-B24D-AD6B1EAC90B1_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "89AEDF81-A8C2-4B89-8AC5-01D42A67D448_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "BC402E28-4958-4E5E-861E-6B94DFF2AF63_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "C3D2E89D-0E3B-4859-B24D-AD6B1EAC90B1_image"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 3073,
+  "changeIdentifier": 3089,
   "clippingMaskMode": 0,
   "do_objectID": "01F637BC-0F69-4764-BD41-5EF5ED181DE9",
   "exportOptions": {
@@ -71,6 +71,11 @@
   "name": "Data / Cell / Small / L Icon + Text + R Icons",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "52E230A9-1CE3-447E-ADB9-AA7BA47D02FF_textStyle"
+    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,

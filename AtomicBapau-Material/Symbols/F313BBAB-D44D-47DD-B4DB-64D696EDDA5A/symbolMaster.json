@@ -28,6 +28,9 @@
     "x": 1651,
     "y": 751
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -71,6 +74,33 @@
   ],
   "name": "01. Toolbars / Extended app bar + Breadcrumbs / L Icon + Title + 3 App icons + Menu",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "7AD4B9DF-C2E8-407D-907C-42F28F41ABD5_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0B2304B4-7446-498E-9BA5-6959FEA2681A_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "BF06D64A-625E-477D-BDE0-9C8AB69DDAEF_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "80285651-5D1D-4944-8610-278833217DAD_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "77807D1E-C652-4CF7-9A1D-DD05056D179E_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

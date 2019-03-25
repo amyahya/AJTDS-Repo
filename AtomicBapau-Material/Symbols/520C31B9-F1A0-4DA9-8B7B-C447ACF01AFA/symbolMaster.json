@@ -28,6 +28,9 @@
     "x": 5205,
     "y": 1717
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -59,6 +62,38 @@
   ],
   "name": "17. Steppers / _States / Progress / 40%",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "EA55EC6F-7B41-4D8F-B578-422FF5CE97AF_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A64E148F-DE60-4E47-B3C6-964E3A6DC6C3_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "36AC77F4-A771-4699-8F4D-CE1A0E6CA3A9_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D9EDF2F6-CFDA-4E3A-AFB7-434DAA3B0939_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "EA55EC6F-7B41-4D8F-B578-422FF5CE97AF_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D9EDF2F6-CFDA-4E3A-AFB7-434DAA3B0939_image"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

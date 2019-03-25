@@ -28,6 +28,9 @@
     "x": 2771,
     "y": 3896
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -75,6 +78,43 @@
   ],
   "name": ".iOS / Sliders / _States / w Icons / _00%",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6F0AB954-F19E-49B1-BB47-8F3F49F89D35_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0A508550-1CB0-4A3A-90E2-E17FE791E1DD_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B7B7E74A-4675-440C-9953-CE17B1BAF12F_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1498BB46-3E54-4753-A608-732DA138B747_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "3C8461BD-D506-474D-87D8-117FFC1DB318_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "73FCE106-1D7E-4271-9286-7399065DF682_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "3C8461BD-D506-474D-87D8-117FFC1DB318/DDC5AAE5-AAB6-4424-B6A3-1E1BF895DACC_layerStyle"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

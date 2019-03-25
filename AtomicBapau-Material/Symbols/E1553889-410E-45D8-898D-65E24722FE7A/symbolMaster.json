@@ -28,6 +28,9 @@
     "x": 5545,
     "y": 1663
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -59,6 +62,33 @@
   ],
   "name": "_Resources / Keyboards / Toolbars / Message input",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0FC14A84-1AB0-4121-9749-D2EBBE8F0458_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "09CBF79A-DAB6-45CF-9D07-5D730DD0EE2F_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5458B1E8-5D71-4D95-9757-15D1EF8AF1AD_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "359E49BD-6396-448A-972F-D8ED87A1BB26_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "03D3F4D9-A4B6-4012-8437-6BAA180430FA_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

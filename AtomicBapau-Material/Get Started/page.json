@@ -20,6 +20,9 @@
     "x": 0,
     "y": 0
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -59,6 +62,46 @@
     {
       "class": "rectangle",
       "id": "3CACBF26-1047-4008-B974-6C1B3B6EB35F"
+    },
+    {
+      "class": "bitmap",
+      "id": "B8FC219A-EF33-4572-9BB3-BFAE6C38DB12"
+    },
+    {
+      "class": "bitmap",
+      "id": "4B07A441-18E3-42F2-A665-A866AFA7FE70"
+    },
+    {
+      "class": "bitmap",
+      "id": "3B5D15B3-754D-4216-A34E-2FA3AF1F0F83"
+    },
+    {
+      "class": "bitmap",
+      "id": "14B7BC37-0E4F-4693-878B-668BA7C71CF4"
+    },
+    {
+      "class": "bitmap",
+      "id": "4694EB61-05BF-4484-955C-F1BDC0CB5C99"
+    },
+    {
+      "class": "oval",
+      "id": "36B87857-E278-4D73-82EA-FFBF7CF40C79"
+    },
+    {
+      "class": "oval",
+      "id": "BFAD1936-7AAA-4121-8499-9C6DDAE1DC8B"
+    },
+    {
+      "class": "oval",
+      "id": "58DB7B59-A0CF-4B4B-976D-65DCE4F6AE53"
+    },
+    {
+      "class": "group",
+      "id": "A9880D51-B76A-4A9A-8B73-EAD308A874F9"
+    },
+    {
+      "class": "group",
+      "id": "CE85DB36-7D10-4E27-AF30-770096C83297"
     }
   ],
   "name": "Get Started",
@@ -76,6 +119,7 @@
   },
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
+      "com.animaapp.uses.anima": 1,
       "kModelPropertiesKey": {
       }
     }

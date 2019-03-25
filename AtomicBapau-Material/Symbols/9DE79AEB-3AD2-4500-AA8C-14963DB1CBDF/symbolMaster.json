@@ -28,6 +28,9 @@
     "x": 1651,
     "y": 1087
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -55,6 +58,58 @@
   ],
   "name": "01. Toolbars / Status bar / _Assets / Contents - Dark",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "6335BE41-E417-4B11-8EA6-602A8AAFFB29/8FC347F8-41B5-45E2-939E-A676748DE118_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "BD347401-0FCF-4675-8D7D-76482DAC906E/25FCE519-6BB2-4ABE-8968-726AA36DBEB0_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "BD347401-0FCF-4675-8D7D-76482DAC906E_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "6335BE41-E417-4B11-8EA6-602A8AAFFB29/8FC347F8-41B5-45E2-939E-A676748DE118/A6DB1099-CB1C-4D50-AB3C-663B8575ACA0_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "BD347401-0FCF-4675-8D7D-76482DAC906E/25FCE519-6BB2-4ABE-8968-726AA36DBEB0/A6DB1099-CB1C-4D50-AB3C-663B8575ACA0_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "6335BE41-E417-4B11-8EA6-602A8AAFFB29_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "F3DE9A32-77D2-409E-953B-2FCDA83039DE/0A9D9BAE-81F8-406E-9699-E7D484E7E446_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "4F1B6136-361F-4531-BA61-7E74CDAEFCEA_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "F3DE9A32-77D2-409E-953B-2FCDA83039DE_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "F3DE9A32-77D2-409E-953B-2FCDA83039DE/0A9D9BAE-81F8-406E-9699-E7D484E7E446/A6DB1099-CB1C-4D50-AB3C-663B8575ACA0_layerStyle"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

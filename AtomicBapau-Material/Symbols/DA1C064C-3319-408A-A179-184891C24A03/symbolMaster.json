@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1074,
+  "changeIdentifier": 1084,
   "clippingMaskMode": 0,
   "do_objectID": "DA1C064C-3319-408A-A179-184891C24A03",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 50,
     "x": -391,
     "y": -307
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,18 @@
   ],
   "name": "00. Style / Color / Secondary / Green 500",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "AB8D76AE-D1B6-4385-B0B0-2E1F92598D1F_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "AB8D76AE-D1B6-4385-B0B0-2E1F92598D1F_layerStyle"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

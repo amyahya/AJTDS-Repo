@@ -31,6 +31,9 @@
     "x": 5719,
     "y": 3744
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -63,6 +66,28 @@
   ],
   "name": ".iOS / _Resources / Cell / Right detail / Icon + Next Icon",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B7A9D70B-781E-4786-9B0B-5C78639F9B64_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "618DF648-468A-42A4-BC51-F38895B184B6/8F84A443-CA38-498E-8E2F-0BAC62EB5D59/9F3C0B10-7DCE-4133-8FB2-EF7DB0C595F6_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "618DF648-468A-42A4-BC51-F38895B184B6/8F84A443-CA38-498E-8E2F-0BAC62EB5D59_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "618DF648-468A-42A4-BC51-F38895B184B6_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -28,6 +28,9 @@
     "x": 4989,
     "y": 1593
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -71,6 +74,43 @@
   ],
   "name": "17. Steppers / L, R Text buttons + Steps",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "279A8AB0-86B0-40D4-AADF-12263D8EFBA1_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "DF85CB51-334B-4C57-9FEB-2CB098A15AC4_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6DAF0505-7236-4082-9F3F-B1F06AC0EFBE_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6DAF0505-7236-4082-9F3F-B1F06AC0EFBE_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "769CDFF2-D0E6-40DC-A1B9-25D2961F83E8_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C8FD1547-5492-4F74-BEF0-9ADFAB891891_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "FF537ACD-5694-4CE8-8DDD-0F5D6E60CFCD_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

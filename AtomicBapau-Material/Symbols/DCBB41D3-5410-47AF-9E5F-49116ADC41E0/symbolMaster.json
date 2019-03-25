@@ -28,6 +28,9 @@
     "x": 4451,
     "y": 3599
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -63,6 +66,43 @@
   ],
   "name": ".iOS / Action sheets / 2 Options",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "F29AD221-8217-4DBC-B8C2-60D6C53D134A/BCC3AFC3-007F-4088-B15F-522F7BF34823/69B79846-23C0-440D-B290-793058447B13_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "F29AD221-8217-4DBC-B8C2-60D6C53D134A/8A33139C-3591-4232-B54F-C6BDFF0E8EB5_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "F29AD221-8217-4DBC-B8C2-60D6C53D134A/BCC3AFC3-007F-4088-B15F-522F7BF34823_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D381359B-B6E2-4A55-A125-4F075CCF7AE6_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "F29AD221-8217-4DBC-B8C2-60D6C53D134A_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1FE09C38-6755-436B-9467-8BB549171DAF_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "BA8B19DE-109F-46B5-9C06-7BDCA7D65234_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

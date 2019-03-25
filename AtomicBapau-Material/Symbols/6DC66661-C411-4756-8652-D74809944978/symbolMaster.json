@@ -28,6 +28,9 @@
     "x": 5719,
     "y": 4000
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -63,6 +66,33 @@
   ],
   "name": ".iOS / _Resources / Cell / Right detail / Subheader + R Icon + Next Icon",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F912DB80-8878-4E9B-85F2-08623C4CBF78_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "F1AA7C91-9F8D-41DC-9427-815D305FDD0A/8F84A443-CA38-498E-8E2F-0BAC62EB5D59_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "F1AA7C91-9F8D-41DC-9427-815D305FDD0A/8F84A443-CA38-498E-8E2F-0BAC62EB5D59/9F3C0B10-7DCE-4133-8FB2-EF7DB0C595F6_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "F1AA7C91-9F8D-41DC-9427-815D305FDD0A_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D2C0234B-4515-408E-A898-D80AC0C572F3_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

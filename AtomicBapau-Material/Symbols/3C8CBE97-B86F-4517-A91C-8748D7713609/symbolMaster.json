@@ -31,6 +31,9 @@
     "x": 1166,
     "y": 454
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -87,6 +90,53 @@
   ],
   "name": "01. Toolbars / Extended app bar / L Icon + Title + 1 icons + 2 Tab (txt)",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E28489E1-BCC2-44CE-94D6-E074C65D6FE1_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "ABB4CAC7-ABEB-4389-A277-F9B371ACD8A5_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6E2CE737-D11E-4C55-BFD5-328EF33F220F_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "7AEE2D8F-ED74-4D71-87E6-6D013813E7D2_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "ABB4CAC7-ABEB-4389-A277-F9B371ACD8A5_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "4C3A4C6A-E964-4170-87CB-9ABF21515850_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "FB082641-31D1-4898-BD6E-571CCA983921_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C0BB81F7-B60F-4096-94CA-1327EA5534E1_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A1373999-17DC-4FFC-AEB3-74854C6D0F2E_symbolID"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A6A9C316-DEEA-4AC4-8A22-4A00410BCDD7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B229EA64-0E04-4DEB-BFCF-487FEA1967BC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "742BEC9B-F974-46D7-9EB0-A5DD5440CACC",
+    "height": 235,
+    "width": 235,
+    "x": 0,
+    "y": 131
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "2F8D4CB9-5396-4160-B9CD-04C4B5D89468"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "ECCF5092-2119-4ABA-8A3C-62559D2F1357"
+    },
+    {
+      "class": "text",
+      "id": "4DB49D64-796F-4B75-AE45-1E2C40C7EBE1"
+    }
+  ],
+  "name": "Navi",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1A5361B8-A1D2-4832-8797-8B66D0E77393",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

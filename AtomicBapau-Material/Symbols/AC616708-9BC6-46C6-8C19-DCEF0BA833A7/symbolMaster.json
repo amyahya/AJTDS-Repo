@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 960,
+  "changeIdentifier": 965,
   "clippingMaskMode": 0,
   "do_objectID": "AC616708-9BC6-46C6-8C19-DCEF0BA833A7",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 50,
     "x": -391,
     "y": -377
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,18 @@
   ],
   "name": "00. Style / Color / Primary / Indigo 500",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F38423B4-E78A-4DE7-BC66-AACB8ED64117_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F38423B4-E78A-4DE7-BC66-AACB8ED64117_image"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

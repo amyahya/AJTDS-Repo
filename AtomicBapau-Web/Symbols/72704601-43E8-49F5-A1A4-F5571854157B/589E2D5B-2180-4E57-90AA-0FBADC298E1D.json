@@ -16,18 +16,18 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Regular",
-              "size": 20
+              "name": "OpenSans-Bold",
+              "size": 14
             }
           },
-          "kerning": 0,
+          "kerning": 0.2,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
             "baseWritingDirection": 0,
             "headerLevel": 2,
-            "maximumLineHeight": 26,
-            "minimumLineHeight": 26
+            "maximumLineHeight": 14,
+            "minimumLineHeight": 14
           }
         },
         "length": 8,
@@ -53,12 +53,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 26,
+    "height": 14,
     "width": 124,
     "x": 0,
-    "y": -1
+    "y": 5
   },
-  "glyphBounds": "{{1, 5}, {89, 20}}",
+  "glyphBounds": "{{1, 1}, {72, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -72,6 +72,7 @@
   "resizingConstraint": 42,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "041F4FAB-7C5B-4030-8BE1-5A463FA53320",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -92,21 +93,21 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Regular",
-            "size": 20
+            "name": "OpenSans-Bold",
+            "size": 14
           }
         },
-        "kerning": 0,
+        "kerning": 0.2,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
           "baseWritingDirection": 0,
           "headerLevel": 2,
-          "maximumLineHeight": 26,
-          "minimumLineHeight": 26
+          "maximumLineHeight": 14,
+          "minimumLineHeight": 14
         }
       },
-      "verticalAlignment": 1
+      "verticalAlignment": 0
     },
     "windingRule": 1
   },

@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "65B045BA-DA7F-4DF0-8589-DB5978B256CC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9751D287-3AE5-4E56-899F-B00540ADC8F6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C048FAEA-AEC1-4F19-ACFC-DE97E92D48AB",
+    "height": 235,
+    "width": 235,
+    "x": 533,
+    "y": 131
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "6A36B358-233C-44E0-89D2-C0CBFD29853E"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "958A6F0B-5BEF-4D97-8A2F-552F8E960745"
+    },
+    {
+      "class": "text",
+      "id": "B689517D-29CB-4704-9C1B-2EE1965C0D37"
+    }
+  ],
+  "name": "Miami",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F166E837-7016-4366-9256-F8D2C22A760D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

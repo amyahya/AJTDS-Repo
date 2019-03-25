@@ -28,6 +28,9 @@
     "x": 1651,
     "y": 1127
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -55,6 +58,58 @@
   ],
   "name": "01. Toolbars / Status bar / _Assets / Contents - Light",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "CBBA7069-9163-4DE1-A9C4-1ADA3EE6DBBE/25FCE519-6BB2-4ABE-8968-726AA36DBEB0_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "DDB694CF-1983-4324-8198-13C74CEDC8E5/8FC347F8-41B5-45E2-939E-A676748DE118_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "5424D6C0-DABA-4D76-AF9D-DC3AFF2B4576_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "CBBA7069-9163-4DE1-A9C4-1ADA3EE6DBBE/25FCE519-6BB2-4ABE-8968-726AA36DBEB0/DDC5AAE5-AAB6-4424-B6A3-1E1BF895DACC_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "CBBA7069-9163-4DE1-A9C4-1ADA3EE6DBBE_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "BFE85DE7-BC19-4B88-82DA-459B39A2B9B8_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "DDB694CF-1983-4324-8198-13C74CEDC8E5/8FC347F8-41B5-45E2-939E-A676748DE118/DDC5AAE5-AAB6-4424-B6A3-1E1BF895DACC_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "5424D6C0-DABA-4D76-AF9D-DC3AFF2B4576/0A9D9BAE-81F8-406E-9699-E7D484E7E446/DDC5AAE5-AAB6-4424-B6A3-1E1BF895DACC_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "DDB694CF-1983-4324-8198-13C74CEDC8E5_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "5424D6C0-DABA-4D76-AF9D-DC3AFF2B4576/0A9D9BAE-81F8-406E-9699-E7D484E7E446_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
